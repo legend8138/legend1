@@ -11539,7 +11539,7 @@ MARS100.on("message", message => {
 
 /// by mars
 
-MARS.login("");
+MARS.login("NjE2Mjk5OTczNzcxOTE5Mzky.XWakgw.1AB8NQVSh9_LG1ChSjHsaGLoaY");
 MARS2.login("");
 MARS3.login("");
 MARS4.login("");
