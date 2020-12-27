@@ -9,7 +9,7 @@ setInterval(() => {
   http.get(`http://spam-1-20.glitch.me/`);
 }, 280000);
 
-// 
+//
 //
 const Discord = require("discord.js");
 const Canvas = require("canvas");
@@ -18,318 +18,315 @@ const cmd = require("node-cmd");
 const config = require("./config.json");
 const prefix = config.prefix;
 
-/////// const by mars for 100 token ///////
+/////// const by PANDA for 100 token ///////
 
-const MARS = new Discord.Client();
-const MARS2 = new Discord.Client();
-const MARS3 = new Discord.Client();
-const MARS4 = new Discord.Client();
-const MARS5 = new Discord.Client();
-const MARS6 = new Discord.Client();
-const MARS7 = new Discord.Client();
-const MARS8 = new Discord.Client();
-const MARS9 = new Discord.Client();
-const MARS10 = new Discord.Client();
-const MARS11 = new Discord.Client();
-const MARS12 = new Discord.Client();
-const MARS13 = new Discord.Client();
-const MARS14 = new Discord.Client();
-const MARS15 = new Discord.Client();
-const MARS16 = new Discord.Client();
-const MARS17 = new Discord.Client();
-const MARS18 = new Discord.Client();
-const MARS19 = new Discord.Client();
-const MARS20 = new Discord.Client();
-const MARS21 = new Discord.Client();
-const MARS22 = new Discord.Client();
-const MARS23 = new Discord.Client();
-const MARS24 = new Discord.Client();
-const MARS25 = new Discord.Client();
-const MARS26 = new Discord.Client();
-const MARS27 = new Discord.Client();
-const MARS28 = new Discord.Client();
-const MARS29 = new Discord.Client();
-const MARS30 = new Discord.Client();
-const MARS31 = new Discord.Client();
-const MARS32 = new Discord.Client();
-const MARS33 = new Discord.Client();
-const MARS34 = new Discord.Client();
-const MARS35 = new Discord.Client();
-const MARS36 = new Discord.Client();
-const MARS37 = new Discord.Client();
-const MARS38 = new Discord.Client();
-const MARS39 = new Discord.Client();
-const MARS40 = new Discord.Client();
-const MARS41 = new Discord.Client();
-const MARS42 = new Discord.Client();
-const MARS43 = new Discord.Client();
-const MARS44 = new Discord.Client();
-const MARS45 = new Discord.Client();
-const MARS46 = new Discord.Client();
-const MARS47 = new Discord.Client();
-const MARS48 = new Discord.Client();
-const MARS49 = new Discord.Client();
-const MARS50 = new Discord.Client();
-const MARS51 = new Discord.Client();
-const MARS52 = new Discord.Client();
-const MARS53 = new Discord.Client();
-const MARS54 = new Discord.Client();
-const MARS55 = new Discord.Client();
-const MARS56 = new Discord.Client();
-const MARS57 = new Discord.Client();
-const MARS58 = new Discord.Client();
-const MARS59 = new Discord.Client();
-const MARS60 = new Discord.Client();
-const MARS61 = new Discord.Client();
-const MARS62 = new Discord.Client();
-const MARS63 = new Discord.Client();
-const MARS64 = new Discord.Client();
-const MARS65 = new Discord.Client();
-const MARS66 = new Discord.Client();
-const MARS67 = new Discord.Client();
-const MARS68 = new Discord.Client();
-const MARS69 = new Discord.Client();
-const MARS70 = new Discord.Client();
-const MARS71 = new Discord.Client();
-const MARS72 = new Discord.Client();
-const MARS73 = new Discord.Client();
-const MARS74 = new Discord.Client();
-const MARS75 = new Discord.Client();
-const MARS76 = new Discord.Client();
-const MARS77 = new Discord.Client();
-const MARS78 = new Discord.Client();
-const MARS79 = new Discord.Client();
-const MARS80 = new Discord.Client();
-const MARS81 = new Discord.Client();
-const MARS82 = new Discord.Client();
-const MARS83 = new Discord.Client();
-const MARS84 = new Discord.Client();
-const MARS85 = new Discord.Client();
-const MARS86 = new Discord.Client();
-const MARS87 = new Discord.Client();
-const MARS88 = new Discord.Client();
-const MARS89 = new Discord.Client();
-const MARS90 = new Discord.Client();
-const MARS91 = new Discord.Client();
-const MARS92 = new Discord.Client();
-const MARS93 = new Discord.Client();
-const MARS94 = new Discord.Client();
-const MARS95 = new Discord.Client();
-const MARS96 = new Discord.Client();
-const MARS97 = new Discord.Client();
-const MARS98 = new Discord.Client();
-const MARS99 = new Discord.Client();
-const MARS100 = new Discord.Client();
-const MARS101 = new Discord.Client();
-const MARS102 = new Discord.Client();
-const MARS103 = new Discord.Client();
-const MARS104 = new Discord.Client();
-const MARS105 = new Discord.Client();
-const MARS106 = new Discord.Client();
-const MARS107 = new Discord.Client();
-const MARS108 = new Discord.Client();
-const MARS109 = new Discord.Client();
-const MARS110 = new Discord.Client();
-const MARS111 = new Discord.Client();
-const MARS112 = new Discord.Client();
-const MARS113 = new Discord.Client();
-const MARS114 = new Discord.Client();
-const MARS115 = new Discord.Client();
-const MARS116 = new Discord.Client();
-const MARS117 = new Discord.Client();
-const MARS118 = new Discord.Client();
-const MARS119 = new Discord.Client();
-const MARS120 = new Discord.Client();
-const MARS121 = new Discord.Client();
-const MARS122 = new Discord.Client();
-const MARS123 = new Discord.Client();
-const MARS124 = new Discord.Client();
-const MARS125 = new Discord.Client();
-const MARS126 = new Discord.Client();
-const MARS127 = new Discord.Client();
-const MARS128 = new Discord.Client();
-const MARS129 = new Discord.Client();
-const MARS130 = new Discord.Client();
-const MARS131 = new Discord.Client();
-const MARS132 = new Discord.Client();
-const MARS133 = new Discord.Client();
-const MARS134 = new Discord.Client();
-const MARS135 = new Discord.Client();
-const MARS136 = new Discord.Client();
-const MARS137 = new Discord.Client();
-const MARS138 = new Discord.Client();
-const MARS139 = new Discord.Client();
-const MARS140 = new Discord.Client();
-const MARS141 = new Discord.Client();
-const MARS142 = new Discord.Client();
-const MARS143 = new Discord.Client();
-const MARS144 = new Discord.Client();
-const MARS145 = new Discord.Client();
-const MARS146 = new Discord.Client();
-const MARS147 = new Discord.Client();
-const MARS148 = new Discord.Client();
-const MARS149 = new Discord.Client();
-const MARS150 = new Discord.Client();
-const MARS151 = new Discord.Client();
-const MARS152 = new Discord.Client();
-const MARS153 = new Discord.Client();
-const MARS154 = new Discord.Client();
-const MARS155 = new Discord.Client();
-const MARS156 = new Discord.Client();
-const MARS157 = new Discord.Client();
-const MARS158 = new Discord.Client();
-const MARS159 = new Discord.Client();
-const MARS160 = new Discord.Client();
-const MARS161 = new Discord.Client();
-const MARS162 = new Discord.Client();
-const MARS163 = new Discord.Client();
-const MARS164 = new Discord.Client();
-const MARS165 = new Discord.Client();
-const MARS166 = new Discord.Client();
-const MARS167 = new Discord.Client();
-const MARS168 = new Discord.Client();
-const MARS169 = new Discord.Client();
-const MARS170 = new Discord.Client();
-const MARS171 = new Discord.Client();
-const MARS172 = new Discord.Client();
-const MARS173 = new Discord.Client();
-const MARS174 = new Discord.Client();
-const MARS175 = new Discord.Client();
-const MARS176 = new Discord.Client();
-const MARS177 = new Discord.Client();
-const MARS178 = new Discord.Client();
-const MARS179 = new Discord.Client();
-const MARS180 = new Discord.Client();
-const MARS181 = new Discord.Client();
-const MARS182 = new Discord.Client();
-const MARS183 = new Discord.Client();
-const MARS184 = new Discord.Client();
-const MARS185 = new Discord.Client();
-const MARS186 = new Discord.Client();
-const MARS187 = new Discord.Client();
-const MARS188 = new Discord.Client();
-const MARS189 = new Discord.Client();
-const MARS190 = new Discord.Client();
-const MARS191 = new Discord.Client();
-const MARS192 = new Discord.Client();
-const MARS193 = new Discord.Client();
-const MARS194 = new Discord.Client();
-const MARS195 = new Discord.Client();
-const MARS196 = new Discord.Client();
-const MARS197 = new Discord.Client();
-const MARS198 = new Discord.Client();
-const MARS199 = new Discord.Client();
-const MARS200 = new Discord.Client();
-const MARS201 = new Discord.Client();
-const MARS202 = new Discord.Client();
-const MARS203 = new Discord.Client();
-const MARS204 = new Discord.Client();
-const MARS205 = new Discord.Client();
-const MARS206 = new Discord.Client();
-const MARS207 = new Discord.Client();
-const MARS208 = new Discord.Client();
-const MARS209 = new Discord.Client();
-const MARS210 = new Discord.Client();
-const MARS211 = new Discord.Client();
-const MARS212 = new Discord.Client();
-const MARS213 = new Discord.Client();
-const MARS214 = new Discord.Client();
-const MARS215 = new Discord.Client();
-const MARS216 = new Discord.Client();
-const MARS217 = new Discord.Client();
-const MARS218 = new Discord.Client();
-const MARS219 = new Discord.Client();
-const MARS220 = new Discord.Client();
-const MARS221 = new Discord.Client();
-const MARS222 = new Discord.Client();
-const MARS223 = new Discord.Client();
-const MARS224 = new Discord.Client();
-const MARS225 = new Discord.Client();
-const MARS226 = new Discord.Client();
-const MARS227 = new Discord.Client();
-const MARS228 = new Discord.Client();
-const MARS229 = new Discord.Client();
-const MARS230 = new Discord.Client();
-const MARS231 = new Discord.Client();
-const MARS232 = new Discord.Client();
-const MARS233 = new Discord.Client();
-const MARS234 = new Discord.Client();
-const MARS235 = new Discord.Client();
-const MARS236 = new Discord.Client();
-const MARS237 = new Discord.Client();
-const MARS238 = new Discord.Client();
-const MARS239 = new Discord.Client();
-const MARS240 = new Discord.Client();
-const MARS241 = new Discord.Client();
-const MARS242 = new Discord.Client();
-const MARS243 = new Discord.Client();
-const MARS244 = new Discord.Client();
-const MARS245 = new Discord.Client();
-const MARS246 = new Discord.Client();
-const MARS247 = new Discord.Client();
-const MARS248 = new Discord.Client();
-const MARS249 = new Discord.Client();
-const MARS250 = new Discord.Client();
-const MARS251 = new Discord.Client();
-const MARS252 = new Discord.Client();
-const MARS253 = new Discord.Client();
-const MARS254 = new Discord.Client();
-const MARS255 = new Discord.Client();
-const MARS256 = new Discord.Client();
-const MARS257 = new Discord.Client();
-const MARS258 = new Discord.Client();
-const MARS259 = new Discord.Client();
-const MARS260 = new Discord.Client();
-const MARS261 = new Discord.Client();
-const MARS262 = new Discord.Client();
-const MARS263 = new Discord.Client();
-const MARS264 = new Discord.Client();
-const MARS265 = new Discord.Client();
-const MARS266 = new Discord.Client();
-const MARS267 = new Discord.Client();
-const MARS268 = new Discord.Client();
-const MARS269 = new Discord.Client();
-const MARS270 = new Discord.Client();
-const MARS271 = new Discord.Client();
-const MARS272 = new Discord.Client();
-const MARS273 = new Discord.Client();
-const MARS274 = new Discord.Client();
-const MARS275 = new Discord.Client();
-const MARS276 = new Discord.Client();
-const MARS277 = new Discord.Client();
-const MARS278 = new Discord.Client();
-const MARS279 = new Discord.Client();
-const MARS280 = new Discord.Client();
-const MARS281 = new Discord.Client();
-const MARS282 = new Discord.Client();
-const MARS283 = new Discord.Client();
-const MARS284 = new Discord.Client();
-const MARS285 = new Discord.Client();
-const MARS286 = new Discord.Client();
-const MARS287 = new Discord.Client();
-const MARS288 = new Discord.Client();
-const MARS289 = new Discord.Client();
-const MARS290 = new Discord.Client();
-const MARS291 = new Discord.Client();
-const MARS292 = new Discord.Client();
-const MARS293 = new Discord.Client();
-const MARS294 = new Discord.Client();
-const MARS295 = new Discord.Client();
-const MARS296 = new Discord.Client();
-const MARS297 = new Discord.Client();
-const MARS298 = new Discord.Client();
-const MARS299 = new Discord.Client();
-const MARS300 = new Discord.Client();
-const help =
-
-`__**
-ᗰᗩᖇᔕ ᑌᑭ
+const PANDA = new Discord.Client();
+const PANDA2 = new Discord.Client();
+const PANDA3 = new Discord.Client();
+const PANDA4 = new Discord.Client();
+const PANDA5 = new Discord.Client();
+const PANDA6 = new Discord.Client();
+const PANDA7 = new Discord.Client();
+const PANDA8 = new Discord.Client();
+const PANDA9 = new Discord.Client();
+const PANDA10 = new Discord.Client();
+const PANDA11 = new Discord.Client();
+const PANDA12 = new Discord.Client();
+const PANDA13 = new Discord.Client();
+const PANDA14 = new Discord.Client();
+const PANDA15 = new Discord.Client();
+const PANDA16 = new Discord.Client();
+const PANDA17 = new Discord.Client();
+const PANDA18 = new Discord.Client();
+const PANDA19 = new Discord.Client();
+const PANDA20 = new Discord.Client();
+const PANDA21 = new Discord.Client();
+const PANDA22 = new Discord.Client();
+const PANDA23 = new Discord.Client();
+const PANDA24 = new Discord.Client();
+const PANDA25 = new Discord.Client();
+const PANDA26 = new Discord.Client();
+const PANDA27 = new Discord.Client();
+const PANDA28 = new Discord.Client();
+const PANDA29 = new Discord.Client();
+const PANDA30 = new Discord.Client();
+const PANDA31 = new Discord.Client();
+const PANDA32 = new Discord.Client();
+const PANDA33 = new Discord.Client();
+const PANDA34 = new Discord.Client();
+const PANDA35 = new Discord.Client();
+const PANDA36 = new Discord.Client();
+const PANDA37 = new Discord.Client();
+const PANDA38 = new Discord.Client();
+const PANDA39 = new Discord.Client();
+const PANDA40 = new Discord.Client();
+const PANDA41 = new Discord.Client();
+const PANDA42 = new Discord.Client();
+const PANDA43 = new Discord.Client();
+const PANDA44 = new Discord.Client();
+const PANDA45 = new Discord.Client();
+const PANDA46 = new Discord.Client();
+const PANDA47 = new Discord.Client();
+const PANDA48 = new Discord.Client();
+const PANDA49 = new Discord.Client();
+const PANDA50 = new Discord.Client();
+const PANDA51 = new Discord.Client();
+const PANDA52 = new Discord.Client();
+const PANDA53 = new Discord.Client();
+const PANDA54 = new Discord.Client();
+const PANDA55 = new Discord.Client();
+const PANDA56 = new Discord.Client();
+const PANDA57 = new Discord.Client();
+const PANDA58 = new Discord.Client();
+const PANDA59 = new Discord.Client();
+const PANDA60 = new Discord.Client();
+const PANDA61 = new Discord.Client();
+const PANDA62 = new Discord.Client();
+const PANDA63 = new Discord.Client();
+const PANDA64 = new Discord.Client();
+const PANDA65 = new Discord.Client();
+const PANDA66 = new Discord.Client();
+const PANDA67 = new Discord.Client();
+const PANDA68 = new Discord.Client();
+const PANDA69 = new Discord.Client();
+const PANDA70 = new Discord.Client();
+const PANDA71 = new Discord.Client();
+const PANDA72 = new Discord.Client();
+const PANDA73 = new Discord.Client();
+const PANDA74 = new Discord.Client();
+const PANDA75 = new Discord.Client();
+const PANDA76 = new Discord.Client();
+const PANDA77 = new Discord.Client();
+const PANDA78 = new Discord.Client();
+const PANDA79 = new Discord.Client();
+const PANDA80 = new Discord.Client();
+const PANDA81 = new Discord.Client();
+const PANDA82 = new Discord.Client();
+const PANDA83 = new Discord.Client();
+const PANDA84 = new Discord.Client();
+const PANDA85 = new Discord.Client();
+const PANDA86 = new Discord.Client();
+const PANDA87 = new Discord.Client();
+const PANDA88 = new Discord.Client();
+const PANDA89 = new Discord.Client();
+const PANDA90 = new Discord.Client();
+const PANDA91 = new Discord.Client();
+const PANDA92 = new Discord.Client();
+const PANDA93 = new Discord.Client();
+const PANDA94 = new Discord.Client();
+const PANDA95 = new Discord.Client();
+const PANDA96 = new Discord.Client();
+const PANDA97 = new Discord.Client();
+const PANDA98 = new Discord.Client();
+const PANDA99 = new Discord.Client();
+const PANDA100 = new Discord.Client();
+const PANDA101 = new Discord.Client();
+const PANDA102 = new Discord.Client();
+const PANDA103 = new Discord.Client();
+const PANDA104 = new Discord.Client();
+const PANDA105 = new Discord.Client();
+const PANDA106 = new Discord.Client();
+const PANDA107 = new Discord.Client();
+const PANDA108 = new Discord.Client();
+const PANDA109 = new Discord.Client();
+const PANDA110 = new Discord.Client();
+const PANDA111 = new Discord.Client();
+const PANDA112 = new Discord.Client();
+const PANDA113 = new Discord.Client();
+const PANDA114 = new Discord.Client();
+const PANDA115 = new Discord.Client();
+const PANDA116 = new Discord.Client();
+const PANDA117 = new Discord.Client();
+const PANDA118 = new Discord.Client();
+const PANDA119 = new Discord.Client();
+const PANDA120 = new Discord.Client();
+const PANDA121 = new Discord.Client();
+const PANDA122 = new Discord.Client();
+const PANDA123 = new Discord.Client();
+const PANDA124 = new Discord.Client();
+const PANDA125 = new Discord.Client();
+const PANDA126 = new Discord.Client();
+const PANDA127 = new Discord.Client();
+const PANDA128 = new Discord.Client();
+const PANDA129 = new Discord.Client();
+const PANDA130 = new Discord.Client();
+const PANDA131 = new Discord.Client();
+const PANDA132 = new Discord.Client();
+const PANDA133 = new Discord.Client();
+const PANDA134 = new Discord.Client();
+const PANDA135 = new Discord.Client();
+const PANDA136 = new Discord.Client();
+const PANDA137 = new Discord.Client();
+const PANDA138 = new Discord.Client();
+const PANDA139 = new Discord.Client();
+const PANDA140 = new Discord.Client();
+const PANDA141 = new Discord.Client();
+const PANDA142 = new Discord.Client();
+const PANDA143 = new Discord.Client();
+const PANDA144 = new Discord.Client();
+const PANDA145 = new Discord.Client();
+const PANDA146 = new Discord.Client();
+const PANDA147 = new Discord.Client();
+const PANDA148 = new Discord.Client();
+const PANDA149 = new Discord.Client();
+const PANDA150 = new Discord.Client();
+const PANDA151 = new Discord.Client();
+const PANDA152 = new Discord.Client();
+const PANDA153 = new Discord.Client();
+const PANDA154 = new Discord.Client();
+const PANDA155 = new Discord.Client();
+const PANDA156 = new Discord.Client();
+const PANDA157 = new Discord.Client();
+const PANDA158 = new Discord.Client();
+const PANDA159 = new Discord.Client();
+const PANDA160 = new Discord.Client();
+const PANDA161 = new Discord.Client();
+const PANDA162 = new Discord.Client();
+const PANDA163 = new Discord.Client();
+const PANDA164 = new Discord.Client();
+const PANDA165 = new Discord.Client();
+const PANDA166 = new Discord.Client();
+const PANDA167 = new Discord.Client();
+const PANDA168 = new Discord.Client();
+const PANDA169 = new Discord.Client();
+const PANDA170 = new Discord.Client();
+const PANDA171 = new Discord.Client();
+const PANDA172 = new Discord.Client();
+const PANDA173 = new Discord.Client();
+const PANDA174 = new Discord.Client();
+const PANDA175 = new Discord.Client();
+const PANDA176 = new Discord.Client();
+const PANDA177 = new Discord.Client();
+const PANDA178 = new Discord.Client();
+const PANDA179 = new Discord.Client();
+const PANDA180 = new Discord.Client();
+const PANDA181 = new Discord.Client();
+const PANDA182 = new Discord.Client();
+const PANDA183 = new Discord.Client();
+const PANDA184 = new Discord.Client();
+const PANDA185 = new Discord.Client();
+const PANDA186 = new Discord.Client();
+const PANDA187 = new Discord.Client();
+const PANDA188 = new Discord.Client();
+const PANDA189 = new Discord.Client();
+const PANDA190 = new Discord.Client();
+const PANDA191 = new Discord.Client();
+const PANDA192 = new Discord.Client();
+const PANDA193 = new Discord.Client();
+const PANDA194 = new Discord.Client();
+const PANDA195 = new Discord.Client();
+const PANDA196 = new Discord.Client();
+const PANDA197 = new Discord.Client();
+const PANDA198 = new Discord.Client();
+const PANDA199 = new Discord.Client();
+const PANDA200 = new Discord.Client();
+const PANDA201 = new Discord.Client();
+const PANDA202 = new Discord.Client();
+const PANDA203 = new Discord.Client();
+const PANDA204 = new Discord.Client();
+const PANDA205 = new Discord.Client();
+const PANDA206 = new Discord.Client();
+const PANDA207 = new Discord.Client();
+const PANDA208 = new Discord.Client();
+const PANDA209 = new Discord.Client();
+const PANDA210 = new Discord.Client();
+const PANDA211 = new Discord.Client();
+const PANDA212 = new Discord.Client();
+const PANDA213 = new Discord.Client();
+const PANDA214 = new Discord.Client();
+const PANDA215 = new Discord.Client();
+const PANDA216 = new Discord.Client();
+const PANDA217 = new Discord.Client();
+const PANDA218 = new Discord.Client();
+const PANDA219 = new Discord.Client();
+const PANDA220 = new Discord.Client();
+const PANDA221 = new Discord.Client();
+const PANDA222 = new Discord.Client();
+const PANDA223 = new Discord.Client();
+const PANDA224 = new Discord.Client();
+const PANDA225 = new Discord.Client();
+const PANDA226 = new Discord.Client();
+const PANDA227 = new Discord.Client();
+const PANDA228 = new Discord.Client();
+const PANDA229 = new Discord.Client();
+const PANDA230 = new Discord.Client();
+const PANDA231 = new Discord.Client();
+const PANDA232 = new Discord.Client();
+const PANDA233 = new Discord.Client();
+const PANDA234 = new Discord.Client();
+const PANDA235 = new Discord.Client();
+const PANDA236 = new Discord.Client();
+const PANDA237 = new Discord.Client();
+const PANDA238 = new Discord.Client();
+const PANDA239 = new Discord.Client();
+const PANDA240 = new Discord.Client();
+const PANDA241 = new Discord.Client();
+const PANDA242 = new Discord.Client();
+const PANDA243 = new Discord.Client();
+const PANDA244 = new Discord.Client();
+const PANDA245 = new Discord.Client();
+const PANDA246 = new Discord.Client();
+const PANDA247 = new Discord.Client();
+const PANDA248 = new Discord.Client();
+const PANDA249 = new Discord.Client();
+const PANDA250 = new Discord.Client();
+const PANDA251 = new Discord.Client();
+const PANDA252 = new Discord.Client();
+const PANDA253 = new Discord.Client();
+const PANDA254 = new Discord.Client();
+const PANDA255 = new Discord.Client();
+const PANDA256 = new Discord.Client();
+const PANDA257 = new Discord.Client();
+const PANDA258 = new Discord.Client();
+const PANDA259 = new Discord.Client();
+const PANDA260 = new Discord.Client();
+const PANDA261 = new Discord.Client();
+const PANDA262 = new Discord.Client();
+const PANDA263 = new Discord.Client();
+const PANDA264 = new Discord.Client();
+const PANDA265 = new Discord.Client();
+const PANDA266 = new Discord.Client();
+const PANDA267 = new Discord.Client();
+const PANDA268 = new Discord.Client();
+const PANDA269 = new Discord.Client();
+const PANDA270 = new Discord.Client();
+const PANDA271 = new Discord.Client();
+const PANDA272 = new Discord.Client();
+const PANDA273 = new Discord.Client();
+const PANDA274 = new Discord.Client();
+const PANDA275 = new Discord.Client();
+const PANDA276 = new Discord.Client();
+const PANDA277 = new Discord.Client();
+const PANDA278 = new Discord.Client();
+const PANDA279 = new Discord.Client();
+const PANDA280 = new Discord.Client();
+const PANDA281 = new Discord.Client();
+const PANDA282 = new Discord.Client();
+const PANDA283 = new Discord.Client();
+const PANDA284 = new Discord.Client();
+const PANDA285 = new Discord.Client();
+const PANDA286 = new Discord.Client();
+const PANDA287 = new Discord.Client();
+const PANDA288 = new Discord.Client();
+const PANDA289 = new Discord.Client();
+const PANDA290 = new Discord.Client();
+const PANDA291 = new Discord.Client();
+const PANDA292 = new Discord.Client();
+const PANDA293 = new Discord.Client();
+const PANDA294 = new Discord.Client();
+const PANDA295 = new Discord.Client();
+const PANDA296 = new Discord.Client();
+const PANDA297 = new Discord.Client();
+const PANDA298 = new Discord.Client();
+const PANDA299 = new Discord.Client();
+const PANDA300 = new Discord.Client();
+const help = `__**
+PANDA ᑌᑭ
 **__`;
-// dev mars
+// dev PANDA
 
 const err = `** \`\`\`  [ERORR] :   \`\`\`
-         \`\` Role.MARS \`\` **`;
-         
+         \`\` Role.PANDA \`\` **`;
 
 // ======= [ settings JSON   ] ======== //
 //////////
@@ -340,22 +337,19 @@ const err = `** \`\`\`  [ERORR] :   \`\`\`
 //////////
 //////////
 const dinfo = JSON.parse(fs.readFileSync("./data.json", "UTF8"));
-MARS.on("message", async msg => {
+PANDA.on("message", async msg => {
   if (!msg.guild) return;
   if (msg.author.bot) return;
   if (!dinfo)
     dinfo = {
-      
-      owner: config.marsid,
+      owner: config.PANDAid,
       serverid: "NONE",
-      channelid: "NONE", 
+      channelid: "NONE",
       timespam: "NONE",
       timestop: "NONE"
     };
   if (msg.content.startsWith(config.prefix + "setownerID")) {
-    
     if (msg.channel.type == "dm")
-      
       return msg.reply("** لا تستيطع استخدام الامر علي الخاص .. **");
     if (!dinfo.owner.includes(msg.author.id)) return;
     let args = msg.content
@@ -378,7 +372,6 @@ MARS.on("message", async msg => {
   }
   if (msg.content.startsWith(config.prefix + "setserverID")) {
     if (msg.channel.type == "dm")
-      
       return msg.reply("** لا تستيطع استخدام الامر علي الخاص .. **");
     if (!dinfo.owner.includes(msg.author.id)) return;
     let args = msg.content
@@ -389,7 +382,7 @@ MARS.on("message", async msg => {
     if (args.length > 18 || args.length <= 17) {
       return msg.channel.send("** تـأكد من ايدي  **");
     }
-    if (isNaN(args)) return msg.channel.send("**__الارقام فقط__!**"); // جمــيع الحقوق محفوظة لدي 
+    if (isNaN(args)) return msg.channel.send("**__الارقام فقط__!**"); // جمــيع الحقوق محفوظة لدي
     dinfo.serverid = args;
     await msg
       .reply(`** __ تم وضع ايدي جديد لسيرفر الاسبام __  \`${args}\`**`)
@@ -420,7 +413,6 @@ MARS.on("message", async msg => {
     });
   }
   if (msg.content.startsWith(config.prefix + "settimeSpam")) {
-  
     if (msg.channel.type == "dm")
       return msg.reply("** لا تستيطع استخدام الامر علي الخاص .. **");
     if (!dinfo.owner.includes(msg.author.id)) return;
@@ -429,7 +421,7 @@ MARS.on("message", async msg => {
       .slice(1)
       .join(" ");
     if (!args) return msg.channel.send("**قم بوضع وقت الاسبام بـ الثواني **");
-    if (isNaN(args)) return msg.channel.send("**__الارقام فقط__!**"); // جمــيع الحقوق محفوظة لدي 
+    if (isNaN(args)) return msg.channel.send("**__الارقام فقط__!**"); // جمــيع الحقوق محفوظة لدي
     dinfo.timespam = args;
     await msg
       .reply(`** __ تم اضافة مدة ارسال الاسبام ب الثواني __  \`${args}\`**`)
@@ -439,7 +431,6 @@ MARS.on("message", async msg => {
     });
   }
   if (msg.content.startsWith(config.prefix + "settimeStop")) {
-    
     if (msg.channel.type == "dm")
       return msg.reply("** لا تستيطع استخدام الامر علي الخاص .. **");
     if (!dinfo.owner.includes(msg.author.id)) return;
@@ -451,7 +442,7 @@ MARS.on("message", async msg => {
       return msg.channel.send(
         "** قم بوضع وقت توقف البوت بعد بداء الاسبام بـ الساعات **"
       );
-    if (isNaN(args)) return msg.channel.send("**__الارقام فقط__!**"); // جمــيع الحقوق محفوظة لدي 
+    if (isNaN(args)) return msg.channel.send("**__الارقام فقط__!**"); // جمــيع الحقوق محفوظة لدي
     dinfo.timestop = args;
     await msg
       .reply(`** __ تم اضافة مدة توقف الاسبام بـ الساعات  __  \`${args}\`**`)
@@ -460,20 +451,20 @@ MARS.on("message", async msg => {
       if (a) throw a;
     });
   }
-}); 
+});
 
-MARS.on("message", async message => {
+PANDA.on("message", async message => {
   if (message.content === prefix + "reset") {
-    if (!dinfo.owner.includes(message.author.id)) return; 
+    if (!dinfo.owner.includes(message.author.id)) return;
     dinfo.serverid = "NONE";
     dinfo.channelid = "NONE";
-    dinfo.timespam = "NONE"; 
+    dinfo.timespam = "NONE";
     dinfo.timestop = "NONE";
     message.channel.send(`**⚠️ restsettings , <@${dinfo.owner}>**`);
     fs.writeFile("./data.json", JSON.stringify(dinfo), function(a) {
       if (a) throw a;
     });
-    await cmd.run("refresh"); 
+    await cmd.run("refresh");
   }
 });
 //////////
@@ -488,9 +479,8 @@ MARS.on("message", async message => {
 
 // ======= [ settings JSON - END   ] ======== //
 
-
 // ======= [ Reload JSON   ] ======== //
-MARS.on("message", async message => {
+PANDA.on("message", async message => {
   if (message.author.id !== dinfo.owner) return;
   if (message.content === config.prefix + "reload") {
     await cmd.run("refresh");
@@ -507,510 +497,510 @@ MARS.on("message", async message => {
 //////////////////////
 //////////////////////
 
-MARS.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 1`);
-  console.log(`Hi ${MARS.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS.guilds.size} " ]`);
+PANDA.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 1`);
+  console.log(`Hi ${PANDA.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA.guilds.size} " ]`);
 });
-MARS2.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 2 `);
-  console.log(`Hi ${MARS2.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS2.guilds.size} " ]`);
+PANDA2.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 2 `);
+  console.log(`Hi ${PANDA2.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA2.guilds.size} " ]`);
 });
-MARS3.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 3`);
-  console.log(`Hi ${MARS3.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS3.guilds.size} " ]`);
+PANDA3.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 3`);
+  console.log(`Hi ${PANDA3.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA3.guilds.size} " ]`);
 });
-MARS4.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 4`);
-  console.log(`Hi ${MARS4.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS4.guilds.size} " ]`);
+PANDA4.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 4`);
+  console.log(`Hi ${PANDA4.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA4.guilds.size} " ]`);
 });
-MARS5.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 5`);
-  console.log(`Hi ${MARS5.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS5.guilds.size} " ]`);
+PANDA5.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 5`);
+  console.log(`Hi ${PANDA5.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA5.guilds.size} " ]`);
 });
-MARS6.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 6`);
-  console.log(`Hi ${MARS6.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS6.guilds.size} " ]`);
+PANDA6.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 6`);
+  console.log(`Hi ${PANDA6.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA6.guilds.size} " ]`);
 });
-MARS7.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 7`);
-  console.log(`Hi ${MARS7.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS7.guilds.size} " ]`);
+PANDA7.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 7`);
+  console.log(`Hi ${PANDA7.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA7.guilds.size} " ]`);
 });
-MARS8.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 8`);
-  console.log(`Hi ${MARS8.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS8.guilds.size} " ]`);
+PANDA8.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 8`);
+  console.log(`Hi ${PANDA8.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA8.guilds.size} " ]`);
 });
-MARS9.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 9`);
-  console.log(`Hi ${MARS9.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS9.guilds.size} " ]`);
+PANDA9.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 9`);
+  console.log(`Hi ${PANDA9.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA9.guilds.size} " ]`);
 });
-MARS10.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 10`);
-  console.log(`Hi ${MARS10.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS10.guilds.size} " ]`);
+PANDA10.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 10`);
+  console.log(`Hi ${PANDA10.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA10.guilds.size} " ]`);
 });
-MARS11.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 11`);
-  console.log(`Hi ${MARS11.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS11.guilds.size} " ]`);
+PANDA11.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 11`);
+  console.log(`Hi ${PANDA11.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA11.guilds.size} " ]`);
 });
-MARS12.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 12`);
-  console.log(`Hi ${MARS12.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS12.guilds.size} " ]`);
+PANDA12.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 12`);
+  console.log(`Hi ${PANDA12.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA12.guilds.size} " ]`);
 });
-MARS13.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 13`);
-  console.log(`Hi ${MARS13.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS13.guilds.size} " ]`);
+PANDA13.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 13`);
+  console.log(`Hi ${PANDA13.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA13.guilds.size} " ]`);
 });
-MARS14.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 14`);
-  console.log(`Hi ${MARS14.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS14.guilds.size} " ]`);
+PANDA14.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 14`);
+  console.log(`Hi ${PANDA14.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA14.guilds.size} " ]`);
 });
-MARS15.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی15`);
-  console.log(`Hi ${MARS15.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS15.guilds.size} " ]`);
+PANDA15.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی15`);
+  console.log(`Hi ${PANDA15.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA15.guilds.size} " ]`);
 });
-MARS16.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی16`);
-  console.log(`Hi ${MARS16.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS16.guilds.size} " ]`);
+PANDA16.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی16`);
+  console.log(`Hi ${PANDA16.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA16.guilds.size} " ]`);
 });
-MARS17.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی17`);
-  console.log(`Hi ${MARS17.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS17.guilds.size} " ]`);
+PANDA17.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی17`);
+  console.log(`Hi ${PANDA17.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA17.guilds.size} " ]`);
 });
-MARS18.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی18`);
-  console.log(`Hi ${MARS18.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS18.guilds.size} " ]`);
+PANDA18.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی18`);
+  console.log(`Hi ${PANDA18.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA18.guilds.size} " ]`);
 });
-MARS19.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی19`);
-  console.log(`Hi ${MARS19.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS19.guilds.size} " ]`);
+PANDA19.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی19`);
+  console.log(`Hi ${PANDA19.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA19.guilds.size} " ]`);
 });
-MARS20.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی20`);
-  console.log(`Hi ${MARS20.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS20.guilds.size} " ]`);
+PANDA20.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی20`);
+  console.log(`Hi ${PANDA20.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA20.guilds.size} " ]`);
 });
-MARS21.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی21`);
-  console.log(`Hi ${MARS21.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS21.guilds.size} " ]`);
+PANDA21.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی21`);
+  console.log(`Hi ${PANDA21.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA21.guilds.size} " ]`);
 });
-MARS22.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی22`);
-  console.log(`Hi ${MARS22.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS22.guilds.size} " ]`);
+PANDA22.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی22`);
+  console.log(`Hi ${PANDA22.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA22.guilds.size} " ]`);
 });
-MARS23.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی23`);
-  console.log(`Hi ${MARS23.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS33.guilds.size} " ]`);
+PANDA23.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی23`);
+  console.log(`Hi ${PANDA23.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA33.guilds.size} " ]`);
 });
 
-MARS24.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی24`);
-  console.log(`Hi ${MARS24.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS24.guilds.size} " ]`);
+PANDA24.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی24`);
+  console.log(`Hi ${PANDA24.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA24.guilds.size} " ]`);
 });
-MARS25.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی25`);
-  console.log(`Hi ${MARS25.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS25.guilds.size} " ]`);
+PANDA25.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی25`);
+  console.log(`Hi ${PANDA25.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA25.guilds.size} " ]`);
 });
-MARS26.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی26`);
-  console.log(`Hi ${MARS26.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS26.guilds.size} " ]`);
+PANDA26.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی26`);
+  console.log(`Hi ${PANDA26.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA26.guilds.size} " ]`);
 });
-MARS27.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 27`);
-  console.log(`Hi ${MARS27.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS27.guilds.size} " ]`);
+PANDA27.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 27`);
+  console.log(`Hi ${PANDA27.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA27.guilds.size} " ]`);
 });
-MARS28.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 28`);
-  console.log(`Hi ${MARS28.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS28.guilds.size} " ]`);
+PANDA28.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 28`);
+  console.log(`Hi ${PANDA28.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA28.guilds.size} " ]`);
 });
-MARS29.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 29`);
-  console.log(`Hi ${MARS29.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS29.guilds.size} " ]`);
+PANDA29.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 29`);
+  console.log(`Hi ${PANDA29.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA29.guilds.size} " ]`);
 });
-MARS30.on("ready", () => {
-  console.log(`[MARS] : الحساب رقم 30 يعمل`);
-  console.log(`Hi ${MARS30.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS30.guilds.size} " ]`);
+PANDA30.on("ready", () => {
+  console.log(`[PANDA] : الحساب رقم 30 يعمل`);
+  console.log(`Hi ${PANDA30.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA30.guilds.size} " ]`);
 });
-MARS31.on("ready", () => {
-  console.log(`[MARS] : 31 ئەکاونتی `);
-  console.log(`Hi ${MARS31.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS31.guilds.size} " ]`);
+PANDA31.on("ready", () => {
+  console.log(`[PANDA] : 31 ئەکاونتی `);
+  console.log(`Hi ${PANDA31.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA31.guilds.size} " ]`);
 });
-MARS32.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 32 `);
-  console.log(`Hi ${MARS32.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS32.guilds.size} " ]`);
+PANDA32.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 32 `);
+  console.log(`Hi ${PANDA32.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA32.guilds.size} " ]`);
 });
-MARS33.on("ready", () => {
-  console.log(`[MARS] : 33ئەکاونتی `);
-  console.log(`Hi ${MARS33.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS33.guilds.size} " ]`);
+PANDA33.on("ready", () => {
+  console.log(`[PANDA] : 33ئەکاونتی `);
+  console.log(`Hi ${PANDA33.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA33.guilds.size} " ]`);
 });
-MARS34.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی34 `);
-  console.log(`Hi ${MARS34.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS34.guilds.size} " ]`);
+PANDA34.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی34 `);
+  console.log(`Hi ${PANDA34.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA34.guilds.size} " ]`);
 });
-MARS35.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی35 `);
-  console.log(`Hi ${MARS35.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS35.guilds.size} " ]`);
+PANDA35.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی35 `);
+  console.log(`Hi ${PANDA35.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA35.guilds.size} " ]`);
 });
-MARS36.on("ready", () => {
-  console.log(`[MARS] : 36ئەکاونتی `);
-  console.log(`Hi ${MARS36.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS36.guilds.size} " ]`);
+PANDA36.on("ready", () => {
+  console.log(`[PANDA] : 36ئەکاونتی `);
+  console.log(`Hi ${PANDA36.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA36.guilds.size} " ]`);
 });
-MARS37.on("ready", () => {
-  console.log(`[MARS] :37 ئەکاونتی `);
-  console.log(`Hi ${MARS37.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS37.guilds.size} " ]`);
+PANDA37.on("ready", () => {
+  console.log(`[PANDA] :37 ئەکاونتی `);
+  console.log(`Hi ${PANDA37.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA37.guilds.size} " ]`);
 });
-MARS38.on("ready", () => {
-  console.log(`[MARS] : 38ئەکاونتی `);
-  console.log(`Hi ${MARS38.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS38.guilds.size} " ]`);
+PANDA38.on("ready", () => {
+  console.log(`[PANDA] : 38ئەکاونتی `);
+  console.log(`Hi ${PANDA38.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA38.guilds.size} " ]`);
 });
-MARS39.on("ready", () => {
-  console.log(`[MARS] : 39ئەکاونتی `);
-  console.log(`Hi ${MARS39.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS39.guilds.size} " ]`);
+PANDA39.on("ready", () => {
+  console.log(`[PANDA] : 39ئەکاونتی `);
+  console.log(`Hi ${PANDA39.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA39.guilds.size} " ]`);
 });
-MARS40.on("ready", () => {
-  console.log(`[MARS] :40 ئەکاونتی `);
-  console.log(`Hi ${MARS40.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS40.guilds.size} " ]`);
+PANDA40.on("ready", () => {
+  console.log(`[PANDA] :40 ئەکاونتی `);
+  console.log(`Hi ${PANDA40.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA40.guilds.size} " ]`);
 });
-MARS41.on("ready", () => {
-  console.log(`[MARS] : 41ئەکاونتی `);
-  console.log(`Hi ${MARS41.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS41.guilds.size} " ]`);
+PANDA41.on("ready", () => {
+  console.log(`[PANDA] : 41ئەکاونتی `);
+  console.log(`Hi ${PANDA41.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA41.guilds.size} " ]`);
 });
-MARS42.on("ready", () => {
-  console.log(`[MARS] : 42ئەکاونتی `);
-  console.log(`Hi ${MARS42.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS42.guilds.size} " ]`);
+PANDA42.on("ready", () => {
+  console.log(`[PANDA] : 42ئەکاونتی `);
+  console.log(`Hi ${PANDA42.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA42.guilds.size} " ]`);
 });
-MARS43.on("ready", () => {
-  console.log(`[MARS] : 43ئەکاونتی `);
-  console.log(`Hi ${MARS43.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS4.guilds.size} " ]`);
+PANDA43.on("ready", () => {
+  console.log(`[PANDA] : 43ئەکاونتی `);
+  console.log(`Hi ${PANDA43.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA4.guilds.size} " ]`);
 });
-MARS44.on("ready", () => {
-  console.log(`[MARS] : 44ئەکاونتی `);
-  console.log(`Hi ${MARS44.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS44.guilds.size} " ]`);
+PANDA44.on("ready", () => {
+  console.log(`[PANDA] : 44ئەکاونتی `);
+  console.log(`Hi ${PANDA44.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA44.guilds.size} " ]`);
 });
-MARS45.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی45 `);
-  console.log(`Hi ${MARS4.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS45.guilds.size} " ]`);
+PANDA45.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی45 `);
+  console.log(`Hi ${PANDA4.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA45.guilds.size} " ]`);
 });
-MARS46.on("ready", () => {
-  console.log(`[MARS] : 46ئەکاونتی `);
-  console.log(`Hi ${MARS46.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS46.guilds.size} " ]`);
+PANDA46.on("ready", () => {
+  console.log(`[PANDA] : 46ئەکاونتی `);
+  console.log(`Hi ${PANDA46.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA46.guilds.size} " ]`);
 });
-MARS47.on("ready", () => {
-  console.log(`[MARS] :47 ئەکاونتی `);
-  console.log(`Hi ${MARS47.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS4.guilds.size} " ]`);
+PANDA47.on("ready", () => {
+  console.log(`[PANDA] :47 ئەکاونتی `);
+  console.log(`Hi ${PANDA47.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA4.guilds.size} " ]`);
 });
-MARS48.on("ready", () => {
-  console.log(`[MARS] :48 ئەکاونتی `);
-  console.log(`Hi ${MARS48.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS48.guilds.size} " ]`);
+PANDA48.on("ready", () => {
+  console.log(`[PANDA] :48 ئەکاونتی `);
+  console.log(`Hi ${PANDA48.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA48.guilds.size} " ]`);
 });
-MARS49.on("ready", () => {
-  console.log(`[MARS] : 49ئەکاونتی `);
-  console.log(`Hi ${MARS49.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS49.guilds.size} " ]`);
+PANDA49.on("ready", () => {
+  console.log(`[PANDA] : 49ئەکاونتی `);
+  console.log(`Hi ${PANDA49.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA49.guilds.size} " ]`);
 });
-MARS50.on("ready", () => {
-  console.log(`[MARS] :50 ئەکاونتی `);
-  console.log(`Hi ${MARS50.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS50.guilds.size} " ]`);
+PANDA50.on("ready", () => {
+  console.log(`[PANDA] :50 ئەکاونتی `);
+  console.log(`Hi ${PANDA50.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA50.guilds.size} " ]`);
 });
-MARS51.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی  51`);
-  console.log(`Hi ${MARS51.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS51.guilds.size} " ]`);
+PANDA51.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی  51`);
+  console.log(`Hi ${PANDA51.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA51.guilds.size} " ]`);
 });
-MARS52.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 2 `);
-  console.log(`Hi ${MARS52.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS52.guilds.size} " ]`);
+PANDA52.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 2 `);
+  console.log(`Hi ${PANDA52.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA52.guilds.size} " ]`);
 });
-MARS53.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 3`);
-  console.log(`Hi ${MARS53.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS53.guilds.size} " ]`);
+PANDA53.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 3`);
+  console.log(`Hi ${PANDA53.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA53.guilds.size} " ]`);
 });
-MARS54.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 4`);
-  console.log(`Hi ${MARS54.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS54.guilds.size} " ]`);
+PANDA54.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 4`);
+  console.log(`Hi ${PANDA54.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA54.guilds.size} " ]`);
 });
-MARS55.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 5`);
-  console.log(`Hi ${MARS55.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS55.guilds.size} " ]`);
+PANDA55.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 5`);
+  console.log(`Hi ${PANDA55.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA55.guilds.size} " ]`);
 });
-MARS56.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 6`);
-  console.log(`Hi ${MARS56.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS56.guilds.size} " ]`);
+PANDA56.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 6`);
+  console.log(`Hi ${PANDA56.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA56.guilds.size} " ]`);
 });
-MARS57.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 7`);
-  console.log(`Hi ${MARS57.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS57.guilds.size} " ]`);
+PANDA57.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 7`);
+  console.log(`Hi ${PANDA57.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA57.guilds.size} " ]`);
 });
-MARS58.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 8`);
-  console.log(`Hi ${MARS58.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS58.guilds.size} " ]`);
+PANDA58.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 8`);
+  console.log(`Hi ${PANDA58.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA58.guilds.size} " ]`);
 });
-MARS59.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 9`);
-  console.log(`Hi ${MARS59.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS59.guilds.size} " ]`);
+PANDA59.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 9`);
+  console.log(`Hi ${PANDA59.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA59.guilds.size} " ]`);
 });
-MARS60.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 10`);
-  console.log(`Hi ${MARS60.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS60.guilds.size} " ]`);
-});
-///////
-MARS61.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 1`);
-  console.log(`Hi ${MARS61.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS61.guilds.size} " ]`);
-});
-MARS62.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 2 `);
-  console.log(`Hi ${MARS62.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS62.guilds.size} " ]`);
-});
-MARS63.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 3`);
-  console.log(`Hi ${MARS63.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS63.guilds.size} " ]`);
-});
-MARS64.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 4`);
-  console.log(`Hi ${MARS64.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS64.guilds.size} " ]`);
-});
-MARS65.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 5`);
-  console.log(`Hi ${MARS65.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS65.guilds.size} " ]`);
-});
-MARS66.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 6`);
-  console.log(`Hi ${MARS66.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS66.guilds.size} " ]`);
-});
-MARS67.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 7`);
-  console.log(`Hi ${MARS67.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS67.guilds.size} " ]`);
-});
-MARS68.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 8`);
-  console.log(`Hi ${MARS68.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS68.guilds.size} " ]`);
-});
-MARS69.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 9`);
-  console.log(`Hi ${MARS69.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS69.guilds.size} " ]`);
-});
-MARS70.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 10`);
-  console.log(`Hi ${MARS70.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS70.guilds.size} " ]`);
+PANDA60.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 10`);
+  console.log(`Hi ${PANDA60.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA60.guilds.size} " ]`);
 });
 ///////
-MARS71.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 1`);
-  console.log(`Hi ${MARS71.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS71.guilds.size} " ]`);
+PANDA61.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 1`);
+  console.log(`Hi ${PANDA61.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA61.guilds.size} " ]`);
 });
-MARS72.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 2 `);
-  console.log(`Hi ${MARS72.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS72.guilds.size} " ]`);
+PANDA62.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 2 `);
+  console.log(`Hi ${PANDA62.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA62.guilds.size} " ]`);
 });
-MARS73.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 3`);
-  console.log(`Hi ${MARS73.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS73.guilds.size} " ]`);
+PANDA63.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 3`);
+  console.log(`Hi ${PANDA63.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA63.guilds.size} " ]`);
 });
-MARS74.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 4`);
-  console.log(`Hi ${MARS74.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS74.guilds.size} " ]`);
+PANDA64.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 4`);
+  console.log(`Hi ${PANDA64.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA64.guilds.size} " ]`);
 });
-MARS75.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 5`);
-  console.log(`Hi ${MARS75.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS75.guilds.size} " ]`);
+PANDA65.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 5`);
+  console.log(`Hi ${PANDA65.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA65.guilds.size} " ]`);
 });
-MARS76.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 6`);
-  console.log(`Hi ${MARS76.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS76.guilds.size} " ]`);
+PANDA66.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 6`);
+  console.log(`Hi ${PANDA66.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA66.guilds.size} " ]`);
 });
-MARS77.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 7`);
-  console.log(`Hi ${MARS77.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS77.guilds.size} " ]`);
+PANDA67.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 7`);
+  console.log(`Hi ${PANDA67.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA67.guilds.size} " ]`);
 });
-MARS78.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 8`);
-  console.log(`Hi ${MARS78.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS78.guilds.size} " ]`);
+PANDA68.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 8`);
+  console.log(`Hi ${PANDA68.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA68.guilds.size} " ]`);
 });
-MARS79.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 9`);
-  console.log(`Hi ${MARS79.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS79.guilds.size} " ]`);
+PANDA69.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 9`);
+  console.log(`Hi ${PANDA69.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA69.guilds.size} " ]`);
 });
-MARS80.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 10`);
-  console.log(`Hi ${MARS80.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS80.guilds.size} " ]`);
+PANDA70.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 10`);
+  console.log(`Hi ${PANDA70.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA70.guilds.size} " ]`);
+});
+///////
+PANDA71.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 1`);
+  console.log(`Hi ${PANDA71.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA71.guilds.size} " ]`);
+});
+PANDA72.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 2 `);
+  console.log(`Hi ${PANDA72.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA72.guilds.size} " ]`);
+});
+PANDA73.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 3`);
+  console.log(`Hi ${PANDA73.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA73.guilds.size} " ]`);
+});
+PANDA74.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 4`);
+  console.log(`Hi ${PANDA74.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA74.guilds.size} " ]`);
+});
+PANDA75.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 5`);
+  console.log(`Hi ${PANDA75.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA75.guilds.size} " ]`);
+});
+PANDA76.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 6`);
+  console.log(`Hi ${PANDA76.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA76.guilds.size} " ]`);
+});
+PANDA77.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 7`);
+  console.log(`Hi ${PANDA77.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA77.guilds.size} " ]`);
+});
+PANDA78.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 8`);
+  console.log(`Hi ${PANDA78.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA78.guilds.size} " ]`);
+});
+PANDA79.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 9`);
+  console.log(`Hi ${PANDA79.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA79.guilds.size} " ]`);
+});
+PANDA80.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 10`);
+  console.log(`Hi ${PANDA80.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA80.guilds.size} " ]`);
 });
 ////////
-MARS81.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 1`);
-  console.log(`Hi ${MARS81.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS81.guilds.size} " ]`);
+PANDA81.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 1`);
+  console.log(`Hi ${PANDA81.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA81.guilds.size} " ]`);
 });
-MARS82.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 2 `);
-  console.log(`Hi ${MARS82.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS82.guilds.size} " ]`);
+PANDA82.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 2 `);
+  console.log(`Hi ${PANDA82.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA82.guilds.size} " ]`);
 });
-MARS83.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 3`);
-  console.log(`Hi ${MARS83.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS83.guilds.size} " ]`);
+PANDA83.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 3`);
+  console.log(`Hi ${PANDA83.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA83.guilds.size} " ]`);
 });
-MARS84.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 4`);
-  console.log(`Hi ${MARS84.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS84.guilds.size} " ]`);
+PANDA84.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 4`);
+  console.log(`Hi ${PANDA84.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA84.guilds.size} " ]`);
 });
-MARS85.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 5`);
-  console.log(`Hi ${MARS85.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS85.guilds.size} " ]`);
+PANDA85.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 5`);
+  console.log(`Hi ${PANDA85.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA85.guilds.size} " ]`);
 });
-MARS86.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 6`);
-  console.log(`Hi ${MARS86.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS86.guilds.size} " ]`);
+PANDA86.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 6`);
+  console.log(`Hi ${PANDA86.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA86.guilds.size} " ]`);
 });
-MARS87.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 7`);
-  console.log(`Hi ${MARS87.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS87.guilds.size} " ]`);
+PANDA87.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 7`);
+  console.log(`Hi ${PANDA87.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA87.guilds.size} " ]`);
 });
-MARS88.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 8`);
-  console.log(`Hi ${MARS88.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS88.guilds.size} " ]`);
+PANDA88.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 8`);
+  console.log(`Hi ${PANDA88.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA88.guilds.size} " ]`);
 });
-MARS89.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 9`);
-  console.log(`Hi ${MARS89.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS89.guilds.size} " ]`);
+PANDA89.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 9`);
+  console.log(`Hi ${PANDA89.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA89.guilds.size} " ]`);
 });
-MARS90.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 10`);
-  console.log(`Hi ${MARS90.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS90.guilds.size} " ]`);
+PANDA90.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 10`);
+  console.log(`Hi ${PANDA90.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA90.guilds.size} " ]`);
 });
 ////////
-MARS91.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 1`);
-  console.log(`Hi ${MARS91.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS91.guilds.size} " ]`);
+PANDA91.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 1`);
+  console.log(`Hi ${PANDA91.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA91.guilds.size} " ]`);
 });
-MARS92.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 2 `);
-  console.log(`Hi ${MARS92.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS92.guilds.size} " ]`);
+PANDA92.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 2 `);
+  console.log(`Hi ${PANDA92.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA92.guilds.size} " ]`);
 });
-MARS93.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 3`);
-  console.log(`Hi ${MARS93.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS93.guilds.size} " ]`);
+PANDA93.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 3`);
+  console.log(`Hi ${PANDA93.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA93.guilds.size} " ]`);
 });
-MARS94.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 4`);
-  console.log(`Hi ${MARS94.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS94.guilds.size} " ]`);
+PANDA94.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 4`);
+  console.log(`Hi ${PANDA94.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA94.guilds.size} " ]`);
 });
-MARS95.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 5`);
-  console.log(`Hi ${MARS95.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS95.guilds.size} " ]`);
+PANDA95.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 5`);
+  console.log(`Hi ${PANDA95.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA95.guilds.size} " ]`);
 });
-MARS96.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 6`);
-  console.log(`Hi ${MARS96.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS96.guilds.size} " ]`);
+PANDA96.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 6`);
+  console.log(`Hi ${PANDA96.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA96.guilds.size} " ]`);
 });
-MARS97.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 7`);
-  console.log(`Hi ${MARS97.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS97.guilds.size} " ]`);
+PANDA97.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 7`);
+  console.log(`Hi ${PANDA97.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA97.guilds.size} " ]`);
 });
-MARS98.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 8`);
-  console.log(`Hi ${MARS98.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS98.guilds.size} " ]`);
+PANDA98.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 8`);
+  console.log(`Hi ${PANDA98.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA98.guilds.size} " ]`);
 });
-MARS99.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 9`);
-  console.log(`Hi ${MARS9.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS99.guilds.size} " ]`);
+PANDA99.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 9`);
+  console.log(`Hi ${PANDA9.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA99.guilds.size} " ]`);
 });
-MARS100.on("ready", () => {
-  console.log(`[MARS] : ئەکاونتی 10`);
-  console.log(`Hi ${MARS100.user.tag} , This Code by : mars `);
-  console.log(`i Have  [ " ${MARS100.guilds.size} " ]`);
+PANDA100.on("ready", () => {
+  console.log(`[PANDA] : ئەکاونتی 10`);
+  console.log(`Hi ${PANDA100.user.tag} , This Code by : PANDA `);
+  console.log(`i Have  [ " ${PANDA100.guilds.size} " ]`);
 });
 //////////////////////
 //////////////////////
@@ -1023,7 +1013,6 @@ MARS100.on("ready", () => {
 //////////
 //////////////////////
 //////////////////////
-
 
 // ======= [ Console LOG - END   ] ======== //
 //////////
@@ -1036,7 +1025,7 @@ MARS100.on("ready", () => {
 //////////
 //////////
 
-MARS.on("message", message => {
+PANDA.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1044,7 +1033,7 @@ MARS.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS2.on("message", message => {
+PANDA2.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1052,7 +1041,7 @@ MARS2.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS3.on("message", message => {
+PANDA3.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1060,7 +1049,7 @@ MARS3.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS4.on("message", message => {
+PANDA4.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1068,7 +1057,7 @@ MARS4.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS5.on("message", message => {
+PANDA5.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1076,7 +1065,7 @@ MARS5.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS6.on("message", message => {
+PANDA6.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1084,7 +1073,7 @@ MARS6.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS7.on("message", message => {
+PANDA7.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1092,7 +1081,7 @@ MARS7.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS8.on("message", message => {
+PANDA8.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1100,7 +1089,7 @@ MARS8.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS9.on("message", message => {
+PANDA9.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1108,7 +1097,7 @@ MARS9.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS10.on("message", message => {
+PANDA10.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1116,7 +1105,7 @@ MARS10.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS11.on("message", message => {
+PANDA11.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1124,7 +1113,7 @@ MARS11.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS12.on("message", message => {
+PANDA12.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1132,7 +1121,7 @@ MARS12.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS13.on("message", message => {
+PANDA13.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1140,7 +1129,7 @@ MARS13.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS14.on("message", message => {
+PANDA14.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1148,7 +1137,7 @@ MARS14.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS15.on("message", message => {
+PANDA15.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1156,7 +1145,7 @@ MARS15.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS16.on("message", message => {
+PANDA16.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1164,7 +1153,7 @@ MARS16.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS17.on("message", message => {
+PANDA17.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1172,7 +1161,7 @@ MARS17.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS18.on("message", message => {
+PANDA18.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1180,7 +1169,7 @@ MARS18.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS19.on("message", message => {
+PANDA19.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1188,7 +1177,7 @@ MARS19.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS20.on("message", message => {
+PANDA20.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1196,7 +1185,7 @@ MARS20.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS21.on("message", message => {
+PANDA21.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1204,7 +1193,7 @@ MARS21.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS22.on("message", message => {
+PANDA22.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1212,7 +1201,7 @@ MARS22.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS23.on("message", message => {
+PANDA23.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1220,7 +1209,7 @@ MARS23.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS24.on("message", message => {
+PANDA24.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1228,7 +1217,7 @@ MARS24.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS25.on("message", message => {
+PANDA25.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1236,7 +1225,7 @@ MARS25.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS51.on("message", message => {
+PANDA51.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1244,7 +1233,7 @@ MARS51.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS26.on("message", message => {
+PANDA26.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1252,7 +1241,7 @@ MARS26.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS27.on("message", message => {
+PANDA27.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1260,7 +1249,7 @@ MARS27.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS28.on("message", message => {
+PANDA28.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1268,7 +1257,7 @@ MARS28.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS29.on("message", message => {
+PANDA29.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1276,7 +1265,7 @@ MARS29.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS30.on("message", message => {
+PANDA30.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1284,7 +1273,7 @@ MARS30.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS31.on("message", message => {
+PANDA31.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1292,7 +1281,7 @@ MARS31.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS32.on("message", message => {
+PANDA32.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1300,7 +1289,7 @@ MARS32.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS33.on("message", message => {
+PANDA33.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1308,7 +1297,7 @@ MARS33.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS34.on("message", message => {
+PANDA34.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1316,7 +1305,7 @@ MARS34.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS35.on("message", message => {
+PANDA35.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1324,7 +1313,7 @@ MARS35.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS35.on("message", message => {
+PANDA35.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1332,7 +1321,7 @@ MARS35.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS37.on("message", message => {
+PANDA37.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1340,7 +1329,7 @@ MARS37.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS38.on("message", message => {
+PANDA38.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1348,7 +1337,7 @@ MARS38.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS39.on("message", message => {
+PANDA39.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1356,7 +1345,7 @@ MARS39.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS40.on("message", message => {
+PANDA40.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1364,7 +1353,7 @@ MARS40.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS41.on("message", message => {
+PANDA41.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1372,7 +1361,7 @@ MARS41.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS42.on("message", message => {
+PANDA42.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1380,7 +1369,7 @@ MARS42.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS43.on("message", message => {
+PANDA43.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1388,7 +1377,7 @@ MARS43.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS44.on("message", message => {
+PANDA44.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1396,7 +1385,7 @@ MARS44.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS45.on("message", message => {
+PANDA45.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1404,7 +1393,7 @@ MARS45.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS46.on("message", message => {
+PANDA46.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1412,7 +1401,7 @@ MARS46.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS47.on("message", message => {
+PANDA47.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1420,7 +1409,7 @@ MARS47.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS48.on("message", message => {
+PANDA48.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1428,7 +1417,7 @@ MARS48.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS49.on("message", message => {
+PANDA49.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1436,7 +1425,7 @@ MARS49.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS50.on("message", message => {
+PANDA50.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1444,7 +1433,7 @@ MARS50.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS52.on("message", message => {
+PANDA52.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1452,7 +1441,7 @@ MARS52.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS53.on("message", message => {
+PANDA53.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1460,7 +1449,7 @@ MARS53.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS54.on("message", message => {
+PANDA54.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1468,7 +1457,7 @@ MARS54.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS55.on("message", message => {
+PANDA55.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1476,7 +1465,7 @@ MARS55.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS56.on("message", message => {
+PANDA56.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1484,7 +1473,7 @@ MARS56.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS57.on("message", message => {
+PANDA57.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1492,7 +1481,7 @@ MARS57.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS58.on("message", message => {
+PANDA58.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1500,7 +1489,7 @@ MARS58.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS59.on("message", message => {
+PANDA59.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1508,7 +1497,7 @@ MARS59.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS60.on("message", message => {
+PANDA60.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1516,7 +1505,7 @@ MARS60.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS61.on("message", message => {
+PANDA61.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1524,7 +1513,7 @@ MARS61.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS62.on("message", message => {
+PANDA62.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1532,7 +1521,7 @@ MARS62.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS63.on("message", message => {
+PANDA63.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1540,7 +1529,7 @@ MARS63.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS64.on("message", message => {
+PANDA64.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1548,7 +1537,7 @@ MARS64.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS65.on("message", message => {
+PANDA65.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1556,7 +1545,7 @@ MARS65.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS66.on("message", message => {
+PANDA66.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1564,7 +1553,7 @@ MARS66.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS67.on("message", message => {
+PANDA67.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1572,7 +1561,7 @@ MARS67.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS68.on("message", message => {
+PANDA68.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1580,7 +1569,7 @@ MARS68.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS69.on("message", message => {
+PANDA69.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1588,7 +1577,7 @@ MARS69.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS70.on("message", message => {
+PANDA70.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1596,7 +1585,7 @@ MARS70.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS71.on("message", message => {
+PANDA71.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1604,7 +1593,7 @@ MARS71.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS72.on("message", message => {
+PANDA72.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1612,7 +1601,7 @@ MARS72.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS73.on("message", message => {
+PANDA73.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1620,7 +1609,7 @@ MARS73.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS74.on("message", message => {
+PANDA74.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1628,7 +1617,7 @@ MARS74.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS75.on("message", message => {
+PANDA75.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1636,7 +1625,7 @@ MARS75.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS76.on("message", message => {
+PANDA76.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1644,7 +1633,7 @@ MARS76.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS77.on("message", message => {
+PANDA77.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1652,7 +1641,7 @@ MARS77.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS78.on("message", message => {
+PANDA78.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1660,7 +1649,7 @@ MARS78.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS79.on("message", message => {
+PANDA79.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1668,7 +1657,7 @@ MARS79.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS80.on("message", message => {
+PANDA80.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1676,7 +1665,7 @@ MARS80.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS81.on("message", message => {
+PANDA81.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1684,7 +1673,7 @@ MARS81.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS82.on("message", message => {
+PANDA82.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1692,7 +1681,7 @@ MARS82.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS83.on("message", message => {
+PANDA83.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1700,7 +1689,7 @@ MARS83.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS84.on("message", message => {
+PANDA84.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1708,7 +1697,7 @@ MARS84.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS85.on("message", message => {
+PANDA85.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1716,7 +1705,7 @@ MARS85.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS86.on("message", message => {
+PANDA86.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1724,7 +1713,7 @@ MARS86.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS87.on("message", message => {
+PANDA87.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1732,7 +1721,7 @@ MARS87.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS88.on("message", message => {
+PANDA88.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1740,7 +1729,7 @@ MARS88.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS89.on("message", message => {
+PANDA89.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1748,7 +1737,7 @@ MARS89.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS90.on("message", message => {
+PANDA90.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1756,7 +1745,7 @@ MARS90.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS91.on("message", message => {
+PANDA91.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1764,7 +1753,7 @@ MARS91.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS92.on("message", message => {
+PANDA92.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1772,7 +1761,7 @@ MARS92.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS93.on("message", message => {
+PANDA93.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1780,7 +1769,7 @@ MARS93.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS94.on("message", message => {
+PANDA94.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1788,7 +1777,7 @@ MARS94.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS95.on("message", message => {
+PANDA95.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1796,7 +1785,7 @@ MARS95.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS96.on("message", message => {
+PANDA96.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1804,7 +1793,7 @@ MARS96.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS97.on("message", message => {
+PANDA97.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1812,7 +1801,7 @@ MARS97.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS98.on("message", message => {
+PANDA98.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1820,7 +1809,7 @@ MARS98.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS99.on("message", message => {
+PANDA99.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1828,7 +1817,7 @@ MARS99.on("message", message => {
     message.channel.send(help);
   }
 });
-MARS100.on("message", message => {
+PANDA100.on("message", message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.toLowerCase() === config.prefix + "yalla") {
     message.delete(5000);
@@ -1849,11 +1838,9 @@ MARS100.on("message", message => {
 //////////
 //////////
 //////////
-
-
 
 // ======= [ MODE - Join Server , add Friend   ] ======== //
-MARS.on("message", async message => {
+PANDA.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1862,7 +1849,7 @@ MARS.on("message", async message => {
   } else return null;
 });
 
-MARS2.on("message", async message => {
+PANDA2.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1870,7 +1857,7 @@ MARS2.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS3.on("message", async message => {
+PANDA3.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1878,7 +1865,7 @@ MARS3.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS4.on("message", async message => {
+PANDA4.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1886,7 +1873,7 @@ MARS4.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS5.on("message", async message => {
+PANDA5.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1894,7 +1881,7 @@ MARS5.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS6.on("message", async message => {
+PANDA6.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1902,7 +1889,7 @@ MARS6.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS7.on("message", async message => {
+PANDA7.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1910,7 +1897,7 @@ MARS7.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS8.on("message", async message => {
+PANDA8.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1918,7 +1905,7 @@ MARS8.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS9.on("message", async message => {
+PANDA9.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1926,7 +1913,7 @@ MARS9.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS10.on("message", async message => {
+PANDA10.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1934,7 +1921,7 @@ MARS10.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS11.on("message", async message => {
+PANDA11.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1943,7 +1930,7 @@ MARS11.on("message", async message => {
   } else return null;
 });
 
-MARS12.on("message", async message => {
+PANDA12.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1951,7 +1938,7 @@ MARS12.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS13.on("message", async message => {
+PANDA13.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1959,7 +1946,7 @@ MARS13.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS14.on("message", async message => {
+PANDA14.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1967,7 +1954,7 @@ MARS14.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS15.on("message", async message => {
+PANDA15.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1975,7 +1962,7 @@ MARS15.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS16.on("message", async message => {
+PANDA16.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1983,7 +1970,7 @@ MARS16.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS17.on("message", async message => {
+PANDA17.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1991,7 +1978,7 @@ MARS17.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS18.on("message", async message => {
+PANDA18.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -1999,7 +1986,7 @@ MARS18.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS19.on("message", async message => {
+PANDA19.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2007,7 +1994,7 @@ MARS19.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS20.on("message", async message => {
+PANDA20.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2015,7 +2002,7 @@ MARS20.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS21.on("message", async message => {
+PANDA21.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2023,7 +2010,7 @@ MARS21.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS22.on("message", async message => {
+PANDA22.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2031,7 +2018,7 @@ MARS22.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS23.on("message", async message => {
+PANDA23.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2039,7 +2026,7 @@ MARS23.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS24.on("message", async message => {
+PANDA24.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2047,7 +2034,7 @@ MARS24.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS25.on("message", async message => {
+PANDA25.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2055,7 +2042,7 @@ MARS25.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS26.on("message", async message => {
+PANDA26.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2063,7 +2050,7 @@ MARS26.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS27.on("message", async message => {
+PANDA27.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2071,7 +2058,7 @@ MARS27.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS28.on("message", async message => {
+PANDA28.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2079,7 +2066,7 @@ MARS28.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS29.on("message", async message => {
+PANDA29.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2087,7 +2074,7 @@ MARS29.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS30.on("message", async message => {
+PANDA30.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2095,7 +2082,7 @@ MARS30.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS31.on("message", async message => {
+PANDA31.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2103,7 +2090,7 @@ MARS31.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS32.on("message", async message => {
+PANDA32.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2111,7 +2098,7 @@ MARS32.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS33.on("message", async message => {
+PANDA33.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2119,7 +2106,7 @@ MARS33.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS34.on("message", async message => {
+PANDA34.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2127,7 +2114,7 @@ MARS34.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS35.on("message", async message => {
+PANDA35.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2135,7 +2122,7 @@ MARS35.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS36.on("message", async message => {
+PANDA36.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2143,7 +2130,7 @@ MARS36.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS37.on("message", async message => {
+PANDA37.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2151,7 +2138,7 @@ MARS37.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS38.on("message", async message => {
+PANDA38.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2159,7 +2146,7 @@ MARS38.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS39.on("message", async message => {
+PANDA39.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2167,7 +2154,7 @@ MARS39.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS40.on("message", async message => {
+PANDA40.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2175,7 +2162,7 @@ MARS40.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS41.on("message", async message => {
+PANDA41.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2183,7 +2170,7 @@ MARS41.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS42.on("message", async message => {
+PANDA42.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2191,7 +2178,7 @@ MARS42.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS43.on("message", async message => {
+PANDA43.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2199,7 +2186,7 @@ MARS43.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS44.on("message", async message => {
+PANDA44.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2207,7 +2194,7 @@ MARS44.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS45.on("message", async message => {
+PANDA45.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2215,7 +2202,7 @@ MARS45.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS46.on("message", async message => {
+PANDA46.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2223,7 +2210,7 @@ MARS46.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS47.on("message", async message => {
+PANDA47.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2231,7 +2218,7 @@ MARS47.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS48.on("message", async message => {
+PANDA48.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2239,7 +2226,7 @@ MARS48.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS49.on("message", async message => {
+PANDA49.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2247,7 +2234,7 @@ MARS49.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS50.on("message", async message => {
+PANDA50.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2256,7 +2243,7 @@ MARS50.on("message", async message => {
   } else return null;
 });
 //////////
-MARS51.on("message", async message => {
+PANDA51.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2265,7 +2252,7 @@ MARS51.on("message", async message => {
   } else return null;
 });
 
-MARS52.on("message", async message => {
+PANDA52.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2273,7 +2260,7 @@ MARS52.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS53.on("message", async message => {
+PANDA53.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2281,7 +2268,7 @@ MARS53.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS54.on("message", async message => {
+PANDA54.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2289,7 +2276,7 @@ MARS54.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS55.on("message", async message => {
+PANDA55.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2297,7 +2284,7 @@ MARS55.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS56.on("message", async message => {
+PANDA56.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2305,7 +2292,7 @@ MARS56.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS57.on("message", async message => {
+PANDA57.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2313,7 +2300,7 @@ MARS57.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS58.on("message", async message => {
+PANDA58.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2321,7 +2308,7 @@ MARS58.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS59.on("message", async message => {
+PANDA59.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2329,7 +2316,7 @@ MARS59.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS60.on("message", async message => {
+PANDA60.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2338,7 +2325,7 @@ MARS60.on("message", async message => {
   } else return null;
 });
 ///////
-MARS61.on("message", async message => {
+PANDA61.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2347,7 +2334,7 @@ MARS61.on("message", async message => {
   } else return null;
 });
 
-MARS62.on("message", async message => {
+PANDA62.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2355,7 +2342,7 @@ MARS62.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS63.on("message", async message => {
+PANDA63.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2363,7 +2350,7 @@ MARS63.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS64.on("message", async message => {
+PANDA64.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2371,7 +2358,7 @@ MARS64.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS65.on("message", async message => {
+PANDA65.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2379,7 +2366,7 @@ MARS65.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS66.on("message", async message => {
+PANDA66.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2387,7 +2374,7 @@ MARS66.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS67.on("message", async message => {
+PANDA67.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2395,7 +2382,7 @@ MARS67.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS68.on("message", async message => {
+PANDA68.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2403,7 +2390,7 @@ MARS68.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS69.on("message", async message => {
+PANDA69.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2411,7 +2398,7 @@ MARS69.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS70.on("message", async message => {
+PANDA70.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2420,7 +2407,7 @@ MARS70.on("message", async message => {
   } else return null;
 });
 ///////
-MARS71.on("message", async message => {
+PANDA71.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2429,7 +2416,7 @@ MARS71.on("message", async message => {
   } else return null;
 });
 
-MARS72.on("message", async message => {
+PANDA72.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2437,7 +2424,7 @@ MARS72.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS73.on("message", async message => {
+PANDA73.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2445,7 +2432,7 @@ MARS73.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS74.on("message", async message => {
+PANDA74.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2453,7 +2440,7 @@ MARS74.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS75.on("message", async message => {
+PANDA75.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2461,7 +2448,7 @@ MARS75.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS76.on("message", async message => {
+PANDA76.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2469,7 +2456,7 @@ MARS76.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS77.on("message", async message => {
+PANDA77.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2477,7 +2464,7 @@ MARS77.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS78.on("message", async message => {
+PANDA78.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2485,7 +2472,7 @@ MARS78.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS79.on("message", async message => {
+PANDA79.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2493,7 +2480,7 @@ MARS79.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS80.on("message", async message => {
+PANDA80.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2502,7 +2489,7 @@ MARS80.on("message", async message => {
   } else return null;
 });
 ///////
-MARS81.on("message", async message => {
+PANDA81.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2511,7 +2498,7 @@ MARS81.on("message", async message => {
   } else return null;
 });
 
-MARS82.on("message", async message => {
+PANDA82.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2519,7 +2506,7 @@ MARS82.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS83.on("message", async message => {
+PANDA83.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2527,7 +2514,7 @@ MARS83.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS84.on("message", async message => {
+PANDA84.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2535,7 +2522,7 @@ MARS84.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS85.on("message", async message => {
+PANDA85.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2543,7 +2530,7 @@ MARS85.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS86.on("message", async message => {
+PANDA86.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2551,7 +2538,7 @@ MARS86.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS87.on("message", async message => {
+PANDA87.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2559,7 +2546,7 @@ MARS87.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS88.on("message", async message => {
+PANDA88.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2567,7 +2554,7 @@ MARS88.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS89.on("message", async message => {
+PANDA89.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2575,7 +2562,7 @@ MARS89.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS90.on("message", async message => {
+PANDA90.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2584,7 +2571,7 @@ MARS90.on("message", async message => {
   } else return null;
 });
 ///////
-MARS91.on("message", async message => {
+PANDA91.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2593,7 +2580,7 @@ MARS91.on("message", async message => {
   } else return null;
 });
 
-MARS92.on("message", async message => {
+PANDA92.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2601,7 +2588,7 @@ MARS92.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS93.on("message", async message => {
+PANDA93.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2609,7 +2596,7 @@ MARS93.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS94.on("message", async message => {
+PANDA94.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2617,7 +2604,7 @@ MARS94.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS95.on("message", async message => {
+PANDA95.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2625,7 +2612,7 @@ MARS95.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS96.on("message", async message => {
+PANDA96.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2633,7 +2620,7 @@ MARS96.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS97.on("message", async message => {
+PANDA97.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2641,7 +2628,7 @@ MARS97.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS98.on("message", async message => {
+PANDA98.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2649,7 +2636,7 @@ MARS98.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS99.on("message", async message => {
+PANDA99.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2657,7 +2644,7 @@ MARS99.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS100.on("message", async message => {
+PANDA100.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2665,88 +2652,7 @@ MARS100.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS101.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-
-MARS102.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS103.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS104.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS105.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS106.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS107.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS108.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS109.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS110.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS111.on("message", async message => {
+PANDA101.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2755,7 +2661,7 @@ MARS111.on("message", async message => {
   } else return null;
 });
 
-MARS112.on("message", async message => {
+PANDA102.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2763,7 +2669,7 @@ MARS112.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS113.on("message", async message => {
+PANDA103.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2771,7 +2677,7 @@ MARS113.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS114.on("message", async message => {
+PANDA104.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2779,7 +2685,7 @@ MARS114.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS115.on("message", async message => {
+PANDA105.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2787,7 +2693,7 @@ MARS115.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS116.on("message", async message => {
+PANDA106.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2795,7 +2701,7 @@ MARS116.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS117.on("message", async message => {
+PANDA107.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2803,7 +2709,7 @@ MARS117.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS118.on("message", async message => {
+PANDA108.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2811,7 +2717,7 @@ MARS118.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS119.on("message", async message => {
+PANDA109.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2819,7 +2725,7 @@ MARS119.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS120.on("message", async message => {
+PANDA110.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2827,88 +2733,7 @@ MARS120.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS121.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-
-MARS122.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS123.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS124.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS125.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS126.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS127.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS128.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS129.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS130.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS131.on("message", async message => {
+PANDA111.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2917,7 +2742,7 @@ MARS131.on("message", async message => {
   } else return null;
 });
 
-MARS132.on("message", async message => {
+PANDA112.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2925,7 +2750,7 @@ MARS132.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS133.on("message", async message => {
+PANDA113.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2933,7 +2758,7 @@ MARS133.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS134.on("message", async message => {
+PANDA114.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2941,7 +2766,7 @@ MARS134.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS135.on("message", async message => {
+PANDA115.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2949,7 +2774,7 @@ MARS135.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS136.on("message", async message => {
+PANDA116.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2957,7 +2782,7 @@ MARS136.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS137.on("message", async message => {
+PANDA117.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2965,7 +2790,7 @@ MARS137.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS138.on("message", async message => {
+PANDA118.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2973,7 +2798,7 @@ MARS138.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS139.on("message", async message => {
+PANDA119.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2981,7 +2806,7 @@ MARS139.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS140.on("message", async message => {
+PANDA120.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -2989,88 +2814,7 @@ MARS140.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS141.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-
-MARS142.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS143.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS144.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS145.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS146.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS147.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS148.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS149.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS150.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS151.on("message", async message => {
+PANDA121.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3079,7 +2823,7 @@ MARS151.on("message", async message => {
   } else return null;
 });
 
-MARS152.on("message", async message => {
+PANDA122.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3087,7 +2831,7 @@ MARS152.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS153.on("message", async message => {
+PANDA123.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3095,7 +2839,7 @@ MARS153.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS154.on("message", async message => {
+PANDA124.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3103,7 +2847,7 @@ MARS154.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS155.on("message", async message => {
+PANDA125.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3111,7 +2855,7 @@ MARS155.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS156.on("message", async message => {
+PANDA126.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3119,7 +2863,7 @@ MARS156.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS157.on("message", async message => {
+PANDA127.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3127,7 +2871,7 @@ MARS157.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS158.on("message", async message => {
+PANDA128.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3135,7 +2879,7 @@ MARS158.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS159.on("message", async message => {
+PANDA129.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3143,7 +2887,7 @@ MARS159.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS160.on("message", async message => {
+PANDA130.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3151,88 +2895,7 @@ MARS160.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS161.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-
-MARS162.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS163.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS164.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS165.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS166.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS167.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS168.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS169.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS170.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS171.on("message", async message => {
+PANDA131.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3241,7 +2904,7 @@ MARS171.on("message", async message => {
   } else return null;
 });
 
-MARS172.on("message", async message => {
+PANDA132.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3249,7 +2912,7 @@ MARS172.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS173.on("message", async message => {
+PANDA133.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3257,7 +2920,7 @@ MARS173.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS174.on("message", async message => {
+PANDA134.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3265,7 +2928,7 @@ MARS174.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS175.on("message", async message => {
+PANDA135.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3273,7 +2936,7 @@ MARS175.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS176.on("message", async message => {
+PANDA136.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3281,7 +2944,7 @@ MARS176.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS177.on("message", async message => {
+PANDA137.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3289,7 +2952,7 @@ MARS177.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS178.on("message", async message => {
+PANDA138.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3297,7 +2960,7 @@ MARS178.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS179.on("message", async message => {
+PANDA139.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3305,7 +2968,7 @@ MARS179.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS180.on("message", async message => {
+PANDA140.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3313,88 +2976,7 @@ MARS180.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS181.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-
-MARS182.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS183.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS184.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS185.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS186.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS187.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS188.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS189.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS190.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS191.on("message", async message => {
+PANDA141.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3403,7 +2985,7 @@ MARS191.on("message", async message => {
   } else return null;
 });
 
-MARS192.on("message", async message => {
+PANDA142.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3411,7 +2993,7 @@ MARS192.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS193.on("message", async message => {
+PANDA143.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3419,7 +3001,7 @@ MARS193.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS194.on("message", async message => {
+PANDA144.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3427,7 +3009,7 @@ MARS194.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS195.on("message", async message => {
+PANDA145.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3435,7 +3017,7 @@ MARS195.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS196.on("message", async message => {
+PANDA146.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3443,7 +3025,7 @@ MARS196.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS197.on("message", async message => {
+PANDA147.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3451,7 +3033,7 @@ MARS197.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS198.on("message", async message => {
+PANDA148.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3459,7 +3041,7 @@ MARS198.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS199.on("message", async message => {
+PANDA149.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3467,7 +3049,7 @@ MARS199.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS200.on("message", async message => {
+PANDA150.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3475,88 +3057,7 @@ MARS200.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS201.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-
-MARS202.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS203.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS204.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS205.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS206.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS207.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS208.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS209.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS210.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS211.on("message", async message => {
+PANDA151.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3565,7 +3066,7 @@ MARS211.on("message", async message => {
   } else return null;
 });
 
-MARS212.on("message", async message => {
+PANDA152.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3573,7 +3074,7 @@ MARS212.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS213.on("message", async message => {
+PANDA153.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3581,7 +3082,7 @@ MARS213.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS214.on("message", async message => {
+PANDA154.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3589,7 +3090,7 @@ MARS214.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS215.on("message", async message => {
+PANDA155.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3597,7 +3098,7 @@ MARS215.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS216.on("message", async message => {
+PANDA156.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3605,7 +3106,7 @@ MARS216.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS217.on("message", async message => {
+PANDA157.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3613,7 +3114,7 @@ MARS217.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS218.on("message", async message => {
+PANDA158.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3621,7 +3122,7 @@ MARS218.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS219.on("message", async message => {
+PANDA159.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3629,7 +3130,7 @@ MARS219.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS220.on("message", async message => {
+PANDA160.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3637,88 +3138,7 @@ MARS220.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS221.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-
-MARS222.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS223.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS224.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS225.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS226.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS227.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS228.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS229.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS230.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS231.on("message", async message => {
+PANDA161.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3727,7 +3147,7 @@ MARS231.on("message", async message => {
   } else return null;
 });
 
-MARS232.on("message", async message => {
+PANDA162.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3735,7 +3155,7 @@ MARS232.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS233.on("message", async message => {
+PANDA163.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3743,7 +3163,7 @@ MARS233.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS234.on("message", async message => {
+PANDA164.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3751,7 +3171,7 @@ MARS234.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS235.on("message", async message => {
+PANDA165.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3759,7 +3179,7 @@ MARS235.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS236.on("message", async message => {
+PANDA166.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3767,7 +3187,7 @@ MARS236.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS237.on("message", async message => {
+PANDA167.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3775,7 +3195,7 @@ MARS237.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS238.on("message", async message => {
+PANDA168.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3783,7 +3203,7 @@ MARS238.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS239.on("message", async message => {
+PANDA169.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3791,7 +3211,7 @@ MARS239.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS240.on("message", async message => {
+PANDA170.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3799,88 +3219,7 @@ MARS240.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS241.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-
-MARS242.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS243.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS244.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS245.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS246.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS247.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS248.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS249.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS250.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS251.on("message", async message => {
+PANDA171.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3889,7 +3228,7 @@ MARS251.on("message", async message => {
   } else return null;
 });
 
-MARS252.on("message", async message => {
+PANDA172.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3897,7 +3236,7 @@ MARS252.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS253.on("message", async message => {
+PANDA173.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3905,7 +3244,7 @@ MARS253.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS254.on("message", async message => {
+PANDA174.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3913,7 +3252,7 @@ MARS254.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS255.on("message", async message => {
+PANDA175.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3921,7 +3260,7 @@ MARS255.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS256.on("message", async message => {
+PANDA176.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3929,7 +3268,7 @@ MARS256.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS257.on("message", async message => {
+PANDA177.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3937,7 +3276,7 @@ MARS257.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS258.on("message", async message => {
+PANDA178.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3945,7 +3284,7 @@ MARS258.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS259.on("message", async message => {
+PANDA179.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3953,7 +3292,7 @@ MARS259.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS260.on("message", async message => {
+PANDA180.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -3961,88 +3300,7 @@ MARS260.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS261.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-
-MARS262.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS263.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS264.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS265.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS266.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS267.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS268.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS269.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS270.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS271.on("message", async message => {
+PANDA181.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4051,7 +3309,7 @@ MARS271.on("message", async message => {
   } else return null;
 });
 
-MARS272.on("message", async message => {
+PANDA182.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4059,7 +3317,7 @@ MARS272.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS273.on("message", async message => {
+PANDA183.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4067,7 +3325,7 @@ MARS273.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS274.on("message", async message => {
+PANDA184.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4075,7 +3333,7 @@ MARS274.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS275.on("message", async message => {
+PANDA185.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4083,7 +3341,7 @@ MARS275.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS276.on("message", async message => {
+PANDA186.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4091,7 +3349,7 @@ MARS276.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS277.on("message", async message => {
+PANDA187.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4099,7 +3357,7 @@ MARS277.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS278.on("message", async message => {
+PANDA188.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4107,7 +3365,7 @@ MARS278.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS279.on("message", async message => {
+PANDA189.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4115,7 +3373,7 @@ MARS279.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS280.on("message", async message => {
+PANDA190.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4123,88 +3381,7 @@ MARS280.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS281.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-
-MARS282.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS283.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS284.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS285.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS286.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS287.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS288.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS289.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS290.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-MARS291.on("message", async message => {
+PANDA191.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4213,7 +3390,7 @@ MARS291.on("message", async message => {
   } else return null;
 });
 
-MARS292.on("message", async message => {
+PANDA192.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4221,7 +3398,7 @@ MARS292.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS293.on("message", async message => {
+PANDA193.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4229,7 +3406,7 @@ MARS293.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS294.on("message", async message => {
+PANDA194.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4237,7 +3414,7 @@ MARS294.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS295.on("message", async message => {
+PANDA195.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4245,7 +3422,7 @@ MARS295.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS296.on("message", async message => {
+PANDA196.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4253,7 +3430,7 @@ MARS296.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS297.on("message", async message => {
+PANDA197.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4261,7 +3438,7 @@ MARS297.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS298.on("message", async message => {
+PANDA198.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4269,7 +3446,7 @@ MARS298.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS299.on("message", async message => {
+PANDA199.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4277,7 +3454,817 @@ MARS299.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-MARS300.on("message", async message => {
+PANDA200.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA201.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+
+PANDA202.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA203.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA204.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA205.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA206.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA207.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA208.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA209.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA210.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA211.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+
+PANDA212.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA213.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA214.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA215.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA216.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA217.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA218.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA219.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA220.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA221.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+
+PANDA222.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA223.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA224.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA225.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA226.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA227.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA228.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA229.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA230.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA231.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+
+PANDA232.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA233.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA234.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA235.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA236.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA237.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA238.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA239.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA240.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA241.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+
+PANDA242.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA243.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA244.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA245.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA246.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA247.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA248.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA249.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA250.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA251.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+
+PANDA252.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA253.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA254.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA255.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA256.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA257.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA258.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA259.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA260.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA261.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+
+PANDA262.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA263.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA264.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA265.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA266.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA267.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA268.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA269.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA270.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA271.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+
+PANDA272.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA273.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA274.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA275.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA276.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA277.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA278.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA279.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA280.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA281.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+
+PANDA282.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA283.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA284.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA285.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA286.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA287.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA288.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA289.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA290.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA291.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+
+PANDA292.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA293.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA294.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA295.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA296.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA297.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA298.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA299.on("message", async message => {
+  if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content.startsWith(config.prefix + "friend")) {
+    await addFriend(message.content.split(" ").slice(1)[0], message);
+  } else if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+PANDA300.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
@@ -4320,7 +4307,9 @@ async function joinServer(invite, message) {
         if (body.message.includes("Unknown Invite"))
           return console.log("[ERROR] - Unkown Invite.");
         if (body.message.includes("banned"))
-          return console.log("[ERROR] - وەڵا بــــاندیـــان کـــردیمـــــە لـــــەو ســــێرڤـــــەرەی لــــەقــــەبـــرین بــــم.");
+          return console.log(
+            "[ERROR] - وەڵا بــــاندیـــان کـــردیمـــــە لـــــەو ســــێرڤـــــەرەی لــــەقــــەبـــرین بــــم."
+          );
         await console.log(`[INFO] - Done.`);
       }
     }
@@ -4363,9 +4352,9 @@ async function addFriend(id, message) {
 // ======= [ functions - Join Server , add Friend END  ] ======== //
 
 // ======= [ StayVoice - MODE  ] ======== //
-MARS.on("message", message => {
+PANDA.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4381,9 +4370,9 @@ MARS.on("message", message => {
     }
   }
 });
-MARS2.on("message", message => {
+PANDA2.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4399,9 +4388,9 @@ MARS2.on("message", message => {
     }
   }
 });
-MARS3.on("message", message => {
+PANDA3.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4417,9 +4406,9 @@ MARS3.on("message", message => {
     }
   }
 });
-MARS4.on("message", message => {
+PANDA4.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4435,9 +4424,9 @@ MARS4.on("message", message => {
     }
   }
 });
-MARS5.on("message", message => {
+PANDA5.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4453,9 +4442,9 @@ MARS5.on("message", message => {
     }
   }
 });
-MARS6.on("message", message => {
+PANDA6.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4471,9 +4460,9 @@ MARS6.on("message", message => {
     }
   }
 });
-MARS7.on("message", message => {
+PANDA7.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4489,9 +4478,9 @@ MARS7.on("message", message => {
     }
   }
 });
-MARS8.on("message", message => {
+PANDA8.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4507,9 +4496,9 @@ MARS8.on("message", message => {
     }
   }
 });
-MARS9.on("message", message => {
+PANDA9.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4525,9 +4514,9 @@ MARS9.on("message", message => {
     }
   }
 });
-MARS10.on("message", message => {
+PANDA10.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4543,9 +4532,9 @@ MARS10.on("message", message => {
     }
   }
 });
-MARS11.on("message", message => {
+PANDA11.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4561,9 +4550,9 @@ MARS11.on("message", message => {
     }
   }
 });
-MARS12.on("message", message => {
+PANDA12.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return; // جمــيع الحقوق محفوظة لدي "Kahrbaa"
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4579,9 +4568,9 @@ MARS12.on("message", message => {
     }
   }
 });
-MARS13.on("message", message => {
+PANDA13.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4597,9 +4586,9 @@ MARS13.on("message", message => {
     }
   }
 });
-MARS14.on("message", message => {
+PANDA14.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4615,9 +4604,9 @@ MARS14.on("message", message => {
     }
   }
 });
-MARS15.on("message", message => {
+PANDA15.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4633,9 +4622,9 @@ MARS15.on("message", message => {
     }
   }
 });
-MARS16.on("message", message => {
+PANDA16.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4651,9 +4640,9 @@ MARS16.on("message", message => {
     }
   }
 });
-MARS17.on("message", message => {
+PANDA17.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4669,9 +4658,9 @@ MARS17.on("message", message => {
     }
   }
 });
-MARS18.on("message", message => {
+PANDA18.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4687,9 +4676,9 @@ MARS18.on("message", message => {
     }
   }
 });
-MARS19.on("message", message => {
+PANDA19.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4705,9 +4694,9 @@ MARS19.on("message", message => {
     }
   }
 });
-MARS20.on("message", message => {
+PANDA20.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4723,9 +4712,9 @@ MARS20.on("message", message => {
     }
   }
 });
-MARS21.on("message", message => {
+PANDA21.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4741,28 +4730,9 @@ MARS21.on("message", message => {
     }
   }
 });
-MARS22.on("message", message => {
+PANDA22.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
-    if (!dinfo.owner.includes(message.author.id)) return;
-    if (message.member.voiceChannel) {
-      message.member.voiceChannel
-        .join()
-        .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
-        })
-        .catch(console.log);
-    } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
-    }
-  }
-});
-
-MARS23.on("message", message => {
-  if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4779,9 +4749,9 @@ MARS23.on("message", message => {
   }
 });
 
-MARS24.on("message", message => {
+PANDA23.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4798,9 +4768,9 @@ MARS24.on("message", message => {
   }
 });
 
-MARS25.on("message", message => {
+PANDA24.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4817,9 +4787,9 @@ MARS25.on("message", message => {
   }
 });
 
-MARS26.on("message", message => {
+PANDA25.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4836,9 +4806,9 @@ MARS26.on("message", message => {
   }
 });
 
-MARS27.on("message", message => {
+PANDA26.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4855,9 +4825,9 @@ MARS27.on("message", message => {
   }
 });
 
-MARS28.on("message", message => {
+PANDA27.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4874,9 +4844,9 @@ MARS28.on("message", message => {
   }
 });
 
-MARS29.on("message", message => {
+PANDA28.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4893,9 +4863,9 @@ MARS29.on("message", message => {
   }
 });
 
-MARS30.on("message", message => {
+PANDA29.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4912,9 +4882,9 @@ MARS30.on("message", message => {
   }
 });
 
-MARS31.on("message", message => {
+PANDA30.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4931,9 +4901,9 @@ MARS31.on("message", message => {
   }
 });
 
-MARS32.on("message", message => {
+PANDA31.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4950,9 +4920,9 @@ MARS32.on("message", message => {
   }
 });
 
-MARS33.on("message", message => {
+PANDA32.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4969,9 +4939,9 @@ MARS33.on("message", message => {
   }
 });
 
-MARS34.on("message", message => {
+PANDA33.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -4988,9 +4958,9 @@ MARS34.on("message", message => {
   }
 });
 
-MARS35.on("message", message => {
+PANDA34.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5007,9 +4977,9 @@ MARS35.on("message", message => {
   }
 });
 
-MARS36.on("message", message => {
+PANDA35.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5026,9 +4996,9 @@ MARS36.on("message", message => {
   }
 });
 
-MARS37.on("message", message => {
+PANDA36.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5045,9 +5015,9 @@ MARS37.on("message", message => {
   }
 });
 
-MARS38.on("message", message => {
+PANDA37.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5064,9 +5034,9 @@ MARS38.on("message", message => {
   }
 });
 
-MARS39.on("message", message => {
+PANDA38.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5083,9 +5053,9 @@ MARS39.on("message", message => {
   }
 });
 
-MARS40.on("message", message => {
+PANDA39.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5102,9 +5072,9 @@ MARS40.on("message", message => {
   }
 });
 
-MARS41.on("message", message => {
+PANDA40.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5121,9 +5091,9 @@ MARS41.on("message", message => {
   }
 });
 
-MARS42.on("message", message => {
+PANDA41.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5140,9 +5110,9 @@ MARS42.on("message", message => {
   }
 });
 
-MARS43.on("message", message => {
+PANDA42.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5159,9 +5129,9 @@ MARS43.on("message", message => {
   }
 });
 
-MARS44.on("message", message => {
+PANDA43.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5178,9 +5148,9 @@ MARS44.on("message", message => {
   }
 });
 
-MARS45.on("message", message => {
+PANDA44.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5197,9 +5167,9 @@ MARS45.on("message", message => {
   }
 });
 
-MARS46.on("message", message => {
+PANDA45.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5216,9 +5186,9 @@ MARS46.on("message", message => {
   }
 });
 
-MARS47.on("message", message => {
+PANDA46.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5235,9 +5205,9 @@ MARS47.on("message", message => {
   }
 });
 
-MARS48.on("message", message => {
+PANDA47.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5254,9 +5224,9 @@ MARS48.on("message", message => {
   }
 });
 
-MARS49.on("message", message => {
+PANDA48.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5273,9 +5243,28 @@ MARS49.on("message", message => {
   }
 });
 
-MARS50.on("message", message => {
+PANDA49.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**😂هـــــاتــــم**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+      );
+    }
+  }
+});
+
+PANDA50.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5292,9 +5281,9 @@ MARS50.on("message", message => {
   }
 });
 //////
-MARS51.on("message", message => {
+PANDA51.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5310,9 +5299,9 @@ MARS51.on("message", message => {
     }
   }
 });
-MARS52.on("message", message => {
+PANDA52.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5328,9 +5317,9 @@ MARS52.on("message", message => {
     }
   }
 });
-MARS53.on("message", message => {
+PANDA53.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5346,9 +5335,9 @@ MARS53.on("message", message => {
     }
   }
 });
-MARS54.on("message", message => {
+PANDA54.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5364,9 +5353,9 @@ MARS54.on("message", message => {
     }
   }
 });
-MARS55.on("message", message => {
+PANDA55.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5382,9 +5371,9 @@ MARS55.on("message", message => {
     }
   }
 });
-MARS56.on("message", message => {
+PANDA56.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5400,9 +5389,9 @@ MARS56.on("message", message => {
     }
   }
 });
-MARS57.on("message", message => {
+PANDA57.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5418,9 +5407,9 @@ MARS57.on("message", message => {
     }
   }
 });
-MARS58.on("message", message => {
+PANDA58.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5436,9 +5425,9 @@ MARS58.on("message", message => {
     }
   }
 });
-MARS59.on("message", message => {
+PANDA59.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5454,9 +5443,9 @@ MARS59.on("message", message => {
     }
   }
 });
-MARS60.on("message", message => {
+PANDA60.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5473,9 +5462,9 @@ MARS60.on("message", message => {
   }
 });
 /////
-MARS61.on("message", message => {
+PANDA61.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5491,9 +5480,9 @@ MARS61.on("message", message => {
     }
   }
 });
-MARS62.on("message", message => {
+PANDA62.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5509,9 +5498,9 @@ MARS62.on("message", message => {
     }
   }
 });
-MARS63.on("message", message => {
+PANDA63.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5527,9 +5516,9 @@ MARS63.on("message", message => {
     }
   }
 });
-MARS64.on("message", message => {
+PANDA64.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5545,9 +5534,9 @@ MARS64.on("message", message => {
     }
   }
 });
-MARS65.on("message", message => {
+PANDA65.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5563,9 +5552,9 @@ MARS65.on("message", message => {
     }
   }
 });
-MARS66.on("message", message => {
+PANDA66.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5581,9 +5570,9 @@ MARS66.on("message", message => {
     }
   }
 });
-MARS67.on("message", message => {
+PANDA67.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5599,9 +5588,9 @@ MARS67.on("message", message => {
     }
   }
 });
-MARS68.on("message", message => {
+PANDA68.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5617,9 +5606,9 @@ MARS68.on("message", message => {
     }
   }
 });
-MARS69.on("message", message => {
+PANDA69.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5635,9 +5624,9 @@ MARS69.on("message", message => {
     }
   }
 });
-MARS70.on("message", message => {
+PANDA70.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5654,9 +5643,9 @@ MARS70.on("message", message => {
   }
 });
 //////
-MARS71.on("message", message => {
+PANDA71.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5672,9 +5661,9 @@ MARS71.on("message", message => {
     }
   }
 });
-MARS72.on("message", message => {
+PANDA72.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5690,9 +5679,9 @@ MARS72.on("message", message => {
     }
   }
 });
-MARS73.on("message", message => {
+PANDA73.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5708,9 +5697,9 @@ MARS73.on("message", message => {
     }
   }
 });
-MARS74.on("message", message => {
+PANDA74.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5726,9 +5715,9 @@ MARS74.on("message", message => {
     }
   }
 });
-MARS75.on("message", message => {
+PANDA75.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5744,9 +5733,9 @@ MARS75.on("message", message => {
     }
   }
 });
-MARS76.on("message", message => {
+PANDA76.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5762,9 +5751,9 @@ MARS76.on("message", message => {
     }
   }
 });
-MARS77.on("message", message => {
+PANDA77.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5780,9 +5769,9 @@ MARS77.on("message", message => {
     }
   }
 });
-MARS78.on("message", message => {
+PANDA78.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5798,9 +5787,9 @@ MARS78.on("message", message => {
     }
   }
 });
-MARS79.on("message", message => {
+PANDA79.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5816,9 +5805,9 @@ MARS79.on("message", message => {
     }
   }
 });
-MARS80.on("message", message => {
+PANDA80.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5835,9 +5824,9 @@ MARS80.on("message", message => {
   }
 });
 ///////
-MARS81.on("message", message => {
+PANDA81.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5853,9 +5842,9 @@ MARS81.on("message", message => {
     }
   }
 });
-MARS82.on("message", message => {
+PANDA82.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5871,9 +5860,9 @@ MARS82.on("message", message => {
     }
   }
 });
-MARS83.on("message", message => {
+PANDA83.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5889,9 +5878,9 @@ MARS83.on("message", message => {
     }
   }
 });
-MARS84.on("message", message => {
+PANDA84.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5907,9 +5896,9 @@ MARS84.on("message", message => {
     }
   }
 });
-MARS85.on("message", message => {
+PANDA85.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5925,9 +5914,9 @@ MARS85.on("message", message => {
     }
   }
 });
-MARS86.on("message", message => {
+PANDA86.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5943,9 +5932,9 @@ MARS86.on("message", message => {
     }
   }
 });
-MARS87.on("message", message => {
+PANDA87.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5961,9 +5950,9 @@ MARS87.on("message", message => {
     }
   }
 });
-MARS88.on("message", message => {
+PANDA88.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5979,9 +5968,9 @@ MARS88.on("message", message => {
     }
   }
 });
-MARS89.on("message", message => {
+PANDA89.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -5997,9 +5986,9 @@ MARS89.on("message", message => {
     }
   }
 });
-MARS90.on("message", message => {
+PANDA90.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6016,9 +6005,9 @@ MARS90.on("message", message => {
   }
 });
 /////
-MARS91.on("message", message => {
+PANDA91.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6034,9 +6023,9 @@ MARS91.on("message", message => {
     }
   }
 });
-MARS92.on("message", message => {
+PANDA92.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6052,9 +6041,9 @@ MARS92.on("message", message => {
     }
   }
 });
-MARS93.on("message", message => {
+PANDA93.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6070,9 +6059,9 @@ MARS93.on("message", message => {
     }
   }
 });
-MARS94.on("message", message => {
+PANDA94.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6088,9 +6077,9 @@ MARS94.on("message", message => {
     }
   }
 });
-MARS95.on("message", message => {
+PANDA95.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6106,9 +6095,9 @@ MARS95.on("message", message => {
     }
   }
 });
-MARS96.on("message", message => {
+PANDA96.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6124,9 +6113,9 @@ MARS96.on("message", message => {
     }
   }
 });
-MARS97.on("message", message => {
+PANDA97.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6142,9 +6131,9 @@ MARS97.on("message", message => {
     }
   }
 });
-MARS98.on("message", message => {
+PANDA98.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6160,9 +6149,9 @@ MARS98.on("message", message => {
     }
   }
 });
-MARS99.on("message", message => {
+PANDA99.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6178,9 +6167,9 @@ MARS99.on("message", message => {
     }
   }
 });
-MARS100.on("message", message => {
+PANDA100.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6196,9 +6185,9 @@ MARS100.on("message", message => {
     }
   }
 });
-MARS101.on("message", message => {
+PANDA101.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6214,9 +6203,9 @@ MARS101.on("message", message => {
     }
   }
 });
-MARS102.on("message", message => {
+PANDA102.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6232,9 +6221,9 @@ MARS102.on("message", message => {
     }
   }
 });
-MARS103.on("message", message => {
+PANDA103.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6250,9 +6239,9 @@ MARS103.on("message", message => {
     }
   }
 });
-MARS104.on("message", message => {
+PANDA104.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6268,9 +6257,9 @@ MARS104.on("message", message => {
     }
   }
 });
-MARS105.on("message", message => {
+PANDA105.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6286,9 +6275,9 @@ MARS105.on("message", message => {
     }
   }
 });
-MARS106.on("message", message => {
+PANDA106.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6304,9 +6293,9 @@ MARS106.on("message", message => {
     }
   }
 });
-MARS107.on("message", message => {
+PANDA107.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6322,9 +6311,9 @@ MARS107.on("message", message => {
     }
   }
 });
-MARS108.on("message", message => {
+PANDA108.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6340,9 +6329,9 @@ MARS108.on("message", message => {
     }
   }
 });
-MARS109.on("message", message => {
+PANDA109.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6358,9 +6347,9 @@ MARS109.on("message", message => {
     }
   }
 });
-MARS110.on("message", message => {
+PANDA110.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6376,9 +6365,9 @@ MARS110.on("message", message => {
     }
   }
 });
-MARS111.on("message", message => {
+PANDA111.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6394,9 +6383,9 @@ MARS111.on("message", message => {
     }
   }
 });
-MARS112.on("message", message => {
+PANDA112.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6412,9 +6401,9 @@ MARS112.on("message", message => {
     }
   }
 });
-MARS113.on("message", message => {
+PANDA113.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6430,9 +6419,9 @@ MARS113.on("message", message => {
     }
   }
 });
-MARS114.on("message", message => {
+PANDA114.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6448,9 +6437,9 @@ MARS114.on("message", message => {
     }
   }
 });
-MARS115.on("message", message => {
+PANDA115.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6466,9 +6455,9 @@ MARS115.on("message", message => {
     }
   }
 });
-MARS116.on("message", message => {
+PANDA116.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6484,9 +6473,9 @@ MARS116.on("message", message => {
     }
   }
 });
-MARS117.on("message", message => {
+PANDA117.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6502,9 +6491,9 @@ MARS117.on("message", message => {
     }
   }
 });
-MARS118.on("message", message => {
+PANDA118.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6520,9 +6509,9 @@ MARS118.on("message", message => {
     }
   }
 });
-MARS119.on("message", message => {
+PANDA119.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6538,9 +6527,9 @@ MARS119.on("message", message => {
     }
   }
 });
-MARS120.on("message", message => {
+PANDA120.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6556,9 +6545,9 @@ MARS120.on("message", message => {
     }
   }
 });
-MARS121.on("message", message => {
+PANDA121.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6574,9 +6563,9 @@ MARS121.on("message", message => {
     }
   }
 });
-MARS122.on("message", message => {
+PANDA122.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6592,9 +6581,9 @@ MARS122.on("message", message => {
     }
   }
 });
-MARS123.on("message", message => {
+PANDA123.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6610,9 +6599,9 @@ MARS123.on("message", message => {
     }
   }
 });
-MARS124.on("message", message => {
+PANDA124.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6628,9 +6617,9 @@ MARS124.on("message", message => {
     }
   }
 });
-MARS125.on("message", message => {
+PANDA125.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6646,9 +6635,9 @@ MARS125.on("message", message => {
     }
   }
 });
-MARS126.on("message", message => {
+PANDA126.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6664,9 +6653,9 @@ MARS126.on("message", message => {
     }
   }
 });
-MARS127.on("message", message => {
+PANDA127.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6682,9 +6671,9 @@ MARS127.on("message", message => {
     }
   }
 });
-MARS128.on("message", message => {
+PANDA128.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6700,9 +6689,9 @@ MARS128.on("message", message => {
     }
   }
 });
-MARS129.on("message", message => {
+PANDA129.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6718,9 +6707,9 @@ MARS129.on("message", message => {
     }
   }
 });
-MARS130.on("message", message => {
+PANDA130.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6736,9 +6725,9 @@ MARS130.on("message", message => {
     }
   }
 });
-MARS131.on("message", message => {
+PANDA131.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6754,9 +6743,9 @@ MARS131.on("message", message => {
     }
   }
 });
-MARS132.on("message", message => {
+PANDA132.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6772,9 +6761,9 @@ MARS132.on("message", message => {
     }
   }
 });
-MARS133.on("message", message => {
+PANDA133.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6790,9 +6779,9 @@ MARS133.on("message", message => {
     }
   }
 });
-MARS134.on("message", message => {
+PANDA134.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6808,9 +6797,9 @@ MARS134.on("message", message => {
     }
   }
 });
-MARS135.on("message", message => {
+PANDA135.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6826,9 +6815,9 @@ MARS135.on("message", message => {
     }
   }
 });
-MARS136.on("message", message => {
+PANDA136.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6844,9 +6833,9 @@ MARS136.on("message", message => {
     }
   }
 });
-MARS137.on("message", message => {
+PANDA137.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6862,9 +6851,9 @@ MARS137.on("message", message => {
     }
   }
 });
-MARS138.on("message", message => {
+PANDA138.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6880,9 +6869,9 @@ MARS138.on("message", message => {
     }
   }
 });
-MARS139.on("message", message => {
+PANDA139.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6898,9 +6887,9 @@ MARS139.on("message", message => {
     }
   }
 });
-MARS140.on("message", message => {
+PANDA140.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6916,9 +6905,9 @@ MARS140.on("message", message => {
     }
   }
 });
-MARS141.on("message", message => {
+PANDA141.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6934,9 +6923,9 @@ MARS141.on("message", message => {
     }
   }
 });
-MARS142.on("message", message => {
+PANDA142.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6952,9 +6941,9 @@ MARS142.on("message", message => {
     }
   }
 });
-MARS143.on("message", message => {
+PANDA143.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6970,9 +6959,9 @@ MARS143.on("message", message => {
     }
   }
 });
-MARS144.on("message", message => {
+PANDA144.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6988,9 +6977,9 @@ MARS144.on("message", message => {
     }
   }
 });
-MARS145.on("message", message => {
+PANDA145.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7006,9 +6995,9 @@ MARS145.on("message", message => {
     }
   }
 });
-MARS146.on("message", message => {
+PANDA146.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7024,9 +7013,9 @@ MARS146.on("message", message => {
     }
   }
 });
-MARS147.on("message", message => {
+PANDA147.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7042,9 +7031,9 @@ MARS147.on("message", message => {
     }
   }
 });
-MARS148.on("message", message => {
+PANDA148.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7060,9 +7049,9 @@ MARS148.on("message", message => {
     }
   }
 });
-MARS149.on("message", message => {
+PANDA149.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7078,9 +7067,9 @@ MARS149.on("message", message => {
     }
   }
 });
-MARS150.on("message", message => {
+PANDA150.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7096,9 +7085,9 @@ MARS150.on("message", message => {
     }
   }
 });
-MARS151.on("message", message => {
+PANDA151.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7114,9 +7103,9 @@ MARS151.on("message", message => {
     }
   }
 });
-MARS152.on("message", message => {
+PANDA152.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7132,9 +7121,9 @@ MARS152.on("message", message => {
     }
   }
 });
-MARS153.on("message", message => {
+PANDA153.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7150,9 +7139,9 @@ MARS153.on("message", message => {
     }
   }
 });
-MARS154.on("message", message => {
+PANDA154.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7168,9 +7157,9 @@ MARS154.on("message", message => {
     }
   }
 });
-MARS155.on("message", message => {
+PANDA155.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7186,9 +7175,9 @@ MARS155.on("message", message => {
     }
   }
 });
-MARS156.on("message", message => {
+PANDA156.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7204,9 +7193,9 @@ MARS156.on("message", message => {
     }
   }
 });
-MARS157.on("message", message => {
+PANDA157.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7222,9 +7211,9 @@ MARS157.on("message", message => {
     }
   }
 });
-MARS158.on("message", message => {
+PANDA158.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7240,9 +7229,9 @@ MARS158.on("message", message => {
     }
   }
 });
-MARS159.on("message", message => {
+PANDA159.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7258,9 +7247,9 @@ MARS159.on("message", message => {
     }
   }
 });
-MARS160.on("message", message => {
+PANDA160.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7276,9 +7265,9 @@ MARS160.on("message", message => {
     }
   }
 });
-MARS161.on("message", message => {
+PANDA161.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7294,9 +7283,9 @@ MARS161.on("message", message => {
     }
   }
 });
-MARS162.on("message", message => {
+PANDA162.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7312,9 +7301,9 @@ MARS162.on("message", message => {
     }
   }
 });
-MARS163.on("message", message => {
+PANDA163.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7330,9 +7319,9 @@ MARS163.on("message", message => {
     }
   }
 });
-MARS164.on("message", message => {
+PANDA164.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7348,9 +7337,9 @@ MARS164.on("message", message => {
     }
   }
 });
-MARS165.on("message", message => {
+PANDA165.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7366,9 +7355,9 @@ MARS165.on("message", message => {
     }
   }
 });
-MARS166.on("message", message => {
+PANDA166.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7384,9 +7373,9 @@ MARS166.on("message", message => {
     }
   }
 });
-MARS167.on("message", message => {
+PANDA167.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7402,9 +7391,9 @@ MARS167.on("message", message => {
     }
   }
 });
-MARS168.on("message", message => {
+PANDA168.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7420,9 +7409,9 @@ MARS168.on("message", message => {
     }
   }
 });
-MARS169.on("message", message => {
+PANDA169.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7438,9 +7427,9 @@ MARS169.on("message", message => {
     }
   }
 });
-MARS170.on("message", message => {
+PANDA170.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7456,9 +7445,9 @@ MARS170.on("message", message => {
     }
   }
 });
-MARS171.on("message", message => {
+PANDA171.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7474,9 +7463,9 @@ MARS171.on("message", message => {
     }
   }
 });
-MARS172.on("message", message => {
+PANDA172.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7492,9 +7481,9 @@ MARS172.on("message", message => {
     }
   }
 });
-MARS173.on("message", message => {
+PANDA173.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7510,9 +7499,9 @@ MARS173.on("message", message => {
     }
   }
 });
-MARS174.on("message", message => {
+PANDA174.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7528,9 +7517,9 @@ MARS174.on("message", message => {
     }
   }
 });
-MARS175.on("message", message => {
+PANDA175.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7546,9 +7535,9 @@ MARS175.on("message", message => {
     }
   }
 });
-MARS176.on("message", message => {
+PANDA176.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7564,9 +7553,9 @@ MARS176.on("message", message => {
     }
   }
 });
-MARS177.on("message", message => {
+PANDA177.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7582,9 +7571,9 @@ MARS177.on("message", message => {
     }
   }
 });
-MARS178.on("message", message => {
+PANDA178.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7600,9 +7589,9 @@ MARS178.on("message", message => {
     }
   }
 });
-MARS179.on("message", message => {
+PANDA179.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7618,9 +7607,9 @@ MARS179.on("message", message => {
     }
   }
 });
-MARS180.on("message", message => {
+PANDA180.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7636,9 +7625,9 @@ MARS180.on("message", message => {
     }
   }
 });
-MARS181.on("message", message => {
+PANDA181.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7654,9 +7643,9 @@ MARS181.on("message", message => {
     }
   }
 });
-MARS182.on("message", message => {
+PANDA182.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7672,9 +7661,9 @@ MARS182.on("message", message => {
     }
   }
 });
-MARS183.on("message", message => {
+PANDA183.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7690,9 +7679,9 @@ MARS183.on("message", message => {
     }
   }
 });
-MARS184.on("message", message => {
+PANDA184.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7708,9 +7697,9 @@ MARS184.on("message", message => {
     }
   }
 });
-MARS185.on("message", message => {
+PANDA185.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7726,9 +7715,9 @@ MARS185.on("message", message => {
     }
   }
 });
-MARS186.on("message", message => {
+PANDA186.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7744,9 +7733,9 @@ MARS186.on("message", message => {
     }
   }
 });
-MARS187.on("message", message => {
+PANDA187.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7762,9 +7751,9 @@ MARS187.on("message", message => {
     }
   }
 });
-MARS188.on("message", message => {
+PANDA188.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7780,9 +7769,9 @@ MARS188.on("message", message => {
     }
   }
 });
-MARS189.on("message", message => {
+PANDA189.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7798,9 +7787,9 @@ MARS189.on("message", message => {
     }
   }
 });
-MARS190.on("message", message => {
+PANDA190.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7816,9 +7805,9 @@ MARS190.on("message", message => {
     }
   }
 });
-MARS191.on("message", message => {
+PANDA191.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7834,9 +7823,9 @@ MARS191.on("message", message => {
     }
   }
 });
-MARS192.on("message", message => {
+PANDA192.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7852,9 +7841,9 @@ MARS192.on("message", message => {
     }
   }
 });
-MARS193.on("message", message => {
+PANDA193.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7870,9 +7859,9 @@ MARS193.on("message", message => {
     }
   }
 });
-MARS194.on("message", message => {
+PANDA194.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7888,9 +7877,9 @@ MARS194.on("message", message => {
     }
   }
 });
-MARS195.on("message", message => {
+PANDA195.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7906,9 +7895,9 @@ MARS195.on("message", message => {
     }
   }
 });
-MARS196.on("message", message => {
+PANDA196.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7924,9 +7913,9 @@ MARS196.on("message", message => {
     }
   }
 });
-MARS197.on("message", message => {
+PANDA197.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7942,9 +7931,9 @@ MARS197.on("message", message => {
     }
   }
 });
-MARS198.on("message", message => {
+PANDA198.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7960,9 +7949,9 @@ MARS198.on("message", message => {
     }
   }
 });
-MARS199.on("message", message => {
+PANDA199.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7978,9 +7967,9 @@ MARS199.on("message", message => {
     }
   }
 });
-MARS200.on("message", message => {
+PANDA200.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7996,9 +7985,9 @@ MARS200.on("message", message => {
     }
   }
 });
-MARS201.on("message", message => {
+PANDA201.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8014,9 +8003,9 @@ MARS201.on("message", message => {
     }
   }
 });
-MARS202.on("message", message => {
+PANDA202.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8032,9 +8021,9 @@ MARS202.on("message", message => {
     }
   }
 });
-MARS203.on("message", message => {
+PANDA203.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8050,9 +8039,9 @@ MARS203.on("message", message => {
     }
   }
 });
-MARS204.on("message", message => {
+PANDA204.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8068,9 +8057,9 @@ MARS204.on("message", message => {
     }
   }
 });
-MARS205.on("message", message => {
+PANDA205.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8086,9 +8075,9 @@ MARS205.on("message", message => {
     }
   }
 });
-MARS206.on("message", message => {
+PANDA206.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8104,9 +8093,9 @@ MARS206.on("message", message => {
     }
   }
 });
-MARS207.on("message", message => {
+PANDA207.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8122,9 +8111,9 @@ MARS207.on("message", message => {
     }
   }
 });
-MARS208.on("message", message => {
+PANDA208.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8140,9 +8129,9 @@ MARS208.on("message", message => {
     }
   }
 });
-MARS209.on("message", message => {
+PANDA209.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8158,9 +8147,9 @@ MARS209.on("message", message => {
     }
   }
 });
-MARS210.on("message", message => {
+PANDA210.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8176,9 +8165,9 @@ MARS210.on("message", message => {
     }
   }
 });
-MARS211.on("message", message => {
+PANDA211.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8194,9 +8183,9 @@ MARS211.on("message", message => {
     }
   }
 });
-MARS212.on("message", message => {
+PANDA212.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8212,9 +8201,9 @@ MARS212.on("message", message => {
     }
   }
 });
-MARS213.on("message", message => {
+PANDA213.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8230,9 +8219,9 @@ MARS213.on("message", message => {
     }
   }
 });
-MARS214.on("message", message => {
+PANDA214.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8248,9 +8237,9 @@ MARS214.on("message", message => {
     }
   }
 });
-MARS215.on("message", message => {
+PANDA215.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8266,9 +8255,9 @@ MARS215.on("message", message => {
     }
   }
 });
-MARS216.on("message", message => {
+PANDA216.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8284,9 +8273,9 @@ MARS216.on("message", message => {
     }
   }
 });
-MARS217.on("message", message => {
+PANDA217.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8302,9 +8291,9 @@ MARS217.on("message", message => {
     }
   }
 });
-MARS218.on("message", message => {
+PANDA218.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8320,9 +8309,9 @@ MARS218.on("message", message => {
     }
   }
 });
-MARS219.on("message", message => {
+PANDA219.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8338,9 +8327,9 @@ MARS219.on("message", message => {
     }
   }
 });
-MARS220.on("message", message => {
+PANDA220.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8356,9 +8345,9 @@ MARS220.on("message", message => {
     }
   }
 });
-MARS221.on("message", message => {
+PANDA221.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8374,9 +8363,9 @@ MARS221.on("message", message => {
     }
   }
 });
-MARS222.on("message", message => {
+PANDA222.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8392,9 +8381,9 @@ MARS222.on("message", message => {
     }
   }
 });
-MARS223.on("message", message => {
+PANDA223.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8410,9 +8399,9 @@ MARS223.on("message", message => {
     }
   }
 });
-MARS224.on("message", message => {
+PANDA224.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8428,9 +8417,9 @@ MARS224.on("message", message => {
     }
   }
 });
-MARS225.on("message", message => {
+PANDA225.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8446,9 +8435,9 @@ MARS225.on("message", message => {
     }
   }
 });
-MARS226.on("message", message => {
+PANDA226.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8464,9 +8453,9 @@ MARS226.on("message", message => {
     }
   }
 });
-MARS227.on("message", message => {
+PANDA227.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8482,9 +8471,9 @@ MARS227.on("message", message => {
     }
   }
 });
-MARS228.on("message", message => {
+PANDA228.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8500,9 +8489,9 @@ MARS228.on("message", message => {
     }
   }
 });
-MARS229.on("message", message => {
+PANDA229.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8518,9 +8507,9 @@ MARS229.on("message", message => {
     }
   }
 });
-MARS230.on("message", message => {
+PANDA230.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8536,9 +8525,9 @@ MARS230.on("message", message => {
     }
   }
 });
-MARS231.on("message", message => {
+PANDA231.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8554,9 +8543,9 @@ MARS231.on("message", message => {
     }
   }
 });
-MARS232.on("message", message => {
+PANDA232.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8572,9 +8561,9 @@ MARS232.on("message", message => {
     }
   }
 });
-MARS233.on("message", message => {
+PANDA233.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8590,9 +8579,9 @@ MARS233.on("message", message => {
     }
   }
 });
-MARS234.on("message", message => {
+PANDA234.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8608,9 +8597,9 @@ MARS234.on("message", message => {
     }
   }
 });
-MARS235.on("message", message => {
+PANDA235.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8626,9 +8615,9 @@ MARS235.on("message", message => {
     }
   }
 });
-MARS236.on("message", message => {
+PANDA236.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8644,9 +8633,9 @@ MARS236.on("message", message => {
     }
   }
 });
-MARS237.on("message", message => {
+PANDA237.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8662,9 +8651,9 @@ MARS237.on("message", message => {
     }
   }
 });
-MARS238.on("message", message => {
+PANDA238.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8680,9 +8669,9 @@ MARS238.on("message", message => {
     }
   }
 });
-MARS239.on("message", message => {
+PANDA239.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8698,9 +8687,9 @@ MARS239.on("message", message => {
     }
   }
 });
-MARS240.on("message", message => {
+PANDA240.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8716,9 +8705,9 @@ MARS240.on("message", message => {
     }
   }
 });
-MARS241.on("message", message => {
+PANDA241.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8734,9 +8723,9 @@ MARS241.on("message", message => {
     }
   }
 });
-MARS242.on("message", message => {
+PANDA242.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8752,9 +8741,9 @@ MARS242.on("message", message => {
     }
   }
 });
-MARS243.on("message", message => {
+PANDA243.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8770,9 +8759,9 @@ MARS243.on("message", message => {
     }
   }
 });
-MARS244.on("message", message => {
+PANDA244.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8788,9 +8777,9 @@ MARS244.on("message", message => {
     }
   }
 });
-MARS245.on("message", message => {
+PANDA245.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8806,9 +8795,9 @@ MARS245.on("message", message => {
     }
   }
 });
-MARS246.on("message", message => {
+PANDA246.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8824,9 +8813,9 @@ MARS246.on("message", message => {
     }
   }
 });
-MARS247.on("message", message => {
+PANDA247.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8842,9 +8831,9 @@ MARS247.on("message", message => {
     }
   }
 });
-MARS248.on("message", message => {
+PANDA248.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8860,9 +8849,9 @@ MARS248.on("message", message => {
     }
   }
 });
-MARS249.on("message", message => {
+PANDA249.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8878,9 +8867,9 @@ MARS249.on("message", message => {
     }
   }
 });
-MARS250.on("message", message => {
+PANDA250.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8896,9 +8885,9 @@ MARS250.on("message", message => {
     }
   }
 });
-MARS251.on("message", message => {
+PANDA251.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8914,9 +8903,9 @@ MARS251.on("message", message => {
     }
   }
 });
-MARS252.on("message", message => {
+PANDA252.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8932,9 +8921,9 @@ MARS252.on("message", message => {
     }
   }
 });
-MARS253.on("message", message => {
+PANDA253.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8950,9 +8939,9 @@ MARS253.on("message", message => {
     }
   }
 });
-MARS254.on("message", message => {
+PANDA254.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8968,9 +8957,9 @@ MARS254.on("message", message => {
     }
   }
 });
-MARS255.on("message", message => {
+PANDA255.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -8986,9 +8975,9 @@ MARS255.on("message", message => {
     }
   }
 });
-MARS256.on("message", message => {
+PANDA256.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9004,9 +8993,9 @@ MARS256.on("message", message => {
     }
   }
 });
-MARS257.on("message", message => {
+PANDA257.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9022,9 +9011,9 @@ MARS257.on("message", message => {
     }
   }
 });
-MARS258.on("message", message => {
+PANDA258.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9040,9 +9029,9 @@ MARS258.on("message", message => {
     }
   }
 });
-MARS259.on("message", message => {
+PANDA259.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9058,9 +9047,9 @@ MARS259.on("message", message => {
     }
   }
 });
-MARS260.on("message", message => {
+PANDA260.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9076,9 +9065,9 @@ MARS260.on("message", message => {
     }
   }
 });
-MARS261.on("message", message => {
+PANDA261.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9094,9 +9083,9 @@ MARS261.on("message", message => {
     }
   }
 });
-MARS262.on("message", message => {
+PANDA262.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9112,9 +9101,9 @@ MARS262.on("message", message => {
     }
   }
 });
-MARS263.on("message", message => {
+PANDA263.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9130,9 +9119,9 @@ MARS263.on("message", message => {
     }
   }
 });
-MARS264.on("message", message => {
+PANDA264.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9148,9 +9137,9 @@ MARS264.on("message", message => {
     }
   }
 });
-MARS265.on("message", message => {
+PANDA265.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9166,9 +9155,9 @@ MARS265.on("message", message => {
     }
   }
 });
-MARS266.on("message", message => {
+PANDA266.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9184,9 +9173,9 @@ MARS266.on("message", message => {
     }
   }
 });
-MARS267.on("message", message => {
+PANDA267.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9202,9 +9191,9 @@ MARS267.on("message", message => {
     }
   }
 });
-MARS268.on("message", message => {
+PANDA268.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9220,9 +9209,9 @@ MARS268.on("message", message => {
     }
   }
 });
-MARS269.on("message", message => {
+PANDA269.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9238,9 +9227,9 @@ MARS269.on("message", message => {
     }
   }
 });
-MARS270.on("message", message => {
+PANDA270.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9256,9 +9245,9 @@ MARS270.on("message", message => {
     }
   }
 });
-MARS271.on("message", message => {
+PANDA271.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9274,9 +9263,9 @@ MARS271.on("message", message => {
     }
   }
 });
-MARS272.on("message", message => {
+PANDA272.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9292,9 +9281,9 @@ MARS272.on("message", message => {
     }
   }
 });
-MARS273.on("message", message => {
+PANDA273.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9310,9 +9299,9 @@ MARS273.on("message", message => {
     }
   }
 });
-MARS274.on("message", message => {
+PANDA274.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9328,9 +9317,9 @@ MARS274.on("message", message => {
     }
   }
 });
-MARS275.on("message", message => {
+PANDA275.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9346,9 +9335,9 @@ MARS275.on("message", message => {
     }
   }
 });
-MARS276.on("message", message => {
+PANDA276.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9364,9 +9353,9 @@ MARS276.on("message", message => {
     }
   }
 });
-MARS277.on("message", message => {
+PANDA277.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9382,9 +9371,9 @@ MARS277.on("message", message => {
     }
   }
 });
-MARS278.on("message", message => {
+PANDA278.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9400,9 +9389,9 @@ MARS278.on("message", message => {
     }
   }
 });
-MARS279.on("message", message => {
+PANDA279.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9418,9 +9407,9 @@ MARS279.on("message", message => {
     }
   }
 });
-MARS280.on("message", message => {
+PANDA280.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9436,9 +9425,9 @@ MARS280.on("message", message => {
     }
   }
 });
-MARS281.on("message", message => {
+PANDA281.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9454,9 +9443,9 @@ MARS281.on("message", message => {
     }
   }
 });
-MARS282.on("message", message => {
+PANDA282.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9472,9 +9461,9 @@ MARS282.on("message", message => {
     }
   }
 });
-MARS283.on("message", message => {
+PANDA283.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9490,9 +9479,9 @@ MARS283.on("message", message => {
     }
   }
 });
-MARS284.on("message", message => {
+PANDA284.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9508,9 +9497,9 @@ MARS284.on("message", message => {
     }
   }
 });
-MARS285.on("message", message => {
+PANDA285.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9526,9 +9515,9 @@ MARS285.on("message", message => {
     }
   }
 });
-MARS286.on("message", message => {
+PANDA286.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9544,9 +9533,9 @@ MARS286.on("message", message => {
     }
   }
 });
-MARS287.on("message", message => {
+PANDA287.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9562,9 +9551,9 @@ MARS287.on("message", message => {
     }
   }
 });
-MARS288.on("message", message => {
+PANDA288.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9580,9 +9569,9 @@ MARS288.on("message", message => {
     }
   }
 });
-MARS289.on("message", message => {
+PANDA289.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9598,9 +9587,9 @@ MARS289.on("message", message => {
     }
   }
 });
-MARS290.on("message", message => {
+PANDA290.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9616,9 +9605,9 @@ MARS290.on("message", message => {
     }
   }
 });
-MARS291.on("message", message => {
+PANDA291.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9634,9 +9623,9 @@ MARS291.on("message", message => {
     }
   }
 });
-MARS292.on("message", message => {
+PANDA292.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9652,9 +9641,9 @@ MARS292.on("message", message => {
     }
   }
 });
-MARS293.on("message", message => {
+PANDA293.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9670,9 +9659,9 @@ MARS293.on("message", message => {
     }
   }
 });
-MARS294.on("message", message => {
+PANDA294.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9688,9 +9677,9 @@ MARS294.on("message", message => {
     }
   }
 });
-MARS295.on("message", message => {
+PANDA295.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9706,9 +9695,9 @@ MARS295.on("message", message => {
     }
   }
 });
-MARS296.on("message", message => {
+PANDA296.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9724,9 +9713,9 @@ MARS296.on("message", message => {
     }
   }
 });
-MARS297.on("message", message => {
+PANDA297.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9742,9 +9731,9 @@ MARS297.on("message", message => {
     }
   }
 });
-MARS298.on("message", message => {
+PANDA298.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9760,9 +9749,9 @@ MARS298.on("message", message => {
     }
   }
 });
-MARS299.on("message", message => {
+PANDA299.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9778,9 +9767,9 @@ MARS299.on("message", message => {
     }
   }
 });
-MARS300.on("message", message => {
+PANDA300.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "wara") {
+  if (message.content === prefix + "panda") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -9813,9 +9802,9 @@ MARS300.on("message", message => {
 // ======= [ StayVoice - MODE END  ] ======== //
 
 // ======= [ RANDOM - AVATAR  ] ======== //
-const marsAVA = "Ava";
-MARS.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+const PANDAAVA = "Ava";
+PANDA.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -9826,13 +9815,15 @@ MARS.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS2.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA2.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -9843,13 +9834,15 @@ MARS2.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS2.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA2.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS3.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA3.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -9860,13 +9853,15 @@ MARS3.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS3.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA3.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS4.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA4.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -9877,13 +9872,15 @@ MARS4.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS4.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA4.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS5.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA5.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -9894,13 +9891,15 @@ MARS5.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS5.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA5.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS6.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA6.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -9911,13 +9910,15 @@ MARS6.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS6.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA6.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS7.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA7.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -9928,48 +9929,15 @@ MARS7.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS7.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA7.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS8.on("message", message => {
-  
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)];
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return; 
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS8.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS9.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)]; 
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return;
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS9.user.setAvatar(randomf); 
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS10.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA8.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -9980,13 +9948,15 @@ MARS10.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS10.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA8.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS11.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA9.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -9997,13 +9967,15 @@ MARS11.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS11.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA9.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS12.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA10.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10014,13 +9986,15 @@ MARS12.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS12.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA10.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS13.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA11.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10031,13 +10005,15 @@ MARS13.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS13.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA11.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS14.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA12.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10048,13 +10024,15 @@ MARS14.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS14.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA12.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS15.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA13.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10065,32 +10043,72 @@ MARS15.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS15.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA13.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS16.on("message", message => {
-  
-
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA14.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
-    data = data + ""; // 
+    data = data + "";
     var lines = data.split("\n");
     let randomf = lines[Math.floor(Math.random() * lines.length)];
     let argresult = message.content
       .split(` `)
       .slice(1)
       .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return; // 
+    if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS16.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA14.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS17.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA15.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA15.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA16.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + ""; //
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return; //
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA16.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA17.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10101,31 +10119,15 @@ MARS17.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return; //
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS17.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-      
+      PANDA17.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS18.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)]; 
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return;
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS18.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS19.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA18.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10136,13 +10138,15 @@ MARS19.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS19.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA18.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS20.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA19.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10153,13 +10157,15 @@ MARS20.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS20.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA19.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS21.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA20.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10170,13 +10176,15 @@ MARS21.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS21.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA20.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS22.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA21.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10187,13 +10195,15 @@ MARS22.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS22.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA21.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS23.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA22.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10204,13 +10214,15 @@ MARS23.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS23.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA22.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS24.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA23.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10221,13 +10233,15 @@ MARS24.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS24.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA23.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS25.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA24.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10238,13 +10252,15 @@ MARS25.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS25.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA24.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS26.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA25.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10255,13 +10271,15 @@ MARS26.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS26.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA25.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS27.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA26.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10272,48 +10290,15 @@ MARS27.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS27.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA26.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS28.on("message", message => {
-  
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)];
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return; 
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS28.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS29.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)]; 
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return;
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS29.user.setAvatar(randomf); 
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS30.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA27.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10324,15 +10309,74 @@ MARS30.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS30.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA27.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
+});
+PANDA28.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA28.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
   });
+});
+PANDA29.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA29.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA30.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA30.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
 
 //////////////////
-MARS31.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA31.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10343,13 +10387,15 @@ MARS31.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS31.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA31.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS32.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA32.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10360,13 +10406,15 @@ MARS32.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS32.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA32.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS33.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA33.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10377,13 +10425,15 @@ MARS33.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS33.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA33.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS34.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA34.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10394,13 +10444,15 @@ MARS34.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS34.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA34.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS35.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA35.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10411,13 +10463,15 @@ MARS35.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS35.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA35.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS36.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA36.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10428,13 +10482,15 @@ MARS36.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS36.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA36.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS37.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA37.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10445,48 +10501,15 @@ MARS37.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS37.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA37.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS38.on("message", message => {
-  
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)];
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return; 
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS38.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS39.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)]; 
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return;
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS39.user.setAvatar(randomf); 
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS40.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA38.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10497,14 +10520,54 @@ MARS40.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS40.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA38.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA39.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA39.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA40.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA40.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
 //////
-MARS41.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA41.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10515,13 +10578,15 @@ MARS41.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS41.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA41.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS42.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA42.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10532,13 +10597,15 @@ MARS42.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS42.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA42.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS43.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA43.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10549,13 +10616,15 @@ MARS43.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS43.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA43.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS44.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA44.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10566,13 +10635,15 @@ MARS44.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS44.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA44.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS45.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA45.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10583,13 +10654,15 @@ MARS45.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS45.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA45.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS46.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA46.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10600,13 +10673,15 @@ MARS46.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS46.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA46.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS47.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA47.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10617,48 +10692,15 @@ MARS47.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS47.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA47.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS48.on("message", message => {
-  
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)];
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return; 
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS48.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS49.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)]; 
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return;
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS49.user.setAvatar(randomf); 
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS50.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA48.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10669,14 +10711,54 @@ MARS50.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS50.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA48.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA49.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA49.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA50.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA50.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
 /////
-MARS51.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA51.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10687,13 +10769,15 @@ MARS51.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS51.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA51.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS52.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA52.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10704,13 +10788,15 @@ MARS52.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS52.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA52.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS53.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA53.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10721,13 +10807,15 @@ MARS53.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS53.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA53.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS54.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA54.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10738,13 +10826,15 @@ MARS54.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS54.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA54.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS55.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA55.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10755,13 +10845,15 @@ MARS55.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS5.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA5.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS56.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA56.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10772,13 +10864,15 @@ MARS56.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS56.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA56.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS57.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA57.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10789,48 +10883,15 @@ MARS57.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS57.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA57.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS58.on("message", message => {
-  
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)];
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return; 
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS58.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS59.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)]; 
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return;
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS59.user.setAvatar(randomf); 
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS60.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA58.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10841,14 +10902,54 @@ MARS60.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS60.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA58.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA59.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA59.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA60.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA60.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
 /////
-MARS61.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA61.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10859,13 +10960,15 @@ MARS61.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS61.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA61.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS62.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA62.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10876,13 +10979,15 @@ MARS62.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS62.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA62.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS63.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA63.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10893,13 +10998,15 @@ MARS63.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS63.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA63.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS64.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA64.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10910,13 +11017,15 @@ MARS64.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS64.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA64.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS65.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA65.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10927,13 +11036,15 @@ MARS65.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS65.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA65.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS66.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA66.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10944,13 +11055,15 @@ MARS66.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS66.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA66.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS67.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA67.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -10961,48 +11074,15 @@ MARS67.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS67.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA67.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS68.on("message", message => {
-  
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)];
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return; 
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS68.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS69.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)]; 
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return;
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS69.user.setAvatar(randomf); 
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS70.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA68.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11013,14 +11093,54 @@ MARS70.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS70.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA68.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA69.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA69.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA70.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA70.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
 /////
-MARS71.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA71.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11031,13 +11151,15 @@ MARS71.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS71.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA71.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS72.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA72.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11048,13 +11170,15 @@ MARS72.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS72.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA72.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS73.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA73.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11065,13 +11189,15 @@ MARS73.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS73.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA73.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS74.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA74.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11082,13 +11208,15 @@ MARS74.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS74.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA74.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS75.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA75.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11099,13 +11227,15 @@ MARS75.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS75.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA75.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS76.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA76.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11116,13 +11246,15 @@ MARS76.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS76.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA76.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS77.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA77.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11133,48 +11265,15 @@ MARS77.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS77.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA77.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS78.on("message", message => {
-  
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)];
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return; 
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS78.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS79.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)]; 
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return;
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS79.user.setAvatar(randomf); 
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS80.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA78.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11185,15 +11284,55 @@ MARS80.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS80.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA78.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA79.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA79.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA80.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA80.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
 
 ////
-MARS81.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA81.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11204,13 +11343,15 @@ MARS81.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS81.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA81.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS82.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA82.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11221,13 +11362,15 @@ MARS82.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS82.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA82.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS83.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA83.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11238,13 +11381,15 @@ MARS83.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS83.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA83.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS84.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA84.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11255,13 +11400,15 @@ MARS84.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS84.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA84.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS85.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA85.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11272,13 +11419,15 @@ MARS85.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS85.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA85.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS86.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA86.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11289,13 +11438,15 @@ MARS86.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS86.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA86.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS87.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA87.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11306,48 +11457,15 @@ MARS87.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS87.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA87.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS88.on("message", message => {
-  
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)];
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return; 
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS88.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS89.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)]; 
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return;
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS89.user.setAvatar(randomf); 
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS90.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA88.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11358,13 +11476,15 @@ MARS90.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS90.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA88.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS91.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA89.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11375,13 +11495,15 @@ MARS91.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS91.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA89.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS92.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA90.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11392,13 +11514,15 @@ MARS92.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS92.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA90.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS93.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA91.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11409,13 +11533,15 @@ MARS93.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS93.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA91.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS94.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA92.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11426,13 +11552,15 @@ MARS94.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS94.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA92.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS95.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA93.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11443,13 +11571,15 @@ MARS95.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS95.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA93.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS96.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA94.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11460,13 +11590,15 @@ MARS96.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS6.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA94.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS97.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA95.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11477,48 +11609,15 @@ MARS97.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS97.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA95.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
-MARS98.on("message", message => {
-  
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)];
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return; 
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS98.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS99.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
-    if (err) throw err;
-    data = data + "";
-    var lines = data.split("\n");
-    let randomf = lines[Math.floor(Math.random() * lines.length)]; 
-    let argresult = message.content
-      .split(` `)
-      .slice(1)
-      .join(" ");
-    if (!dinfo.owner.includes(message.author.id)) return;
-    if (message.content.startsWith(prefix + "randomava")) {
-      MARS99.user.setAvatar(randomf); 
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
-    }
-  });
-});
-MARS100.on("message", message => {
-  fs.readFile(`./${marsAVA}.txt`, function(err, data) {
+PANDA96.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
     if (err) throw err;
     data = data + "";
     var lines = data.split("\n");
@@ -11529,393 +11628,570 @@ MARS100.on("message", message => {
       .join(" ");
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.content.startsWith(prefix + "randomava")) {
-      MARS100.user.setAvatar(randomf);
-      message.channel.send(`**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`);
+      PANDA6.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA97.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA97.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA98.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA98.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA99.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA99.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
+    }
+  });
+});
+PANDA100.on("message", message => {
+  fs.readFile(`./${PANDAAVA}.txt`, function(err, data) {
+    if (err) throw err;
+    data = data + "";
+    var lines = data.split("\n");
+    let randomf = lines[Math.floor(Math.random() * lines.length)];
+    let argresult = message.content
+      .split(` `)
+      .slice(1)
+      .join(" ");
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.content.startsWith(prefix + "randomava")) {
+      PANDA100.user.setAvatar(randomf);
+      message.channel.send(
+        `**بــــەســــەر کــــەوتــــوی وێـــــنـــــەکـــــە گـــۆڕا**`
+      );
     }
   });
 });
 
+/// by PANDA
+
+PANDA.login("NjE2Mjk5OTczNzcxOTE5Mzky.XWakgw.1AB8NQVSh9_LG1ChSjHsaGLoaY");
+PANDA2.login("");
+PANDA3.login("");
+PANDA4.login("");
+PANDA5.login("");
+PANDA6.login("");
+PANDA7.login("");
+PANDA8.login("");
+PANDA9.login("");
+PANDA10.login("");
+PANDA11.login("");
+PANDA12.login("");
+PANDA13.login("");
+PANDA14.login("");
+PANDA15.login("");
+PANDA16.login("");
+PANDA17.login("");
+PANDA18.login("");
+PANDA19.login("");
+PANDA20.login("");
+PANDA21.login("");
+PANDA22.login("");
+PANDA23.login("");
+PANDA24.login("");
+PANDA25.login("");
+PANDA26.login("");
+PANDA27.login("");
+PANDA28.login("");
+PANDA29.login("");
+PANDA30.login("");
+PANDA31.login("");
+PANDA32.login("");
+PANDA33.login("");
+PANDA34.login("");
+PANDA35.login("");
+PANDA36.login("");
+PANDA37.login("");
+PANDA38.login("");
+PANDA39.login("");
+PANDA40.login("");
+PANDA41.login("");
+PANDA42.login("");
+PANDA43.login("");
+PANDA44.login("");
+PANDA45.login("");
+PANDA46.login("");
+PANDA47.login("");
+PANDA48.login("");
+PANDA49.login("");
+PANDA50.login("");
+PANDA51.login("");
+PANDA52.login("");
+PANDA53.login("");
+PANDA54.login("");
+PANDA55.login("");
+PANDA56.login("");
+PANDA57.login("");
+PANDA58.login("");
+PANDA59.login("");
+PANDA60.login("");
+PANDA61.login("");
+PANDA62.login("");
+PANDA63.login("");
+PANDA64.login("");
+PANDA65.login("");
+PANDA66.login("");
+PANDA67.login("");
+PANDA68.login("");
+PANDA69.login("");
+PANDA70.login("");
+PANDA71.login("");
+PANDA72.login("");
+PANDA73.login("");
+PANDA74.login("");
+PANDA75.login("");
+PANDA76.login("");
+PANDA77.login("");
+PANDA78.login("");
+PANDA79.login("");
+PANDA80.login("");
+PANDA81.login("");
+PANDA82.login("");
+PANDA83.login("");
+PANDA84.login("");
+PANDA85.login("");
+PANDA86.login("");
+PANDA87.login("");
+PANDA88.login("");
+PANDA89.login("");
+PANDA90.login("");
+PANDA91.login("");
+PANDA92.login("");
+PANDA93.login("");
+PANDA94.login("");
+PANDA95.login("");
+PANDA96.login("");
+PANDA97.login("");
+PANDA98.login("");
+PANDA99.login("");
+PANDA100.login("");
+PANDA101.login("");
+PANDA102.login("");
+PANDA103.login("");
+PANDA104.login("");
+PANDA105.login("");
+PANDA106.login("");
+PANDA107.login("");
+PANDA108.login("");
+PANDA109.login("");
+PANDA110.login("");
+PANDA111.login("");
+PANDA112.login("");
+PANDA113.login("");
+PANDA114.login("");
+PANDA115.login("");
+PANDA116.login("");
+PANDA117.login("");
+PANDA118.login("");
+PANDA119.login("");
+PANDA120.login("");
+PANDA121.login("");
 
+PANDA122.login("");
 
-/// by mars
-
-MARS.login("NjE2Mjk5OTczNzcxOTE5Mzky.XWakgw.1AB8NQVSh9_LG1ChSjHsaGLoaY");
-MARS2.login("");
-MARS3.login("");
-MARS4.login("");
-MARS5.login("");
-MARS6.login("");
-MARS7.login("");
-MARS8.login("");
-MARS9.login("");
-MARS10.login("");
-MARS11.login("")
-MARS12.login("");
-MARS13.login("");
-MARS14.login("");
-MARS15.login("");
-MARS16.login("");
-MARS17.login("");
-MARS18.login("");
-MARS19.login("");
-MARS20.login("");
-MARS21.login("");
-MARS22.login("");
-MARS23.login("");
-MARS24.login("");
-MARS25.login("");
-MARS26.login("");
-MARS27.login("");
-MARS28.login("");
-MARS29.login("");
-MARS30.login("");
-MARS31.login("");
-MARS32.login("");
-MARS33.login("");
-MARS34.login("");
-MARS35.login("");
-MARS36.login("");
-MARS37.login("");
-MARS38.login("");
-MARS39.login("");
-MARS40.login("");
-MARS41.login("");
-MARS42.login("");
-MARS43.login("");
-MARS44.login("");
-MARS45.login("");
-MARS46.login("");
-MARS47.login("");
-MARS48.login("");
-MARS49.login("");
-MARS50.login("");
-MARS51.login("");
-MARS52.login("");
-MARS53.login("");
-MARS54.login("");
-MARS55.login("");
-MARS56.login("");
-MARS57.login("");
-MARS58.login("");
-MARS59.login("");
-MARS60.login("");
-MARS61.login("");
-MARS62.login("");
-MARS63.login("");
-MARS64.login("");
-MARS65.login("");
-MARS66.login("");
-MARS67.login("");
-MARS68.login("");
-MARS69.login("");
-MARS70.login("");
-MARS71.login("");
-MARS72.login("");
-MARS73.login("");
-MARS74.login("");
-MARS75.login("");
-MARS76.login("");
-MARS77.login("");
-MARS78.login("");
-MARS79.login("");
-MARS80.login("");
-MARS81.login("");
-MARS82.login("");
-MARS83.login("");
-MARS84.login("");
-MARS85.login("");
-MARS86.login("");
-MARS87.login("");
-MARS88.login("");
-MARS89.login("");
-MARS90.login("");
-MARS91.login("");
-MARS92.login("");
-MARS93.login("");
-MARS94.login("");
-MARS95.login("");
-MARS96.login("");
-MARS97.login("");
-MARS98.login("");
-MARS99.login("");
-MARS100.login("");
-MARS101.login("")
-MARS102.login("");
-MARS103.login("");
-MARS104.login("");
-MARS105.login("");
-MARS106.login("");
-MARS107.login("");
-MARS108.login("");
-MARS109.login("");
-MARS110.login("");
-MARS111.login("")
-MARS112.login("");
-MARS113.login("");
-MARS114.login("");
-MARS115.login("");
-MARS116.login("");
-MARS117.login("");
-MARS118.login("");
-MARS119.login("");
-MARS120.login("");
-MARS121.login("")
+PANDA123.login("");
 
-MARS122.login("");
+PANDA124.login("");
 
-MARS123.login("");
+PANDA125.login("");
 
-MARS124.login("");
+PANDA126.login("");
 
-MARS125.login("");
+PANDA127.login("");
 
-MARS126.login("");
+PANDA128.login("");
 
-MARS127.login("");
+PANDA129.login("");
 
-MARS128.login("");
+PANDA130.login("");
 
-MARS129.login("");
+PANDA131.login("");
 
-MARS130.login("");
+PANDA132.login("");
 
-MARS131.login("")
+PANDA133.login("");
 
-MARS132.login("");
+PANDA134.login("");
 
-MARS133.login("");
+PANDA135.login("");
 
-MARS134.login("");
+PANDA136.login("");
 
-MARS135.login("");
+PANDA137.login("");
 
-MARS136.login("");
+PANDA138.login("");
 
-MARS137.login("");
+PANDA139.login("");
 
-MARS138.login("");
+PANDA140.login("");
 
-MARS139.login("");
+PANDA141.login("");
 
-MARS140.login("");
+PANDA142.login("");
 
-MARS141.login("")
+PANDA143.login("");
 
-MARS142.login("");
+PANDA144.login("");
 
-MARS143.login("");
+PANDA145.login("");
 
-MARS144.login("");
+PANDA146.login("");
 
-MARS145.login("");
+PANDA147.login("");
 
-MARS146.login("");
+PANDA148.login("");
 
-MARS147.login("");
+PANDA149.login("");
 
-MARS148.login("");
+PANDA150.login("");
 
-MARS149.login("");
+PANDA151.login("");
 
-MARS150.login("");
+PANDA152.login("");
 
-MARS151.login("")
+PANDA153.login("");
 
-MARS152.login("");
+PANDA154.login("");
 
-MARS153.login("");
+PANDA155.login("");
 
-MARS154.login("");
+PANDA156.login("");
 
-MARS155.login("");
+PANDA157.login("");
 
-MARS156.login("");
+PANDA158.login("");
 
-MARS157.login("");
+PANDA159.login("");
 
-MARS158.login("");
+PANDA160.login("");
 
-MARS159.login("");
+PANDA161.login("");
 
-MARS160.login("");
+PANDA162.login("");
 
-MARS161.login("")
+PANDA163.login("");
 
-MARS162.login("");
+PANDA164.login("");
 
-MARS163.login("");
+PANDA165.login("");
 
-MARS164.login("");
+PANDA166.login("");
 
-MARS165.login("");
+PANDA167.login("");
 
-MARS166.login("");
+PANDA168.login("");
 
-MARS167.login("");
+PANDA169.login("");
 
-MARS168.login("");
+PANDA170.login("");
 
-MARS169.login("");
+PANDA171.login("");
 
-MARS170.login("");
+PANDA172.login("");
 
-MARS171.login("")
+PANDA173.login("");
 
-MARS172.login("");
+PANDA174.login("");
 
-MARS173.login("");
+PANDA175.login("");
 
-MARS174.login("");
+PANDA176.login("");
 
-MARS175.login("");
+PANDA177.login("");
 
-MARS176.login("");
+PANDA178.login("");
 
-MARS177.login("");
+PANDA179.login("");
 
-MARS178.login("");
+PANDA180.login("");
 
-MARS179.login("");
+PANDA181.login("");
 
-MARS180.login("");
+PANDA182.login("");
 
-MARS181.login("")
+PANDA183.login("");
 
-MARS182.login("");
+PANDA184.login("");
 
-MARS183.login("");
+PANDA185.login("");
 
-MARS184.login("");
+PANDA186.login("");
 
-MARS185.login("");
+PANDA187.login("");
 
-MARS186.login("");
+PANDA188.login("");
 
-MARS187.login("");
+PANDA189.login("");
 
-MARS188.login("");
+PANDA190.login("");
 
-MARS189.login("");
+PANDA191.login("");
 
-MARS190.login("");
+PANDA192.login("");
 
-MARS191.login("")
+PANDA193.login("");
 
-MARS192.login("");
+PANDA194.login("");
 
-MARS193.login("");
+PANDA195.login("");
 
-MARS194.login("");
+PANDA196.login("");
 
-MARS195.login("");
+PANDA197.login("");
 
-MARS196.login("");
+PANDA198.login("");
 
-MARS197.login("");
+PANDA199.login("");
 
-MARS198.login("");
+PANDA200.login("");
 
-MARS199.login("");
+PANDA201.login("");
 
-MARS200.login("");
+PANDA202.login("");
 
-MARS201.login("")
+PANDA203.login("");
 
-MARS202.login("");
+PANDA204.login("");
 
-MARS203.login("");
+PANDA205.login("");
 
-MARS204.login("");
+PANDA206.login("");
 
-MARS205.login("");
+PANDA207.login("");
 
-MARS206.login("");
+PANDA208.login("");
 
-MARS207.login("");
+PANDA209.login("");
 
-MARS208.login("");
+PANDA210.login("");
 
-MARS209.login("");
+PANDA211.login("");
 
-MARS210.login("");
+PANDA212.login("");
 
-MARS211.login("")
+PANDA213.login("");
 
-MARS212.login("");
+PANDA214.login("");
 
-MARS213.login("");
+PANDA215.login("");
 
-MARS214.login("");
+PANDA216.login("");
 
-MARS215.login("");
+PANDA217.login("");
 
-MARS216.login("");
+PANDA218.login("");
 
-MARS217.login("");
+PANDA219.login("");
 
-MARS218.login("");
+PANDA220.login("");
 
-MARS219.login("");
+PANDA221.login("");
 
-MARS220.login("");
+PANDA222.login("");
 
-MARS221.login("")
+PANDA223.login("");
 
-MARS222.login("");
+PANDA224.login("");
 
-MARS223.login("");
+PANDA225.login("");
 
-MARS224.login("");
+PANDA226.login("");
 
-MARS225.login("");
+PANDA227.login("");
 
-MARS226.login("");
+PANDA228.login("");
 
-MARS227.login("");
+PANDA229.login("");
 
-MARS228.login("");
+PANDA230.login("");
 
-MARS229.login("");
+PANDA231.login("");
 
-MARS230.login("");
+PANDA232.login("");
 
-MARS231.login("")
+PANDA233.login("");
 
-MARS232.login("");
+PANDA234.login("");
 
-MARS233.login("");
+PANDA235.login("");
 
-MARS234.login("");
+PANDA236.login("");
 
-MARS235.login("");
+PANDA237.login("");
 
-MARS236.login("");
+PANDA238.login("");
 
-MARS237.login("");
+PANDA239.login("");
 
-MARS238.login("");
+PANDA240.login("");
 
-MARS239.login("");
+PANDA241.login("");
 
-MARS240.login("");
+PANDA242.login("");
 
-MARS241.login("")
+PANDA243.login("");
 
-MARS242.login("");
+PANDA244.login("");
 
-MARS243.login("");
+PANDA245.login("");
 
-MARS244.login("");
+PANDA246.login("");
 
-MARS245.login("");
+PANDA247.login("");
 
-MARS246.login("");
+PANDA248.login("");
 
-MARS247.login("");
+PANDA249.login("");
 
-MARS248.login("");
+PANDA250.login("");
 
-MARS249.login("");
+PANDA200.login("");
 
-MARS250.login("");
+PANDA201.login("");
 
+PANDA202.login("");
+
+PANDA203.login("");
+
+PANDA204.login("");
+
+PANDA205.login("");
+
+PANDA206.login("");
+
+PANDA207.login("");
+
+PANDA208.login("");
+
+PANDA209.login("");
+
+PANDA210.login("");
+
+PANDA211.login("");
+
+PANDA212.login("");
+
+PANDA213.login("");
+
+PANDA214.login("");
+
+PANDA215.login("");
+
+PANDA216.login("");
+
+PANDA217.login("");
+
+PANDA218.login("");
+
+PANDA219.login("");
+
+PANDA220.login("");
+
+PANDA221.login("");
+
+PANDA222.login("");
+
+PANDA223.login("");
+
+PANDA224.login("");
+
+PANDA225.login("");
+
+PANDA226.login("");
+
+PANDA227.login("");
+
+PANDA228.login("");
+
+PANDA229.login("");
+
+PANDA230.login("");
+
+PANDA231.login("");
+
+PANDA232.login("");
+
+PANDA233.login("");
+
+PANDA234.login("");
+
+PANDA235.login("");
+
+PANDA236.login("");
+
+PANDA237.login("");
+
+PANDA238.login("");
+
+PANDA239.login("");
+
+PANDA240.login("");
+
+PANDA241.login("");
+
+PANDA242.login("");
+
+PANDA243.login("");
+
+PANDA244.login("");
+
+PANDA245.login("");
+
+PANDA246.login("");
+
+PANDA247.login("");
+
+PANDA288.login("");
+
+PANDA299.login("");
+
+PANDA300.login("");
