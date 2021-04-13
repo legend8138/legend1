@@ -1,7 +1,7 @@
 {
-  "name": "panda",
+  "name": "NeXiSs's Fake Account Project",
   "version": "2.1.0",
-  "description": "300 fake account glitch project by NeXiSs",
+  "description": "500 fake account glitch project by NeXiSs",
   "main": "NeXiSs.js",
   "scripts": {
     "start": "node NeXiSs.js"
