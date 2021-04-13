@@ -264,51 +264,51 @@ const NeXiSs242 = new Discord.Client();
 const NeXiSs243 = new Discord.Client();
 const NeXiSs244 = new Discord.Client();
 const NeXiSs245 = new Discord.Client();
-const PANDA246 = new Discord.Client();
-const PANDA247 = new Discord.Client();
-const PANDA248 = new Discord.Client();
-const PANDA249 = new Discord.Client();
-const PANDA250 = new Discord.Client();
-const PANDA251 = new Discord.Client();
-const PANDA252 = new Discord.Client();
-const PANDA253 = new Discord.Client();
-const PANDA254 = new Discord.Client();
-const PANDA255 = new Discord.Client();
-const PANDA256 = new Discord.Client();
-const PANDA257 = new Discord.Client();
-const PANDA258 = new Discord.Client();
-const PANDA259 = new Discord.Client();
-const PANDA260 = new Discord.Client();
-const PANDA261 = new Discord.Client();
-const PANDA262 = new Discord.Client();
-const PANDA263 = new Discord.Client();
-const PANDA264 = new Discord.Client();
-const PANDA265 = new Discord.Client();
-const PANDA266 = new Discord.Client();
-const PANDA267 = new Discord.Client();
-const PANDA268 = new Discord.Client();
-const PANDA269 = new Discord.Client();
-const PANDA270 = new Discord.Client();
-const PANDA271 = new Discord.Client();
-const PANDA272 = new Discord.Client();
-const PANDA273 = new Discord.Client();
-const PANDA274 = new Discord.Client();
-const PANDA275 = new Discord.Client();
-const PANDA276 = new Discord.Client();
-const PANDA277 = new Discord.Client();
-const PANDA278 = new Discord.Client();
-const PANDA279 = new Discord.Client();
-const PANDA280 = new Discord.Client();
-const PANDA281 = new Discord.Client();
-const PANDA282 = new Discord.Client();
-const PANDA283 = new Discord.Client();
-const PANDA284 = new Discord.Client();
-const PANDA285 = new Discord.Client();
-const PANDA286 = new Discord.Client();
-const PANDA287 = new Discord.Client();
-const PANDA288 = new Discord.Client();
-const PANDA289 = new Discord.Client();
-const PANDA290 = new Discord.Client();
+const NeXiSs246 = new Discord.Client();
+const NeXiSs247 = new Discord.Client();
+const NeXiSs248 = new Discord.Client();
+const NeXiSs249 = new Discord.Client();
+const NeXiSs250 = new Discord.Client();
+const NeXiSs251 = new Discord.Client();
+const NeXiSs252 = new Discord.Client();
+const NeXiSs253 = new Discord.Client();
+const NeXiSs254 = new Discord.Client();
+const NeXiSs255 = new Discord.Client();
+const NeXiSs256 = new Discord.Client();
+const NeXiSs257 = new Discord.Client();
+const NeXiSs258 = new Discord.Client();
+const NeXiSs259 = new Discord.Client();
+const NeXiSs260 = new Discord.Client();
+const NeXiSs261 = new Discord.Client();
+const NeXiSs262 = new Discord.Client();
+const NeXiSs263 = new Discord.Client();
+const NeXiSs264 = new Discord.Client();
+const NeXiSs265 = new Discord.Client();
+const NeXiSs266 = new Discord.Client();
+const NeXiSs267 = new Discord.Client();
+const NeXiSs268 = new Discord.Client();
+const NeXiSs269 = new Discord.Client();
+const NeXiSs270 = new Discord.Client();
+const NeXiSs271 = new Discord.Client();
+const NeXiSs272 = new Discord.Client();
+const NeXiSs273 = new Discord.Client();
+const NeXiSs274 = new Discord.Client();
+const NeXiSs275 = new Discord.Client();
+const NeXiSs276 = new Discord.Client();
+const NeXiSs277 = new Discord.Client();
+const NeXiSs278 = new Discord.Client();
+const NeXiSs279 = new Discord.Client();
+const NeXiSs280 = new Discord.Client();
+const NeXiSs281 = new Discord.Client();
+const NeXiSs282 = new Discord.Client();
+const NeXiSs283 = new Discord.Client();
+const NeXiSs284 = new Discord.Client();
+const NeXiSs285 = new Discord.Client();
+const NeXiSs286 = new Discord.Client();
+const NeXiSs287 = new Discord.Client();
+const NeXiSs288 = new Discord.Client();
+const NeXiSs289 = new Discord.Client();
+const NeXiSs290 = new Discord.Client();
 const NeXiSs291 = new Discord.Client();
 const NeXiSs292 = new Discord.Client();
 const NeXiSs293 = new Discord.Client();
@@ -323,946 +323,88 @@ const help = `NeXiSs`;
 
 
 
-//////////
 
-PANDA.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA2.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA3.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA4.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA5.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA6.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA7.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA8.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA9.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA10.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA11.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA12.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA13.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA14.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA15.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA16.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA17.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA18.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA19.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA20.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA21.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA22.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA23.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA24.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA25.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA51.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA26.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA27.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA28.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA29.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA30.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA31.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA32.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA33.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA34.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA35.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA35.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA37.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA38.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA39.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA40.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA41.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA42.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA43.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA44.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA45.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA46.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA47.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA48.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA49.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA50.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA52.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA53.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA54.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA55.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA56.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA57.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA58.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA59.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA60.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA61.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA62.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA63.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA64.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA65.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA66.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA67.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA68.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA69.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA70.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA71.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA72.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA73.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA74.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA75.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA76.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA77.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA78.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA79.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA80.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA81.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA82.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA83.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA84.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA85.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA86.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA87.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA88.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA89.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA90.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA91.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA92.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA93.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA94.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA95.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA96.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA97.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA98.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA99.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-PANDA100.on("message", message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.toLowerCase() === config.prefix + "yalla") {
-    message.delete(5000);
-    if (!message.channel.guild) return;
-    message.channel.send(help);
-  }
-});
-//////////
-//////////
-//////////
-//////////
-//////////
-//////////
-//////////
-//////////
-//////////
-//////////
-//////////
-//////////
 //////////
 
 // ======= [ MODE - Join Server , add Friend   ] ======== //
-PANDA.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
-PANDA2.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs2.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-PANDA3.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs3.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-PANDA4.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs4.on("message", async message => {
+if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-PANDA5.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs5.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-PANDA6.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs6.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-PANDA7.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs7.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-PANDA8.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs8.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-PANDA9.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs9.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-PANDA10.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs10.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-PANDA11.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs11.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
-PANDA12.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs12.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-PANDA13.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs13.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-PANDA14.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs14.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-PANDA15.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
+NeXiSs15.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-PANDA16.on("message", async message => {
+NeXiSs16.on("message", async message => {
   if (!dinfo.owner.includes(message.author.id)) return;
   if (message.content.startsWith(config.prefix + "friend")) {
     await addFriend(message.content.split(" ").slice(1)[0], message);
