@@ -7348,7 +7348,7 @@ PANDA260.on("message", message => {
 });
 PANDA261.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7363,8 +7363,15 @@ PANDA261.on("message", message => {
       );
     }
   }
+////
+
+
+
+
+
+
 });
-PANDA262.on("message", message => {
+NeXiSs262.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "NeXiSs") {
     if (!(message.author.id)) return;
