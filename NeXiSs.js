@@ -85,18 +85,18 @@ const NeXiSs62 = new Discord.Client();
 const NeXiSs63 = new Discord.Client();
 const NeXiSs64 = new Discord.Client();
 const NeXiSs65 = new Discord.Client();
-const PANDA66 = new Discord.Client();
-const PANDA67 = new Discord.Client();
-const PANDA68 = new Discord.Client();
-const PANDA69 = new Discord.Client();
-const PANDA70 = new Discord.Client();
-const PANDA71 = new Discord.Client();
-const PANDA72 = new Discord.Client();
-const PANDA73 = new Discord.Client();
-const PANDA74 = new Discord.Client();
-const PANDA75 = new Discord.Client();
-const PANDA76 = new Discord.Client();
-const PANDA77 = new Discord.Client();
+const NeXiSs66 = new Discord.Client();
+const NeXiSs67 = new Discord.Client();
+const NeXiSs68 = new Discord.Client();
+const NeXiSs69 = new Discord.Client();
+const NeXiSs70 = new Discord.Client();
+const NeXiSs71 = new Discord.Client();
+const NeXiSs72 = new Discord.Client();
+const NeXiSs73 = new Discord.Client();
+const NeXiSs74 = new Discord.Client();
+const NeXiSs75 = new Discord.Client();
+const NeXiSs76 = new Discord.Client();
+const NeXiSs77 = new Discord.Client();
 const PANDA78 = new Discord.Client();
 const PANDA79 = new Discord.Client();
 const PANDA80 = new Discord.Client();
@@ -328,7 +328,7 @@ PANDA ᑌᑭ
 const err = `** \`\`\`  [ERORR] :   \`\`\`
          \`\` Role.PANDA \`\` **`;
 
-// ======= [ settings JSON   ] ======== //
+//
 //////////
 //////////
 //////////
@@ -337,7 +337,7 @@ const err = `** \`\`\`  [ERORR] :   \`\`\`
 //////////
 //////////
 const dinfo = JSON.parse(fs.readFileSync("./data.json", "UTF8"));
-PANDA.on("message", async msg => {
+NeXiSs.on("message", async msg => {
   if (!msg.guild) return;
   if (msg.author.bot) return;
   if (!dinfo)
