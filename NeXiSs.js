@@ -330,250 +330,250 @@ const help = `NeXiSs`;
 NeXiSs.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs2.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs3.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs4.on("message", async message => {
 if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs5.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs6.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs7.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs8.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs9.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs10.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs11.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs12.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs13.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs14.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs15.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs16.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs17.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs18.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs19.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs20.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs21.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs22.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs23.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs24.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs25.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs26.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs27.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs28.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs29.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs30.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs31.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs32.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs33.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs34.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs35.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs36.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs37.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs38.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs39.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs40.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs41.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs42.on("message", async message => {
@@ -585,287 +585,229 @@ NeXiSs42.on("message", async message => {
 NeXiSs43.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs44.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs45.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs46.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs47.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ")
-.slice(1)[0], message);
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs48.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
 NeXiSs49.on("message", async message => {
  if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+    joinServer(message.content.split(" ")
+.slice(1)[0], message);
   } else return null;
 });
-PANDA50.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs50.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-//////////
-PANDA51.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+// 50 bo 100'min
+NeXiSs51.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
 
-PANDA52.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs52.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA53.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs53.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA54.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs54.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA55.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs55.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA56.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs56.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA57.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs57.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA58.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs58.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA59.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs59.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA60.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs60.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
 ///////
-PANDA61.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs61.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
 
-PANDA62.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs62.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA63.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs63.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA64.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs64.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA65.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs65.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA66.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs66.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA67.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs67.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA68.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs68.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA69.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs69.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA70.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs70.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
 ///////
-PANDA71.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs71.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
 
-PANDA72.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs72.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA73.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs73.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA74.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs74.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA75.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs75.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA76.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs76.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA77.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs77.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA78.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs78.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
-PANDA79.on("message", async message => {
-  if (!dinfo.owner.includes(message.author.id)) return;
-  if (message.content.startsWith(config.prefix + "friend")) {
-    await addFriend(message.content.split(" ").slice(1)[0], message);
-  } else if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
+NeXiSs79.on("message", async message => {
+ if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ")
+               .slice(1)[0], message);
   } else return null;
 });
 PANDA80.on("message", async message => {
