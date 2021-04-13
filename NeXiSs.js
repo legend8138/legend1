@@ -6,7 +6,7 @@ app.get("/", (request, response) => {
 });
 app.listen(process.env.PORT);
 setInterval(() => {
-  http.get(`http://spam-1-20.glitch.me/`);
+  http.get(`http`);
 }, 280000);
 
 //
@@ -17,8 +17,8 @@ const fs = require("fs");
 const cmd = require("node-cmd");
 const config = require("./config.json");
 const prefix = config.prefix;
-
-/////// const by NeXiSs for 100 token ///////
+// ENG : Const For The Tokens OF The 500 Accounts
+// KURD : 500 Const'akay Tokenakan
 
 const NeXiSs = new Discord.Client();
 const NeXiSs2 = new Discord.Client();
@@ -97,53 +97,53 @@ const NeXiSs74 = new Discord.Client();
 const NeXiSs75 = new Discord.Client();
 const NeXiSs76 = new Discord.Client();
 const NeXiSs77 = new Discord.Client();
-const PANDA78 = new Discord.Client();
-const PANDA79 = new Discord.Client();
-const PANDA80 = new Discord.Client();
-const PANDA81 = new Discord.Client();
-const PANDA82 = new Discord.Client();
-const PANDA83 = new Discord.Client();
-const PANDA84 = new Discord.Client();
-const PANDA85 = new Discord.Client();
-const PANDA86 = new Discord.Client();
-const PANDA87 = new Discord.Client();
-const PANDA88 = new Discord.Client();
-const PANDA89 = new Discord.Client();
-const PANDA90 = new Discord.Client();
-const PANDA91 = new Discord.Client();
-const PANDA92 = new Discord.Client();
-const PANDA93 = new Discord.Client();
-const PANDA94 = new Discord.Client();
-const PANDA95 = new Discord.Client();
-const PANDA96 = new Discord.Client();
-const PANDA97 = new Discord.Client();
-const PANDA98 = new Discord.Client();
-const PANDA99 = new Discord.Client();
-const PANDA100 = new Discord.Client();
-const PANDA101 = new Discord.Client();
-const PANDA102 = new Discord.Client();
-const PANDA103 = new Discord.Client();
-const PANDA104 = new Discord.Client();
-const PANDA105 = new Discord.Client();
-const PANDA106 = new Discord.Client();
-const PANDA107 = new Discord.Client();
-const PANDA108 = new Discord.Client();
-const PANDA109 = new Discord.Client();
-const PANDA110 = new Discord.Client();
-const PANDA111 = new Discord.Client();
-const PANDA112 = new Discord.Client();
-const PANDA113 = new Discord.Client();
-const PANDA114 = new Discord.Client();
-const PANDA115 = new Discord.Client();
-const PANDA116 = new Discord.Client();
-const PANDA117 = new Discord.Client();
-const PANDA118 = new Discord.Client();
-const PANDA119 = new Discord.Client();
-const PANDA120 = new Discord.Client();
-const PANDA121 = new Discord.Client();
-const PANDA122 = new Discord.Client();
-const PANDA123 = new Discord.Client();
-const PANDA124 = new Discord.Client();
+const NeXiSs78 = new Discord.Client();
+const NeXiSs79 = new Discord.Client();
+const NeXiSs80 = new Discord.Client();
+const NeXiSs81 = new Discord.Client();
+const NeXiSs82 = new Discord.Client();
+const NeXiSs83 = new Discord.Client();
+const NeXiSs84 = new Discord.Client();
+const NeXiSs85 = new Discord.Client();
+const NeXiSs86 = new Discord.Client();
+const NeXiSs87 = new Discord.Client();
+const NeXiSs88 = new Discord.Client();
+const NeXiSs89 = new Discord.Client();
+const NeXiSs90 = new Discord.Client();
+const NeXiSs91 = new Discord.Client();
+const NeXiSs92 = new Discord.Client();
+const NeXiSs93 = new Discord.Client();
+const NeXiSs94 = new Discord.Client();
+const NeXiSs95 = new Discord.Client();
+const NeXiSs96 = new Discord.Client();
+const NeXiSs97 = new Discord.Client();
+const NeXiSs98 = new Discord.Client();
+const NeXiSs99 = new Discord.Client();
+const NeXiSs100 = new Discord.Client();
+const NeXiSs101 = new Discord.Client();
+const NeXiSs102 = new Discord.Client();
+const NeXiSs103 = new Discord.Client();
+const NeXiSs104 = new Discord.Client();
+const NeXiSs105 = new Discord.Client();
+const NeXiSs106 = new Discord.Client();
+const NeXiSs107 = new Discord.Client();
+const NeXiSs108 = new Discord.Client();
+const NeXiSs109 = new Discord.Client();
+const NeXiSs110 = new Discord.Client();
+const NeXiSs111 = new Discord.Client();
+const NeXiSs112 = new Discord.Client();
+const NeXiSs113 = new Discord.Client();
+const NeXiSs114 = new Discord.Client();
+const NeXiSs115 = new Discord.Client();
+const NeXiSs116 = new Discord.Client();
+const NeXiSs117 = new Discord.Client();
+const NeXiSs118 = new Discord.Client();
+const NeXiSs119 = new Discord.Client();
+const NeXiSs120 = new Discord.Client();
+const NeXiSs121 = new Discord.Client();
+const NeXiSs122 = new Discord.Client();
+const NeXiSs123 = new Discord.Client();
+const NeXiSs124 = new Discord.Client();
 const PANDA125 = new Discord.Client();
 const PANDA126 = new Discord.Client();
 const PANDA127 = new Discord.Client();
@@ -320,22 +320,12 @@ const PANDA297 = new Discord.Client();
 const PANDA298 = new Discord.Client();
 const PANDA299 = new Discord.Client();
 const PANDA300 = new Discord.Client();
-const help = `__**
-PANDA ᑌᑭ
-**__`;
-// dev PANDA
+const help = `NeXiSs`;
 
-const err = `** \`\`\`  [ERORR] :   \`\`\`
-         \`\` Role.PANDA \`\` **`;
 
-//
-//////////
-//////////
-//////////
-//////////
-//////////
-//////////
-//////////
+// ENG : SETTINGS OF THE JSON COMMITEE
+// KURD : Settings'akani JSON 
+
 const dinfo = JSON.parse(fs.readFileSync("./data.json", "UTF8"));
 NeXiSs.on("message", async msg => {
   if (!msg.guild) return;
