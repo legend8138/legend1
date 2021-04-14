@@ -3831,669 +3831,668 @@ PANDA87.on("message", message => {
     }
   }
 });
-PANDA88.on("message", message => {
+NeXiSs88.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA89.on("message", message => {
+NeXiSs89.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA90.on("message", message => {
+NeXiSs90.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-/////
-PANDA91.on("message", message => {
+NeXiSs91.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA92.on("message", message => {
+NeXiSs92.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA93.on("message", message => {
+NeXiSs93.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA94.on("message", message => {
+NeXiSs94.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA95.on("message", message => {
+NeXiSs95.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA96.on("message", message => {
+NeXiSs96.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA97.on("message", message => {
+NeXiSs97.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA98.on("message", message => {
+NeXiSs98.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA99.on("message", message => {
+NeXiSs99.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA100.on("message", message => {
+NeXiSs100.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA101.on("message", message => {
+NeXiSs101.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA102.on("message", message => {
+NeXiSs102.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA103.on("message", message => {
+NeXiSs103.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA104.on("message", message => {
+NeXiSs104.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA105.on("message", message => {
+NeXiSs105.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA106.on("message", message => {
+NeXiSs106.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA107.on("message", message => {
+NeXiSs107.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA108.on("message", message => {
+NeXiSs108.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA109.on("message", message => {
+NeXiSs109.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA110.on("message", message => {
+NeXiSs110.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA111.on("message", message => {
+NeXiSs111.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA112.on("message", message => {
+NeXiSs112.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA113.on("message", message => {
+NeXiSs113.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA114.on("message", message => {
+NeXiSs114.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA115.on("message", message => {
+NeXiSs115.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA116.on("message", message => {
+NeXiSs116.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA117.on("message", message => {
+NeXiSs117.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA118.on("message", message => {
+NeXiSs118.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA119.on("message", message => {
+NeXiSs119.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA120.on("message", message => {
+NeXiSs120.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA121.on("message", message => {
+NeXiSs121.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA122.on("message", message => {
+NeXiSs122.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA123.on("message", message => {
+NeXiSs123.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
 });
-PANDA124.on("message", message => {
+NeXiSs124.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
       message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
+        ""
       );
     }
   }
@@ -5506,7 +5505,7 @@ NeXiSs180.on("message", message => {
     }
   }
 });
-NeXiS181.on("message", message => {
+NeXiSs181.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
@@ -6389,7 +6388,7 @@ NeXiSs229.on("message", message => {
     }
   }
 });
-PANDA230.on("message", message => {
+NeXiSs230.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
@@ -7941,7 +7940,7 @@ NeXiSs270.login("");
 NeXiSs271.login("");
 NeXiSs272.login("");
 NeXiSs273.login("");
-NeXiSs74.login("");
+NeXiSs274.login("");
 NeXiSs275.login("");
 NeXiSs276.login("");
 NeXiSs277.login("");
