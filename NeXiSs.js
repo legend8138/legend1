@@ -9575,83 +9575,1207 @@ NeXiSs400.on("message", message => {
     }
   }
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+NeXiSs401.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs402.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs403.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs404.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs405.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs406.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs407.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs408.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs409.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs410.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs411.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs412.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs413.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs414.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs415.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs416.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs417.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs418.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs419.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs420.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs421.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs422.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs423.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs424.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs425.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs426.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs427.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs428.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs429.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs430.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs431.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs432.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs433.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs434.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs435.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs416.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs417.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs418.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs419.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs420.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs421.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs422.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs423.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs424.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs425.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs426.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs427.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs428.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs429.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs430.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs431.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs432.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs433.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs434.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+
+NeXiSs435.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs436.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs437.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs438.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs439.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs440.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs441.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs442.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs443.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs444.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs445.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs446.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs447.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs448.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs449.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs450.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs451.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs452.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs453.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs454.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs4.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
 
 
 
