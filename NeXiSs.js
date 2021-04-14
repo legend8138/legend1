@@ -17,8 +17,8 @@ const fs = require("fs");
 const cmd = require("node-cmd");
 const config = require("./config.json");
 const prefix = config.prefix;
-// ENG : Const For The Tokens OF The 500 Accounts
-// KURD : 500 Const'akay Tokenakan
+// ENG : Const For The Tokens OF The 300 Accounts
+// KURD : 300 Const'akay Tokenakan
 
 const NeXiSs = new Discord.Client();
 const NeXiSs2 = new Discord.Client();
@@ -322,1852 +322,1549 @@ const NeXiSs299 = new Discord.Client();
 const NeXiSs300 = new Discord.Client();
 const help = `NeXiSs`;
 
-
-
-
 //////////
 
 // Code'y Join Krdni serverakani Dika
 NeXiSs.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs2.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs3.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs4.on("message", async message => {
-if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs5.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs6.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs7.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs8.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs9.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs10.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs11.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs12.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs13.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs14.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs15.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs16.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs17.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs18.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs19.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs20.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs21.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs22.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs23.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs24.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs25.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs26.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs27.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs28.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs29.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs30.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs31.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs32.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs33.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs34.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs35.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs36.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs37.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs38.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs39.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs40.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs41.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs42.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-.slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs43.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs44.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs45.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs46.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs47.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs48.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs49.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-.slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs50.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 // 50 bo 100'min
 NeXiSs51.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs52.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs53.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs54.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs55.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs56.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs57.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs58.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs59.on("message", async message => {
   if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs60.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 ///////
 NeXiSs61.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs62.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs63.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs64.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs65.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs66.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs67.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs68.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs69.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs70.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 ///////
 NeXiSs71.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs72.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs73.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs74.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs75.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs76.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs77.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs78.on("message", async message => {
   if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs79.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs80.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 ///////
 NeXiSs81.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs82.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs83.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
+  if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs84.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs85.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs86.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs87.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs88.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs89.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs90.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs91.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs92.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs93.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs94.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs95.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs96.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs97.on("message", async message => {
   if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs98.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs99.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 // 100 bo 150'min
 
 NeXiSs100.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs101.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs102.on("message", async message => {
   if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs103.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs104.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs105.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs106.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs107.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs108.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs109.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs110.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs111.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs112.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs113.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs114.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs115.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs116.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs117.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs118.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs119.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs120.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs121.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs122.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs123.on("message", async message => {
   if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs124.on("message", async message => {
   if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs125.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs126.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs127.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs128.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs129.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs130.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs131.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs132.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs133.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs134.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs135.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs136.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs137.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs138.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs139.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs140.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs141.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs142.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs143.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs144.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs145.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs146.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs145.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs148.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs149.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs150.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs151.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs152.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs153.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs154.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs155.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs156.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs157.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs158.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs159.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs160.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs161.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs162.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs163.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs164.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs165.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs166.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs167.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs168.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs169.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs170.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs171.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs172.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs173.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs174.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs175.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs176.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs177.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs178.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs179.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs180.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs181.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs182.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs183.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs184.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs185.on("message", async message => {
   if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs186.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs187.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs188.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs189.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs190.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs191.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs192.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs193.on("message", async message => {
   if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs194.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs195.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs196.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs197.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs198.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs199.on("message", async message => {
   if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs200.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs201.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs202.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs203.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs204.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs205.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs206.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs207.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs208.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs209.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs210.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs211.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs212.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs213.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs214.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs215.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs216.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs217.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs218.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs219.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs220.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs221.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs222.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs223.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs224.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs225.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs226.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs227.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs228.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs229.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs230.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs231.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs232.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs233.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs234.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs235.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs236.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs237.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs238.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs239.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs240.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs241.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs242.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs243.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs244.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs245.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs246.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs247.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs248.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs249.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs250.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs251.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
-  
 });
 
 NeXiSs252.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs253.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs254.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs255.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs256.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs257.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs258.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs259.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs260.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs261.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs262.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs263.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs264.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs265.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs266.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs267.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs268.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs269.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs270.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs271.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs272.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs273.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs274.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs275.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs276.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs277.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs278.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs279.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs280.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs281.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs282.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs283.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs284.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs285.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs286.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs287.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs288.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs289.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs290.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs291.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 NeXiSs292.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs293.on("message", async message => {
   if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs294.on("message", async message => {
-   if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs295.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs296.on("message", async message => {
   if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs297.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs298.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs299.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 NeXiSs300.on("message", async message => {
- if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ")
-               .slice(1)[0], message);
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
 
 ////////////////
 
-// ======= [ functions - Join Server , add Friend   ] ======== //
+// 2 function'akay join krdni servery dikaw add nardn bo account
 async function joinServer(invite, message) {
   console.log(invite);
   require("request")(
@@ -2188,9 +1885,7 @@ async function joinServer(invite, message) {
         if (body.message.includes("Unknown Invite"))
           return console.log("[ERROR] - Unkown Invite.");
         if (body.message.includes("banned"))
-          return console.log(
-            "[ERROR] - وەڵا بــــاندیـــان کـــردیمـــــە لـــــەو ســــێرڤـــــەرەی لــــەقــــەبـــرین بــــم."
-          );
+          return console.log("[ERROR] - Ban Krayma Law Server'ada!ا");
         await console.log(`[INFO] - Done.`);
       }
     }
@@ -2230,459 +1925,408 @@ async function addFriend(id, message) {
   }
 }
 
-// ======= [ functions - Join Server , add Friend END  ] ======== //
+// Code'akay Hinany Voice
 
-// ======= [ StayVoice - MODE  ] ======== //
-PANDA.on("message", message => {
+NeXiSs.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA2.on("message", message => {
+NeXiSs2.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA3.on("message", message => {
+NeXiSs3.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA4.on("message", message => {
+NeXiSs4.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA5.on("message", message => {
+NeXiSs5.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA6.on("message", message => {
+NeXiSs6.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA7.on("message", message => {
+NeXiSs7.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA8.on("message", message => {
+NeXiSs8.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA9.on("message", message => {
+NeXiSs9.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA10.on("message", message => {
+NeXiSs10.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA11.on("message", message => {
+NeXiSs11.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA12.on("message", message => {
+NeXiSs12.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return; // جمــيع الحقوق محفوظة لدي "Kahrbaa"
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA13.on("message", message => {
+NeXiSs13.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA14.on("message", message => {
+NeXiSs14.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت!**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA15.on("message", message => {
+NeXiSs15.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت!**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA16.on("message", message => {
+NeXiSs16.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA17.on("message", message => {
+NeXiSs17.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA18.on("message", message => {
+NeXiSs18.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA19.on("message", message => {
+NeXiSs19.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA20.on("message", message => {
+NeXiSs20.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت😁**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA21.on("message", message => {
+NeXiSs21.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
-PANDA22.on("message", message => {
+NeXiSs22.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
 
-PANDA23.on("message", message => {
+NeXiSs23.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
 
-PANDA24.on("message", message => {
+NeXiSs24.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
 
-PANDA25.on("message", message => {
+NeXiSs25.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "panda") {
-    if (!dinfo.owner.includes(message.author.id)) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**😂هـــــاتــــم**!");
+          message.reply("");
         })
         .catch(console.log);
     } else {
-      message.reply(
-        "**😁هـــــەتـــــیوو لـــــە ڤــــۆیــــس نـــــیــــــت**"
-      );
+      message.reply("");
     }
   }
 });
@@ -2690,7 +2334,7 @@ PANDA25.on("message", message => {
 NeXiSs26.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2699,9 +2343,7 @@ NeXiSs26.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2709,7 +2351,7 @@ NeXiSs26.on("message", message => {
 NeXiSs27.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2718,9 +2360,7 @@ NeXiSs27.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2728,7 +2368,7 @@ NeXiSs27.on("message", message => {
 NeXiSs28.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2737,9 +2377,7 @@ NeXiSs28.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2747,7 +2385,7 @@ NeXiSs28.on("message", message => {
 NeXiSs29.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2756,9 +2394,7 @@ NeXiSs29.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2766,7 +2402,7 @@ NeXiSs29.on("message", message => {
 NeXiSs30.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2775,9 +2411,7 @@ NeXiSs30.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2785,7 +2419,7 @@ NeXiSs30.on("message", message => {
 NeXiSs31.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2794,9 +2428,7 @@ NeXiSs31.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2804,7 +2436,7 @@ NeXiSs31.on("message", message => {
 NeXiSs32.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2813,9 +2445,7 @@ NeXiSs32.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2823,7 +2453,7 @@ NeXiSs32.on("message", message => {
 NeXiSs33.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2832,9 +2462,7 @@ NeXiSs33.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2842,7 +2470,7 @@ NeXiSs33.on("message", message => {
 NeXiSs34.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2851,9 +2479,7 @@ NeXiSs34.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2861,7 +2487,7 @@ NeXiSs34.on("message", message => {
 NeXiSs35.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2870,9 +2496,7 @@ NeXiSs35.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2880,7 +2504,7 @@ NeXiSs35.on("message", message => {
 NeXiSs36.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2889,9 +2513,7 @@ NeXiSs36.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2899,7 +2521,7 @@ NeXiSs36.on("message", message => {
 NeXiSs37.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2908,9 +2530,7 @@ NeXiSs37.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2918,7 +2538,7 @@ NeXiSs37.on("message", message => {
 NeXiSs38.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2927,9 +2547,7 @@ NeXiSs38.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2937,7 +2555,7 @@ NeXiSs38.on("message", message => {
 NeXiSs39.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2946,9 +2564,7 @@ NeXiSs39.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2956,7 +2572,7 @@ NeXiSs39.on("message", message => {
 NeXiSs40.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2965,9 +2581,7 @@ NeXiSs40.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2975,7 +2589,7 @@ NeXiSs40.on("message", message => {
 NeXiSs41.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -2984,9 +2598,7 @@ NeXiSs41.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -2994,7 +2606,7 @@ NeXiSs41.on("message", message => {
 NeXiSs42.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3003,9 +2615,7 @@ NeXiSs42.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -3013,7 +2623,7 @@ NeXiSs42.on("message", message => {
 NeXiSs43.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3022,17 +2632,15 @@ NeXiSs43.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 
-NeXISs44.on("message", message => {
+NeXiSs44.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3041,9 +2649,7 @@ NeXISs44.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -3051,7 +2657,7 @@ NeXISs44.on("message", message => {
 NeXiSs45.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3060,9 +2666,7 @@ NeXiSs45.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -3070,7 +2674,7 @@ NeXiSs45.on("message", message => {
 NeXiSs46.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3079,9 +2683,7 @@ NeXiSs46.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -3089,7 +2691,7 @@ NeXiSs46.on("message", message => {
 NeXiSs47.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3098,17 +2700,15 @@ NeXiSs47.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 
 NeXiSs48.on("message", message => {
-   if (!message.guild) return;
+  if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3117,9 +2717,7 @@ NeXiSs48.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -3127,7 +2725,7 @@ NeXiSs48.on("message", message => {
 NeXiSs49.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3136,9 +2734,7 @@ NeXiSs49.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -3146,7 +2742,7 @@ NeXiSs49.on("message", message => {
 NeXiSs50.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3155,9 +2751,7 @@ NeXiSs50.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -3165,7 +2759,7 @@ NeXiSs50.on("message", message => {
 NeXiSs51.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3174,16 +2768,14 @@ NeXiSs51.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs52.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3192,16 +2784,14 @@ NeXiSs52.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs53.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3210,16 +2800,14 @@ NeXiSs53.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs54.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3228,16 +2816,14 @@ NeXiSs54.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs55.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3246,16 +2832,14 @@ NeXiSs55.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs56.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3264,16 +2848,14 @@ NeXiSs56.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs57.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3282,16 +2864,14 @@ NeXiSs57.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs58.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3300,16 +2880,14 @@ NeXiSs58.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs59.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3318,16 +2896,14 @@ NeXiSs59.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs60.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3336,9 +2912,7 @@ NeXiSs60.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -3346,7 +2920,7 @@ NeXiSs60.on("message", message => {
 NeXiSs61.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3355,16 +2929,14 @@ NeXiSs61.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs62.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3373,16 +2945,14 @@ NeXiSs62.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs63.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3391,16 +2961,14 @@ NeXiSs63.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs64.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3409,16 +2977,14 @@ NeXiSs64.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs65.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3427,16 +2993,14 @@ NeXiSs65.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs66.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3445,16 +3009,14 @@ NeXiSs66.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs67.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3463,16 +3025,14 @@ NeXiSs67.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs68.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3481,16 +3041,14 @@ NeXiSs68.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs69.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3499,16 +3057,14 @@ NeXiSs69.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs70.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3517,9 +3073,7 @@ NeXiSs70.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -3527,7 +3081,7 @@ NeXiSs70.on("message", message => {
 NeXiSs71.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3536,16 +3090,14 @@ NeXiSs71.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs72.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3554,16 +3106,14 @@ NeXiSs72.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs73.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3572,16 +3122,14 @@ NeXiSs73.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs74.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3590,16 +3138,14 @@ NeXiSs74.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs75.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3608,16 +3154,14 @@ NeXiSs75.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs76.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3626,16 +3170,14 @@ NeXiSs76.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs77.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3644,16 +3186,14 @@ NeXiSs77.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs78.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3662,16 +3202,14 @@ NeXiSs78.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs79.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3680,16 +3218,14 @@ NeXiSs79.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs80.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3698,16 +3234,14 @@ NeXiSs80.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs81.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3716,16 +3250,14 @@ NeXiSs81.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs82.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3734,16 +3266,14 @@ NeXiSs82.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs83.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3752,16 +3282,14 @@ NeXiSs83.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs84.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3770,16 +3298,14 @@ NeXiSs84.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs85.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3788,16 +3314,14 @@ NeXiSs85.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs86.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3806,16 +3330,14 @@ NeXiSs86.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs87.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3824,16 +3346,14 @@ NeXiSs87.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs88.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3842,16 +3362,14 @@ NeXiSs88.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs89.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3860,16 +3378,14 @@ NeXiSs89.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs90.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3878,16 +3394,14 @@ NeXiSs90.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs91.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3896,16 +3410,14 @@ NeXiSs91.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs92.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3914,16 +3426,14 @@ NeXiSs92.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs93.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3932,16 +3442,14 @@ NeXiSs93.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs94.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3950,16 +3458,14 @@ NeXiSs94.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs95.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3968,16 +3474,14 @@ NeXiSs95.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs96.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -3986,16 +3490,14 @@ NeXiSs96.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs97.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4004,16 +3506,14 @@ NeXiSs97.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs98.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4022,16 +3522,14 @@ NeXiSs98.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs99.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4040,16 +3538,14 @@ NeXiSs99.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs100.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4058,16 +3554,14 @@ NeXiSs100.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs101.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4076,16 +3570,14 @@ NeXiSs101.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs102.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4094,16 +3586,14 @@ NeXiSs102.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs103.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4112,16 +3602,14 @@ NeXiSs103.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs104.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4130,16 +3618,14 @@ NeXiSs104.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs105.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4148,16 +3634,14 @@ NeXiSs105.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs106.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4166,16 +3650,14 @@ NeXiSs106.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs107.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4184,16 +3666,14 @@ NeXiSs107.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs108.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4202,16 +3682,14 @@ NeXiSs108.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs109.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4220,16 +3698,14 @@ NeXiSs109.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs110.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4238,16 +3714,14 @@ NeXiSs110.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs111.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4256,16 +3730,14 @@ NeXiSs111.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs112.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4274,16 +3746,14 @@ NeXiSs112.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs113.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4292,16 +3762,14 @@ NeXiSs113.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs114.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4310,16 +3778,14 @@ NeXiSs114.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs115.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4328,16 +3794,14 @@ NeXiSs115.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs116.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4346,16 +3810,14 @@ NeXiSs116.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs117.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4364,16 +3826,14 @@ NeXiSs117.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs118.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4382,16 +3842,14 @@ NeXiSs118.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs119.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4400,16 +3858,14 @@ NeXiSs119.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs120.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4418,16 +3874,14 @@ NeXiSs120.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs121.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4436,16 +3890,14 @@ NeXiSs121.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs122.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4454,16 +3906,14 @@ NeXiSs122.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs123.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4472,16 +3922,14 @@ NeXiSs123.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs124.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4490,16 +3938,14 @@ NeXiSs124.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs125.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4508,16 +3954,14 @@ NeXiSs125.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs126.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4526,16 +3970,14 @@ NeXiSs126.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs127.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4544,16 +3986,14 @@ NeXiSs127.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs128.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4562,16 +4002,14 @@ NeXiSs128.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs129.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4580,16 +4018,14 @@ NeXiSs129.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs130.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4598,16 +4034,14 @@ NeXiSs130.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs131.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4616,16 +4050,14 @@ NeXiSs131.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs132.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4634,16 +4066,14 @@ NeXiSs132.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs133.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4652,16 +4082,14 @@ NeXiSs133.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs134.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4670,16 +4098,14 @@ NeXiSs134.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs135.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4688,16 +4114,14 @@ NeXiSs135.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs136.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4706,16 +4130,14 @@ NeXiSs136.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs137.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4724,16 +4146,14 @@ NeXiSs137.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs138.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4742,16 +4162,14 @@ NeXiSs138.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs139.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4760,16 +4178,14 @@ NeXiSs139.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs140.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4778,16 +4194,14 @@ NeXiSs140.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs141.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4796,16 +4210,14 @@ NeXiSs141.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs142.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4814,16 +4226,14 @@ NeXiSs142.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs143.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4832,16 +4242,14 @@ NeXiSs143.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs144.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4850,16 +4258,14 @@ NeXiSs144.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs145.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4868,16 +4274,14 @@ NeXiSs145.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs146.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4886,16 +4290,14 @@ NeXiSs146.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs147.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4904,16 +4306,14 @@ NeXiSs147.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs148.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4922,16 +4322,14 @@ NeXiSs148.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs149.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4940,16 +4338,14 @@ NeXiSs149.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs150.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4958,16 +4354,14 @@ NeXiSs150.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs151.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4976,16 +4370,14 @@ NeXiSs151.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs152.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -4994,16 +4386,14 @@ NeXiSs152.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs153.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5012,16 +4402,14 @@ NeXiSs153.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs154.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5030,16 +4418,14 @@ NeXiSs154.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs155.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5048,16 +4434,14 @@ NeXiSs155.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs156.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5066,16 +4450,14 @@ NeXiSs156.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs157.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5084,16 +4466,14 @@ NeXiSs157.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs158.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5102,16 +4482,14 @@ NeXiSs158.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs159.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5120,16 +4498,14 @@ NeXiSs159.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs160.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5138,16 +4514,14 @@ NeXiSs160.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs161.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5156,16 +4530,14 @@ NeXiSs161.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs162.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5174,16 +4546,14 @@ NeXiSs162.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs163.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5192,16 +4562,14 @@ NeXiSs163.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs164.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5210,16 +4578,14 @@ NeXiSs164.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs165.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5228,16 +4594,14 @@ NeXiSs165.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs166.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5246,16 +4610,14 @@ NeXiSs166.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs167.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5264,16 +4626,14 @@ NeXiSs167.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs168.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5282,16 +4642,14 @@ NeXiSs168.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs169.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5300,16 +4658,14 @@ NeXiSs169.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs170.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5318,16 +4674,14 @@ NeXiSs170.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs171.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5336,16 +4690,14 @@ NeXiSs171.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs172.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5354,16 +4706,14 @@ NeXiSs172.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs173.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5372,16 +4722,14 @@ NeXiSs173.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs174.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5390,16 +4738,14 @@ NeXiSs174.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs175.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5408,16 +4754,14 @@ NeXiSs175.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs176.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5426,16 +4770,14 @@ NeXiSs176.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs177.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5444,16 +4786,14 @@ NeXiSs177.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs178.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5462,16 +4802,14 @@ NeXiSs178.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs179.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5480,16 +4818,14 @@ NeXiSs179.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs180.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5498,16 +4834,14 @@ NeXiSs180.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs181.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5516,16 +4850,14 @@ NeXiSs181.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs182.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5534,16 +4866,14 @@ NeXiSs182.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs183.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5552,16 +4882,14 @@ NeXiSs183.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs184.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5570,16 +4898,14 @@ NeXiSs184.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs185.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5588,16 +4914,14 @@ NeXiSs185.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs186.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5606,16 +4930,14 @@ NeXiSs186.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs187.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5624,16 +4946,14 @@ NeXiSs187.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs188.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5642,16 +4962,14 @@ NeXiSs188.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs189.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5660,16 +4978,14 @@ NeXiSs189.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs190.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5678,16 +4994,14 @@ NeXiSs190.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs191.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5696,16 +5010,14 @@ NeXiSs191.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs192.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5714,16 +5026,14 @@ NeXiSs192.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs193.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5732,16 +5042,14 @@ NeXiSs193.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs194.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5750,16 +5058,14 @@ NeXiSs194.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs195.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5768,16 +5074,14 @@ NeXiSs195.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs196.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5786,16 +5090,14 @@ NeXiSs196.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs197.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5804,16 +5106,14 @@ NeXiSs197.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs198.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5822,16 +5122,14 @@ NeXiSs198.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs199.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5840,16 +5138,14 @@ NeXiSs199.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs200.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5858,16 +5154,14 @@ NeXiSs200.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs201.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5876,16 +5170,14 @@ NeXiSs201.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs202.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5894,16 +5186,14 @@ NeXiSs202.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs203.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5912,16 +5202,14 @@ NeXiSs203.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs204.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5930,16 +5218,14 @@ NeXiSs204.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs205.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5948,16 +5234,14 @@ NeXiSs205.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs206.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5966,16 +5250,14 @@ NeXiSs206.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs207.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -5984,16 +5266,14 @@ NeXiSs207.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs208.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6002,16 +5282,14 @@ NeXiSs208.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs209.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6020,16 +5298,14 @@ NeXiSs209.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs210.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6038,9 +5314,7 @@ NeXiSs210.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
@@ -6048,7 +5322,7 @@ NeXiSs211.on("message", message => {
   if (!message.guild) return;
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6057,16 +5331,14 @@ NeXiSs211.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs212.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6075,16 +5347,14 @@ NeXiSs212.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs213.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6093,16 +5363,14 @@ NeXiSs213.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs214.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6111,16 +5379,14 @@ NeXiSs214.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs215.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6129,16 +5395,14 @@ NeXiSs215.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs216.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6147,16 +5411,14 @@ NeXiSs216.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs217.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6165,16 +5427,14 @@ NeXiSs217.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs218.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6183,16 +5443,14 @@ NeXiSs218.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs219.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6201,16 +5459,14 @@ NeXiSs219.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs220.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6219,16 +5475,14 @@ NeXiSs220.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs221.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6237,16 +5491,14 @@ NeXiSs221.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs222.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6255,16 +5507,14 @@ NeXiSs222.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs223.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6273,16 +5523,14 @@ NeXiSs223.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs224.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6291,16 +5539,14 @@ NeXiSs224.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs225.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6309,16 +5555,14 @@ NeXiSs225.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs226.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6327,16 +5571,14 @@ NeXiSs226.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs227.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6345,16 +5587,14 @@ NeXiSs227.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs228.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6363,16 +5603,14 @@ NeXiSs228.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs229.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "NeXiSs") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6381,16 +5619,14 @@ NeXiSs229.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs230.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6399,16 +5635,14 @@ NeXiSs230.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs231.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6417,16 +5651,14 @@ NeXiSs231.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs232.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6435,16 +5667,14 @@ NeXiSs232.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs233.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6453,16 +5683,14 @@ NeXiSs233.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs234.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6471,16 +5699,14 @@ NeXiSs234.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs235.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6489,16 +5715,14 @@ NeXiSs235.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs236.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6507,16 +5731,14 @@ NeXiSs236.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs237.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6525,16 +5747,14 @@ NeXiSs237.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs238.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6543,16 +5763,14 @@ NeXiSs238.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs239.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6561,16 +5779,14 @@ NeXiSs239.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs240.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6579,16 +5795,14 @@ NeXiSs240.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs241.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6597,16 +5811,14 @@ NeXiSs241.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs242.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6615,16 +5827,14 @@ NeXiSs242.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs243.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6633,16 +5843,14 @@ NeXiSs243.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs244.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6651,16 +5859,14 @@ NeXiSs244.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs245.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6669,16 +5875,14 @@ NeXiSs245.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs246.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6687,16 +5891,14 @@ NeXiSs246.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs247.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6705,16 +5907,14 @@ NeXiSs247.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs248.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6723,16 +5923,14 @@ NeXiSs248.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-        );
+      message.reply("");
     }
   }
 });
 NeXiSs249.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6741,16 +5939,14 @@ NeXiSs249.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs250.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6759,16 +5955,14 @@ NeXiSs250.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs251.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6777,16 +5971,14 @@ NeXiSs251.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs252.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6795,16 +5987,14 @@ NeXiSs252.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs253.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6813,16 +6003,14 @@ NeXiSs253.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs254.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6831,16 +6019,14 @@ NeXiSs254.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs255.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6849,16 +6035,14 @@ NeXiSs255.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs256.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6867,16 +6051,14 @@ NeXiSs256.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs257.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6885,16 +6067,14 @@ NeXiSs257.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs258.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6903,16 +6083,14 @@ NeXiSs258.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs259.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6921,16 +6099,14 @@ NeXiSs259.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs260.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6939,16 +6115,14 @@ NeXiSs260.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs261.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6957,23 +6131,15 @@ NeXiSs261.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
-////
-
-
-
-
-
-
+  ////
 });
 NeXiSs262.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "NeXiSs") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -6982,16 +6148,14 @@ NeXiSs262.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs263.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7000,16 +6164,14 @@ NeXiSs263.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs264.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7018,16 +6180,14 @@ NeXiSs264.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs265.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7036,16 +6196,14 @@ NeXiSs265.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs266.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7054,16 +6212,14 @@ NeXiSs266.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs267.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7072,16 +6228,14 @@ NeXiSs267.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs268.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7090,16 +6244,14 @@ NeXiSs268.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs269.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7108,16 +6260,14 @@ NeXiSs269.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs270.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7126,16 +6276,14 @@ NeXiSs270.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs271.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7144,16 +6292,14 @@ NeXiSs271.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs272.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7162,16 +6308,14 @@ NeXiSs272.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs273.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7180,16 +6324,14 @@ NeXiSs273.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs274.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7198,16 +6340,14 @@ NeXiSs274.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs275.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7216,16 +6356,14 @@ NeXiSs275.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs276.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7234,16 +6372,14 @@ NeXiSs276.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs277.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7252,16 +6388,14 @@ NeXiSs277.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs78.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7270,16 +6404,14 @@ NeXiSs78.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs279.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7288,16 +6420,14 @@ NeXiSs279.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs280.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7306,16 +6436,14 @@ NeXiSs280.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs281.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7324,16 +6452,14 @@ NeXiSs281.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs282.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7342,16 +6468,14 @@ NeXiSs282.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs283.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7360,16 +6484,14 @@ NeXiSs283.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs284.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7378,16 +6500,14 @@ NeXiSs284.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs285.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7396,16 +6516,14 @@ NeXiSs285.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs286.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7414,16 +6532,14 @@ NeXiSs286.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs287.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7432,16 +6548,14 @@ NeXiSs287.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-        );
+      message.reply("");
     }
   }
 });
 NeXiSs288.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7450,15 +6564,14 @@ NeXiSs288.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );    }
+      message.reply("");
+    }
   }
 });
 NeXiSs289.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7467,16 +6580,14 @@ NeXiSs289.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs290.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7485,16 +6596,14 @@ NeXiSs290.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs291.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7503,16 +6612,14 @@ NeXiSs291.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs292.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7521,16 +6628,14 @@ NeXiSs292.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs293.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7539,16 +6644,14 @@ NeXiSs293.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs294.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7557,16 +6660,14 @@ NeXiSs294.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs295.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7575,16 +6676,14 @@ NeXiSs295.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs296.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7593,16 +6692,14 @@ NeXiSs296.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs297.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7611,16 +6708,14 @@ NeXiSs297.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs298.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7629,16 +6724,14 @@ NeXiSs298.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs299.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7647,16 +6740,14 @@ NeXiSs299.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 NeXiSs300.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
-    if (!(message.author.id)) return;
+    if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
         .join()
@@ -7665,17 +6756,13 @@ NeXiSs300.on("message", message => {
         })
         .catch(console.log);
     } else {
-      message.reply(
-        ""
-      );
+      message.reply("");
     }
   }
 });
 
-
 // ENG : PUT YOUR ACCOUNTS TOKENS HERE
 // KURD : TOKEN'AKANI ACCOUNTAKANT LERADA DABNE
-
 
 NeXiSs.login("");
 NeXiSs2.login("");
@@ -7685,7 +6772,7 @@ NeXiSs5.login("");
 NeXiSs6.login("");
 NeXiSs7.login("");
 NeXiSs8.login("");
-NeXiSs.login("");
+NeXiSs9.login("");
 NeXiSs10.login("");
 NeXiSs11.login("");
 NeXiSs12.login("");
@@ -7725,7 +6812,7 @@ NeXiSs45.login("");
 NeXiSs46.login("");
 NeXiSs47.login("");
 NeXiSs48.login("");
-NeXiSs49.login("")
+NeXiSs49.login("");
 NeXiSs50.login("");
 NeXiSs51.login("");
 NeXiSs52.login("");
