@@ -6556,7 +6556,7 @@ PANDA216.on("message", message => {
 });
 PANDA217.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6574,7 +6574,7 @@ PANDA217.on("message", message => {
 });
 PANDA218.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6590,9 +6590,9 @@ PANDA218.on("message", message => {
     }
   }
 });
-PANDA219.on("message", message => {
+NeXiSs219.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6608,9 +6608,9 @@ PANDA219.on("message", message => {
     }
   }
 });
-PANDA220.on("message", message => {
+NeXiSs220.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6626,9 +6626,9 @@ PANDA220.on("message", message => {
     }
   }
 });
-PANDA221.on("message", message => {
+NeXiSs221.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6644,9 +6644,9 @@ PANDA221.on("message", message => {
     }
   }
 });
-PANDA222.on("message", message => {
+NeXiSs222.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6662,9 +6662,9 @@ PANDA222.on("message", message => {
     }
   }
 });
-PANDA223.on("message", message => {
+NeXiSs223.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6680,9 +6680,9 @@ PANDA223.on("message", message => {
     }
   }
 });
-PANDA224.on("message", message => {
+NeXiSs224.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6698,9 +6698,9 @@ PANDA224.on("message", message => {
     }
   }
 });
-PANDA225.on("message", message => {
+NeXiSs225.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6716,9 +6716,9 @@ PANDA225.on("message", message => {
     }
   }
 });
-PANDA226.on("message", message => {
+NeXiSs226.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6734,9 +6734,9 @@ PANDA226.on("message", message => {
     }
   }
 });
-PANDA227.on("message", message => {
+NeXiSs227.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6752,9 +6752,9 @@ PANDA227.on("message", message => {
     }
   }
 });
-PANDA228.on("message", message => {
+NeXiSs228.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6770,7 +6770,7 @@ PANDA228.on("message", message => {
     }
   }
 });
-PANDA229.on("message", message => {
+NeXiSs229.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "NeXiSs") {
     if (!(message.author.id)) return;
@@ -6790,7 +6790,7 @@ PANDA229.on("message", message => {
 });
 PANDA230.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6806,9 +6806,9 @@ PANDA230.on("message", message => {
     }
   }
 });
-PANDA231.on("message", message => {
+NeXiSs231.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6824,9 +6824,9 @@ PANDA231.on("message", message => {
     }
   }
 });
-PANDA232.on("message", message => {
+NeXiSs232.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6842,9 +6842,9 @@ PANDA232.on("message", message => {
     }
   }
 });
-PANDA233.on("message", message => {
+NeXiSs233.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6860,9 +6860,9 @@ PANDA233.on("message", message => {
     }
   }
 });
-PANDA234.on("message", message => {
+NeXiSs234.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6878,9 +6878,9 @@ PANDA234.on("message", message => {
     }
   }
 });
-PANDA235.on("message", message => {
+NeXiSs235.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6896,9 +6896,9 @@ PANDA235.on("message", message => {
     }
   }
 });
-PANDA236.on("message", message => {
+NeXiSs236.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6914,9 +6914,9 @@ PANDA236.on("message", message => {
     }
   }
 });
-PANDA237.on("message", message => {
+NeXiSs237.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6932,9 +6932,9 @@ PANDA237.on("message", message => {
     }
   }
 });
-PANDA238.on("message", message => {
+NeXiSs238.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6950,9 +6950,9 @@ PANDA238.on("message", message => {
     }
   }
 });
-PANDA239.on("message", message => {
+NeXiSs239.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6968,9 +6968,9 @@ PANDA239.on("message", message => {
     }
   }
 });
-PANDA240.on("message", message => {
+NeXiSs240.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -6986,9 +6986,9 @@ PANDA240.on("message", message => {
     }
   }
 });
-PANDA241.on("message", message => {
+NeXiSs241.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7004,9 +7004,9 @@ PANDA241.on("message", message => {
     }
   }
 });
-PANDA242.on("message", message => {
+NeXiSs242.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7022,9 +7022,9 @@ PANDA242.on("message", message => {
     }
   }
 });
-PANDA243.on("message", message => {
+NeXiSs243.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7040,9 +7040,9 @@ PANDA243.on("message", message => {
     }
   }
 });
-PANDA244.on("message", message => {
+NeXiSs244.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7058,9 +7058,9 @@ PANDA244.on("message", message => {
     }
   }
 });
-PANDA245.on("message", message => {
+NeXiSs245.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7076,9 +7076,9 @@ PANDA245.on("message", message => {
     }
   }
 });
-PANDA246.on("message", message => {
+NeXiSs246.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7094,9 +7094,9 @@ PANDA246.on("message", message => {
     }
   }
 });
-PANDA247.on("message", message => {
+NeXiSs247.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7112,9 +7112,9 @@ PANDA247.on("message", message => {
     }
   }
 });
-PANDA248.on("message", message => {
+NeXiSs248.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7130,9 +7130,9 @@ PANDA248.on("message", message => {
     }
   }
 });
-PANDA249.on("message", message => {
+NeXiSs249.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7148,9 +7148,9 @@ PANDA249.on("message", message => {
     }
   }
 });
-PANDA250.on("message", message => {
+NeXiSs250.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7166,9 +7166,9 @@ PANDA250.on("message", message => {
     }
   }
 });
-PANDA251.on("message", message => {
+NeXiSs251.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7184,9 +7184,9 @@ PANDA251.on("message", message => {
     }
   }
 });
-PANDA252.on("message", message => {
+NeXiSs252.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7202,9 +7202,9 @@ PANDA252.on("message", message => {
     }
   }
 });
-PANDA253.on("message", message => {
+NeXiSs253.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7220,9 +7220,9 @@ PANDA253.on("message", message => {
     }
   }
 });
-PANDA254.on("message", message => {
+NeXiSs254.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7238,9 +7238,9 @@ PANDA254.on("message", message => {
     }
   }
 });
-PANDA255.on("message", message => {
+NeXiSs255.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7256,9 +7256,9 @@ PANDA255.on("message", message => {
     }
   }
 });
-PANDA256.on("message", message => {
+NeXiSs256.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7274,9 +7274,9 @@ PANDA256.on("message", message => {
     }
   }
 });
-PANDA257.on("message", message => {
+NeXiSs257.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7292,9 +7292,9 @@ PANDA257.on("message", message => {
     }
   }
 });
-PANDA258.on("message", message => {
+NeXiSs258.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7310,9 +7310,9 @@ PANDA258.on("message", message => {
     }
   }
 });
-PANDA259.on("message", message => {
+NeXiSs259.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7328,9 +7328,9 @@ PANDA259.on("message", message => {
     }
   }
 });
-PANDA260.on("message", message => {
+NeXiSs260.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "NeXiSs") {
+  if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -7346,7 +7346,7 @@ PANDA260.on("message", message => {
     }
   }
 });
-PANDA261.on("message", message => {
+NeXiSs261.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
     if (!(message.author.id)) return;
