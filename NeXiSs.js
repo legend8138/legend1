@@ -307,6 +307,81 @@ const NeXiSs297 = new Discord.Client();
 const NeXiSs298 = new Discord.Client();
 const NeXiSs299 = new Discord.Client();
 const NeXiSs300 = new Discord.Client();
+
+// era hawa
+const NeXiSs301 = new Discord.Client();
+const NeXiSs302 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+const NeXiSs300 = new Discord.Client();
+
 const help = `NeXiSs`;
 
 //////////
@@ -6747,11 +6822,103 @@ NeXiSs300.on("message", message => {
     }
   }
 });
+NeXiSs301.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+
+NeXiSs302.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+
+NeXiSs303.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+
+NeXiSs304.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // ENG : PUT YOUR ACCOUNTS TOKENS HERE
 // KURD : TOKEN'AKANI ACCOUNTAKANT LERADA DABNE
 
-NeXiSs.login("");
+NeXiSs1.login("");
 NeXiSs2.login("");
 NeXiSs3.login("");
 NeXiSs4.login("");
@@ -7049,3 +7216,104 @@ NeXiSs297.login("");
 NeXiSs298.login("");
 NeXiSs299.login("");
 NeXiSs300.login("");
+NeXiSs301.login("");
+NeXiSs302.login("");
+NeXiSs303.login("");
+NeXiSs304.login("");
+NeXiSs305.login("");
+NeXiSs306.login("");
+NeXiSs307.login("");
+NeXiSs308.login("");
+NeXiSs309.login("");
+NeXiSs310.login("");
+NeXiSs311.login("");
+NeXiSs312.login("");
+NeXiSs313.login("");
+NeXiSs314.login("");
+NeXiSs315.login("");
+NeXiSs316.login("");
+NeXiSs317.login("");
+NeXiSs318.login("");
+NeXiSs319.login("");
+NeXiSs320.login("");
+NeXiSs321.login("");
+NeXiSs322.login("");
+NeXiSs323.login("");
+NeXiSs324.login("");
+NeXiSs325.login("");
+NeXiSs326.login("");
+NeXiSs327.login("");
+NeXiSs328.login("");
+NeXiSs329.login("");
+NeXiSs330.login("");
+NeXiSs331.login("");
+NeXiSs332.login("");
+NeXiSs333.login("");
+NeXiSs334.login("");
+NeXiSs335.login("");
+NeXiSs336.login("");
+NeXiSs337.login("");
+NeXiSs338.login("");
+NeXiSs339.login("");
+NeXiSs340.login("");
+NeXiSs341.login("");
+NeXiSs342.login("");
+NeXiSs343.login("");
+NeXiSs344.login("");
+NeXiSs345.login("");
+NeXiSs346.login("");
+NeXiSs347.login("");
+NeXiSs348.login("");
+NeXiSs349.login("");
+NeXiSs350.login("");
+NeXiSs351.login("");
+NeXiSs352.login("");
+NeXiSs353.login("");
+NeXiSs353.login("");
+NeXiSs354.login("");
+NeXiSs355.login("");
+NeXiSs356.login("");
+NeXiSs357.login("");
+NeXiSs358.login("");
+NeXiSs359.login("");
+NeXiSs360.login("");
+NeXiSs361.login("");
+NeXiSs362.login("");
+NeXiSs363.login("");
+NeXiSs364.login("");
+NeXiSs365.login("");
+NeXiSs366.login("");
+NeXiSs367.login("");
+NeXiSs368.login("");
+NeXiSs369.login("");
+NeXiSs370.login("");
+NeXiSs371.login("");
+NeXiSs372.login("");
+NeXiSs373.login("");
+NeXiSs374.login("");
+NeXiSs375.login("");
+NeXiSs376.login("");
+NeXiSs377.login("");
+NeXiSs378.login("");
+NeXiSs379.login("");
+NeXiSs380.login("");
+NeXiSs381.login("");
+NeXiSs382.login("");
+NeXiSs383.login("");
+NeXiSs384.login("");
+NeXiSs385.login("");
+NeXiSs386.login("");
+NeXiSs387.login("");
+NeXiSs388.login("");
+NeXiSs389.login("");
+NeXiSs390.login("");
+NeXiSs391.login("");
+NeXiSs392.login("");
+NeXiSs393.login("");
+NeXiSs394.login("");
+NeXiSs395.login("");
+NeXiSs396.login("");
+NeXiSs397.login("");
+NeXiSs398.login("");
+NeXiSs399.login("");
+NeXiSs400.login("");
