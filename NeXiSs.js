@@ -307,80 +307,106 @@ const NeXiSs297 = new Discord.Client();
 const NeXiSs298 = new Discord.Client();
 const NeXiSs299 = new Discord.Client();
 const NeXiSs300 = new Discord.Client();
-
-// era hawa
 const NeXiSs301 = new Discord.Client();
 const NeXiSs302 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
-const NeXiSs300 = new Discord.Client();
+const NeXiSs303 = new Discord.Client();
+const NeXiSs304 = new Discord.Client();
+const NeXiSs305 = new Discord.Client();
+const NeXiSs306 = new Discord.Client();
+const NeXiSs307 = new Discord.Client();
+const NeXiSs308 = new Discord.Client();
+const NeXiSs309 = new Discord.Client();
+const NeXiSs310 = new Discord.Client();
+const NeXiSs311 = new Discord.Client();
+const NeXiSs312 = new Discord.Client();
+const NeXiSs313 = new Discord.Client();
+const NeXiSs314 = new Discord.Client();
+const NeXiSs315 = new Discord.Client();
+const NeXiSs316 = new Discord.Client();
+const NeXiSs317 = new Discord.Client();
+const NeXiSs318 = new Discord.Client();
+const NeXiSs319 = new Discord.Client();
+const NeXiSs320 = new Discord.Client();
+const NeXiSs321 = new Discord.Client();
+const NeXiSs322 = new Discord.Client();
+const NeXiSs323 = new Discord.Client();
+const NeXiSs324 = new Discord.Client();
+const NeXiSs325 = new Discord.Client();
+const NeXiSs326 = new Discord.Client();
+const NeXiSs327 = new Discord.Client();
+const NeXiSs328 = new Discord.Client();
+const NeXiSs329 = new Discord.Client();
+const NeXiSs330 = new Discord.Client();
+const NeXiSs331 = new Discord.Client();
+const NeXiSs332 = new Discord.Client();
+const NeXiSs333 = new Discord.Client();
+const NeXiSs334 = new Discord.Client();
+const NeXiSs335 = new Discord.Client();
+const NeXiSs336 = new Discord.Client();
+const NeXiSs337 = new Discord.Client();
+const NeXiSs338 = new Discord.Client();
+const NeXiSs339 = new Discord.Client();
+const NeXiSs340 = new Discord.Client();
+const NeXiSs341 = new Discord.Client();
+const NeXiSs342 = new Discord.Client();
+const NeXiSs343 = new Discord.Client();
+const NeXiSs344 = new Discord.Client();
+const NeXiSs345 = new Discord.Client();
+const NeXiSs346 = new Discord.Client();
+const NeXiSs347 = new Discord.Client();
+const NeXiSs348 = new Discord.Client();
+const NeXiSs349 = new Discord.Client();
+const NeXiSs350 = new Discord.Client();
+const NeXiSs351 = new Discord.Client();
+const NeXiSs352 = new Discord.Client();
+const NeXiSs353 = new Discord.Client();
+const NeXiSs354 = new Discord.Client();
+const NeXiSs355 = new Discord.Client();
+const NeXiSs356 = new Discord.Client();
+const NeXiSs357 = new Discord.Client();
+const NeXiSs358 = new Discord.Client();
+const NeXiSs359 = new Discord.Client();
+const NeXiSs360 = new Discord.Client();
+const NeXiSs361 = new Discord.Client();
+const NeXiSs362 = new Discord.Client();
+const NeXiSs363 = new Discord.Client();
+const NeXiSs364 = new Discord.Client();
+const NeXiSs365 = new Discord.Client();
+const NeXiSs366 = new Discord.Client();
+const NeXiSs367 = new Discord.Client();
+const NeXiSs368 = new Discord.Client();
+const NeXiSs369 = new Discord.Client();
+const NeXiSs370 = new Discord.Client();
+const NeXiSs371 = new Discord.Client();
+const NeXiSs372 = new Discord.Client();
+const NeXiSs373 = new Discord.Client();
+const NeXiSs374 = new Discord.Client();
+const NeXiSs375 = new Discord.Client();
+const NeXiSs376 = new Discord.Client();
+const NeXiSs377 = new Discord.Client();
+const NeXiSs378 = new Discord.Client();
+const NeXiSs379 = new Discord.Client();
+const NeXiSs380 = new Discord.Client();
+const NeXiSs381 = new Discord.Client();
+const NeXiSs382 = new Discord.Client();
+const NeXiSs383 = new Discord.Client();
+const NeXiSs384 = new Discord.Client();
+const NeXiSs385 = new Discord.Client();
+const NeXiSs386 = new Discord.Client();
+const NeXiSs387 = new Discord.Client();
+const NeXiSs388 = new Discord.Client();
+const NeXiSs389 = new Discord.Client();
+const NeXiSs390 = new Discord.Client();
+const NeXiSs391 = new Discord.Client();
+const NeXiSs392 = new Discord.Client();
+const NeXiSs393 = new Discord.Client();
+const NeXiSs394 = new Discord.Client();
+const NeXiSs395 = new Discord.Client();
+const NeXiSs396 = new Discord.Client();
+const NeXiSs397 = new Discord.Client();
+const NeXiSs398 = new Discord.Client();
+const NeXiSs399 = new Discord.Client();
+const NeXiSs400 = new Discord.Client();
 
 const help = `NeXiSs`;
 
@@ -1877,7 +1903,6 @@ NeXiSs291.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-
 NeXiSs292.on("message", async message => {
   if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
@@ -1923,6 +1948,354 @@ NeXiSs300.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
+NeXiSs301.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs302.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs303.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs304.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs305.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs306.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs307.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs308.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs309.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs310.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs311.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs312.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs313.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs314.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs315.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs316.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs317.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs318.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs319.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs320.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs321.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs322.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs323.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs324.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs325.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs326.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs327.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs328.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs329.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs330.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs331.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs332.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs333.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs334.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs335.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs336.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs337.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs338.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs339.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs340.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs341.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs342.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs343.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs344.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs345.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs346.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs347.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs348.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs349.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs350.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs351.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ////////////////
 
