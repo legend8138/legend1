@@ -11746,6 +11746,170 @@ NeXiSs500.on("message", message => {
     }
   }
 });
+NeXiSs501.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs502.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs503.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs504.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs505.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs506.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+NeXiSs507.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "wara") {
+    if (!message.author.id) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("");
+    }
+  }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // ENG : PUT YOUR ACCOUNTS TOKENS HERE
 // KURD : TOKEN'AKANI ACCOUNTAKANT LERADA DABNE
