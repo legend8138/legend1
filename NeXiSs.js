@@ -3983,56 +3983,6 @@ NeXiSs636.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-NeXiSs627.on("message", async message => {
-  if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-NeXiSs628.on("message", async message => {
-  if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-NeXiSs629.on("message", async message => {
-  if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-NeXiSs630.on("message", async message => {
-  if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-NeXiSs631.on("message", async message => {
-  if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-NeXiSs632.on("message", async message => {
-  if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-NeXiSs633.on("message", async message => {
-  if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-NeXiSs634.on("message", async message => {
-  if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-NeXiSs635.on("message", async message => {
-  if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
-NeXiSs636.on("message", async message => {
-  if (message.content.startsWith(config.prefix + "join")) {
-    joinServer(message.content.split(" ").slice(1)[0], message);
-  } else return null;
-});
 NeXiSs637.on("message", async message => {
   if (message.content.startsWith(config.prefix + "join")) {
     joinServer(message.content.split(" ").slice(1)[0], message);
