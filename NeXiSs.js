@@ -4068,80 +4068,491 @@ NeXiSs643.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+NeXiSs644.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs645.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs646.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs647.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs648.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs649.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs650.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs651.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs652.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs653.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs654.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs655.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs656.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs657.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs658.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs659.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs660.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs661.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs662.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs663.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs664.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs665.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs666.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs667.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs668.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs669.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs670.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs671.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs672.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs673.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs674.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs675.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs676.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs677.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs678.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs679.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs680.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs681.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs682.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs683.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs684.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs685.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs686.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs687.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs688.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs689.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs690.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs691.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs692.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs693.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs694.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs695.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs696.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs697.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs698.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs699.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs700.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs701.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs702.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs703.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs704.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs705.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs706.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs707.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs708.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs709.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs710.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs711.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs712.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs713.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs714.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs715.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs716.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs717.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs718.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs719.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs720.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs721.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs722.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs723.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs724.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs725.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs726.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs727.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs728.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs729.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs730.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs731.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs732.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs733.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs734.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs735.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs736.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs737.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs738.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs739.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs740.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
 
 
 
