@@ -4553,16 +4553,56 @@ NeXiSs740.on("message", async message => {
     joinServer(message.content.split(" ").slice(1)[0], message);
   } else return null;
 });
-
-
-
-
-
-
-
-
-
-
+NeXiSs741.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs742.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs743.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs744.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs745.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs746.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs747.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs748.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs749.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
+NeXiSs750.on("message", async message => {
+  if (message.content.startsWith(config.prefix + "join")) {
+    joinServer(message.content.split(" ").slice(1)[0], message);
+  } else return null;
+});
 ///
 
 // 2 function'akay join krdni servery dikaw add nardn bo account
@@ -16817,7 +16857,11 @@ NeXiSs738.on("message", message => {
         })
         .catch(console.log);
     } else {
-      mNeXiSs739.on("message", message => {
+      message.reply("");
+    }
+  }
+});
+ NeXiSs739.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
     if (!message.author.id) return;
@@ -16830,9 +16874,6 @@ NeXiSs738.on("message", message => {
         .catch(console.log);
     } else {
       message.reply("");
-    }
-  }
-});essage.reply("");
     }
   }
 });
