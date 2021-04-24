@@ -17008,14 +17008,14 @@ NeXiSs750.on("message", message => {
 // ENG : PUT YOUR ACCOUNTS TOKENS HERE
 // KURD : TOKEN'AKANI ACCOUNTAKANT LERADA DABNE
 
-NeXiSs.login("");
-NeXiSs2.login("");
-NeXiSs3.login("");
-NeXiSs4.login("");
-NeXiSs5.login("");
-NeXiSs6.login("");
-NeXiSs7.login("");
-NeXiSs8.login("");
+NeXiSs.login("ODM1MTE0NDAwNTAzMTY5MDk1.YIKvVg.MfKueqwy4vk3i04QzxpbSZX40S4");
+NeXiSs2.login("ODM1MTE2NzUzMDU0NzI4MjAz.YIKxWg.kntiGq4agdETCXNt6Ui0v9v2vEw");
+NeXiSs3.login("ODM1MTE2MTg1OTM4MTY1NzYw.YIKw7A.Y2oyzJpPG9OKSVKe51SC4mWDxio");
+NeXiSs4.login("ODM1MTE1MDg0NTI3MTczNjUy.YIKv2A.iA88ptLMDdZfgNwHLp1euwixsX4");
+NeXiSs5.login("ODM1MTE3MTgyMjA3MTMxNjY4.YIKx_A.ClU5wFuPVnrKRQvhNTDdCW2Cgzg");
+NeXiSs6.login("ODM1MTEzNjk1NDE4Nzc3NjIx.YIKung.ly62VE7XZ1ubGPIm-h6jOrhZ1jI");
+NeXiSs7.login("ODM1MTEyMzg3MTk5NzYyNDQy.YIKtpg.WkfpYmOQo5Um-wdIBC-atTYsskY");
+NeXiSs8.login("ODM1MTExODg4NDgzNjQ3NTE5.YIKs5g.QtkA26RP3FHsobMgzAaAuQ63EoY");
 NeXiSs9.login("");
 NeXiSs10.login("");
 NeXiSs11.login("");
