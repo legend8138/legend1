@@ -15961,7 +15961,8 @@ NeXiSs685.on("message", message => {
       message.reply("");
     }
   }
-});NeXiSs686.on("message", message => {
+});
+NeXiSs686.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
     if (!message.author.id) return;
@@ -16811,7 +16812,7 @@ NeXiSs738.on("message", message => {
     }
   }
 });
- NeXiSs739.on("message", message => {
+NeXiSs739.on("message", message => {
   if (!message.guild) return;
   if (message.content === prefix + "wara") {
     if (!message.author.id) return;
@@ -17016,20 +17017,20 @@ NeXiSs5.login("ODM1MTE3MTgyMjA3MTMxNjY4.YIKx_A.ClU5wFuPVnrKRQvhNTDdCW2Cgzg");
 NeXiSs6.login("ODM1MTEzNjk1NDE4Nzc3NjIx.YIKung.ly62VE7XZ1ubGPIm-h6jOrhZ1jI");
 NeXiSs7.login("ODM1MTEyMzg3MTk5NzYyNDQy.YIKtpg.WkfpYmOQo5Um-wdIBC-atTYsskY");
 NeXiSs8.login("ODM1MTExODg4NDgzNjQ3NTE5.YIKs5g.QtkA26RP3FHsobMgzAaAuQ63EoY");
-NeXiSs9.login("");
-NeXiSs10.login("");
-NeXiSs11.login("");
-NeXiSs12.login("");
-NeXiSs13.login("");
-NeXiSs14.login("");
-NeXiSs15.login("");
-NeXiSs16.login("");
-NeXiSs17.login("");
-NeXiSs18.login("");
-NeXiSs19.login("");
-NeXiSs20.login("");
-NeXiSs21.login("");
-NeXiSs22.login("");
+NeXiSs9.login("ODM1MTExMzQ4NzI2NzkyMjEy.YIKsaA.UxczlMXM7C0mqykvj5T7QQ1QsNA");
+NeXiSs10.login("ODM1MTEwNzMxMTM3NTQ4MzA4.YIKryw.NgaYvWcqNvtmxwPJebjM834Y9z8");
+NeXiSs11.login("ODM1MTA5OTg5MjI3ODIzMTY1.YIKrKw.WFFioPbprapO5_ZqjLk969m1hD0");
+NeXiSs12.login("ODM1MTA5MzU4ODI3OTk1MTQ2.YIKqmQ.Szeee3wy5M-HHUgcL17e0x0oyN0");
+NeXiSs13.login("ODM1MTA4OTAwOTY5NjQ0MDkz.YIKqDw.jLlwYvrK7MzuaOX91ydr4zXeT8U");
+NeXiSs14.login("ODM1MTA4MDQ2OTMyODAzNjA0.YIKpmQ.UvlR2hZuIME9kmTDHS0QT4WRXb4");
+NeXiSs15.login("ODM1MTA3NTk2MzU1NjMzMTgy.YIKo1A.oGR-tpyauqTF0LreGOGjGZtujns");
+NeXiSs16.login("ODM1MTA2OTg3NDUyNTMwNjk5.YIKobA.b5Koxbc7fL50v24ZdLzyP1rv0aU");
+NeXiSs17.login("ODM1MTA2MjEwODc2NDg5Nzg4.YIKnwA.8IsckqdqQXO9QUcdtq1AnZpgSW0");
+NeXiSs18.login("ODM1MTA1NzExNDE4NTA3Mjcz.YIKnFQ.wIPq8BktQesaFB-c3sgiv25tP_0");
+NeXiSs19.login("ODM1MTA1MDY3NTAxMDkyODc1.YIKmnQ.o2kFCPjnj_X_x2M91A0dT01LwcY");
+NeXiSs20.login("ODM1MTA0MjE4MDY2OTc2ODE4.YIKl5A.gW_c157evlqHp-7BJiGS8RSBNYM");
+NeXiSs21.login("ODM1MTAzNDkzMTkwNTgyMjg0.YIKlFw.LrhgozpuWFrRHEbMGJOldU-fkz0");
+NeXiSs22.login("ODM1MTAzNDkzMTkwNTgyMjg0.YIKlFw.LrhgozpuWFrR");
 NeXiSs23.login("");
 NeXiSs24.login("");
 NeXiSs25.login("");
